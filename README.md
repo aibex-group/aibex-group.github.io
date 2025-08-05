@@ -1,4 +1,4 @@
-# AIDOS Lab
+# AIBEX Group
 
 Preliminary website for the AIBEX group at UniFR.
 
