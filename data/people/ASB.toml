@@ -1,0 +1,9 @@
+name    = "Anna Scius-Bertrand"
+job     = "Postdoctoral Researcher"
+image   = "anonymous.svg"
+bio     = """\
+          Short bio
+          """
+github  = ""
+orcid   = ""
+web = ""

@@ -1,0 +1,64 @@
+baseURL       = "http://aibex.ch/"
+languageCode  = "en-gb"
+title         = "AIBEX Group"
+theme         = "brevis"
+enableGitInfo = false
+favicon = true
+
+[params]
+  description = "Website of the AIBEX group, an international lab of researchers interested in ..."
+  googleTagID = "G-Z7H79RP4BR"
+
+ignoreFiles = ['publications.md$']
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+  [markup.goldmark.extensions]
+    typographer = true
+
+  [markup.tableOfContents]
+    endLevel = 3
+
+[[menu.main]]
+  name    = "Welcome"
+  pageRef = "/"
+  weight  = -150
+
+[[menu.main]]
+  name    = "People"
+  pageRef = "/people"
+  weight  = -90
+
+[[menu.main]]
+  name    = "Research"
+  pageRef = "/research"
+  weight  = -80
+
+[[menu.main]]
+  name    = "Theses"
+  pageRef = "/theses"
+  weight  = -80
+
+[[menu.main]]
+  name    = "Get In Touch"
+  pageRef = "/contact"
+  weight  = -70
+
+[[menu.main]]
+  name   = "Projects"
+  url    = "/projects/"
+  weight = -70
+
+# Ditto (see above), but for the footer.
+[params.footer.logos]
+  text = """
+  <a href="https://www.unifr.ch"><img src="/signet_unifr.svg" height="32" alt="University of Fribourg" /></a>
+"""
+
+[params.footer.license]
+  text = """
+All external logos are copyrighted and may not be used without
+express permission.
+"""

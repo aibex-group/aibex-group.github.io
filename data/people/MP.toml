@@ -1,0 +1,9 @@
+name    = "Marco Peer"
+job     = "Postdoctoral Researcher"
+image   = "mp.jpg"
+bio     = """\
+          Short bio
+          """
+github  = "marco-peer"
+orcid   = "0000-0001-6843-0830"
+web = "https://marco-peer.github.io/"

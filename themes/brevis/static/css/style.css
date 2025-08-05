@@ -1,0 +1,462 @@
+@font-face{
+    font-family: 'Fira Sans';
+    src:
+      local('Fira Sans Light'),
+      local('FiraSans-Light'),
+      url('/fonts/FiraSans-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style:  normal;
+}
+
+@font-face{
+    font-family: 'Fira Sans';
+    src:
+      local('Fira Sans'),
+      local('FiraSans-Regular'),
+      url('/fonts/FiraSans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style:  normal;
+}
+
+@font-face{
+    font-family: 'Fira Sans';
+    src:
+      local('Fira Sans Italic'),
+      local('FiraSans-Italic'),
+      url('/fonts/FiraSans-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style:  italic;
+}
+
+@font-face{
+    font-family: 'Fira Sans';
+    src:
+      local('Fira Sans Bold'),
+      local('FiraSans-Bold'),
+      url('/fonts/FiraSans-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style:  normal;
+}
+
+html
+{
+  font-size: large;
+  overflow-y: scroll;
+
+  /* Not sure how to solve this more elegantly; but it ensures that the
+   * navigation bar does not cut off any anchors */
+  scroll-padding-top: 5em;
+}
+
+body
+{
+  line-height:  1.6;
+  color:        #444;
+  background:   #f2f2f2;
+
+  text-align:   justify;
+
+  margin:       0;
+  padding:      0;
+
+  font-family: 'Fira Sans', sans-serif;
+
+  /*
+   * Horrifying in-line SVG, but it works. See:
+   * https://heropatterns.com/
+   */
+
+background-color: #eeeeee;
+background-image: url("data:image/svg+xml,%3Csvg width='84' height='48' viewBox='0 0 84 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h12v6H0V0zm28 8h12v6H28V8zm14-8h12v6H42V0zm14 0h12v6H56V0zm0 8h12v6H56V8zM42 8h12v6H42V8zm0 16h12v6H42v-6zm14-8h12v6H56v-6zm14 0h12v6H70v-6zm0-16h12v6H70V0zM28 32h12v6H28v-6zM14 16h12v6H14v-6zM0 24h12v6H0v-6zm0 8h12v6H0v-6zm14 0h12v6H14v-6zm14 8h12v6H28v-6zm-14 0h12v6H14v-6zm28 0h12v6H42v-6zm14-8h12v6H56v-6zm0-8h12v6H56v-6zm14 8h12v6H70v-6zm0 8h12v6H70v-6zM14 24h12v6H14v-6zm14-8h12v6H28v-6zM14 8h12v6H14V8zM0 8h12v6H0V8z' fill='%23ffffff' fill-opacity='0.56' fill-rule='evenodd'/%3E%3C/svg%3E");
+
+    header
+{
+  padding:        10px;
+  border-bottom:  1px solid lightgray;
+  position:       fixed;
+  top:            0;
+  width:          100%;
+  background:     #f2f2f2;
+}
+
+table
+{
+  line-height:  1.0;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+main
+{
+  max-width:  40em;
+  margin:     5% auto;
+  min-height: 40em;
+  padding:    5em;
+  border:     1px solid lightgray;
+  background: #f2f2f2;
+}
+
+figure
+{
+  margin: 5% auto;
+}
+
+figure.center
+{
+  text-align: center;
+}
+
+figure.person img
+{
+  border-radius: 50%;
+}
+
+figure.publication
+{
+  margin-left : auto;
+  margin-right: auto;
+}
+
+figcaption
+{
+  font-weight: 300;
+}
+
+h1, h2, h3
+{
+  line-height: 1.2
+}
+
+h1
+{
+  font-size:     2.0em;
+  margin-top:    1.0em;
+  margin-bottom: 1.0em;
+}
+
+h2
+{
+  font-size:     1.5em;
+  margin-top:    0.5em;
+  margin-bottom: 0.5em;
+}
+
+#logos ul
+{
+  list-style-type:  none;
+  padding-left:     0px;
+  margin:           0;
+  overflow:         hidden;
+  width:            100%;
+  display:          inline;
+}
+
+#logos li
+{
+  display: inline;
+}
+
+/* Improve spacing between normal list items */
+li
+{
+  margin: 0.50em 0 0 0;
+}
+
+/* no extra spacing for lists in the navigation bar */
+#menu ul
+{
+  padding: 0;
+  margin: 0;
+}
+
+/* no blocks for list items */
+#menu li
+{
+  display: inline;
+}
+
+#menu a
+{
+  padding-top:     20px;
+  padding-right:   20px;
+  text-transform:  uppercase;
+  text-decoration: none;
+  font-size:       1.5rem;
+}
+
+#menu a:hover
+{
+  text-decoration: underline;
+}
+
+footer
+{
+  padding:     10px;
+  border-top:  1px solid lightgray;
+  padding-top: 0.5em;
+  background:  #f2f2f2;
+}
+
+#footer-logos
+{
+  margin:     1% auto;
+  text-align: center;
+}
+
+#footer-text
+{
+  width: 100%;
+  margin: 1% auto;
+}
+
+.people-card-container
+{
+  display        : flex;
+  max-width      : 100%;
+  margin         : auto;
+  flex-wrap      : wrap;
+  row-gap        : 1em;
+  column-gap     : 1em;
+  align-content  : center;
+  justify-content: center;
+}
+
+.card-title
+{
+  font-size  : 1.0rem;
+  font-weight: bold; 
+  margin-bottom: 3px;
+}
+
+.card-venue
+{
+  font-size: 1.0rem;
+}
+
+/* Categories on the profile card (Twitter etc.) */
+.card-category
+{
+  font-weight:    bold; 
+  text-transform: uppercase;
+}
+
+.card-job
+{
+  font-style: italic;
+  font-size:  smaller;
+}
+
+.card-bio, .card-summary
+{
+  clear:       both;
+  padding-top: 1em;
+  font-size:   smaller;
+}
+
+.card-summary
+{
+  font-size: 0.90rem;
+}
+
+.card-profiles dt, .card-profiles dd
+{
+  display  : block;
+  float    : left;
+  font-size: smaller;
+  display: flex;
+}
+
+.card-references
+{
+  font-size  : small;
+  padding-top: 0.5em;
+}
+
+.card-profiles dt
+{
+  clear: left;
+  width: 10%;
+}
+
+.card-tool 
+{
+  display: flex;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  flex-wrap  : wrap;
+}
+
+.tool-left {
+  flex: 3; /* 30% of the width */
+  padding: 10px;
+}
+
+.tool-right {
+  flex: 7; /* 70% of the width */
+  justify-content: space-between; /* Ensures spacing between text and icons */
+  align-items: center;
+  padding: 10px;
+}
+
+.tool-title-container {
+  display: flex;
+  align-items: center; /* Align items vertically */
+  justify-content: space-between; /* Ensures spacing between text and icons */
+  width: 100%;
+}
+
+.tool-title {
+  font-size  : 1.50rem;
+  font-weight: bold; 
+  /*font-size: larger;*/
+  flex: 4; /* Takes up 80% of the space */
+}
+
+.tool-icons {
+  flex: 1; /* Takes up 20% of the space */
+  display: flex;
+  justify-content: space-around; /* Evenly space icons */
+}
+
+.wiki-toc
+{
+  display: flex;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  flex-wrap  : wrap;
+}
+
+/* Stops any superscripts from ruining our lines */
+sup
+{
+    line-height: 0;
+}
+
+time
+{
+  font-weight: bold;
+}
+
+#toc
+{
+  padding:        10px;
+  border-bottom:  1px solid lightgray;
+  border-top:     1px solid lightgray;
+}
+
+@media (max-width: 960px)
+{
+  nav li, #TableOfContents li, #logos li
+  {
+    display: block;
+  }
+
+  nav li
+  {
+    padding-left: 1em;
+  }
+
+  /* Ensures that the header does not overlap with the content */
+  header
+  {
+    position: relative;
+    padding: 0px;
+  }
+
+  
+  th, td
+  {
+    display: block;
+    width:   100%;
+  }
+
+  main
+  {
+    padding: 1em;
+  }
+}
+
+@media only screen and (max-width: 690px) {
+  .card-tool {
+    display: block;
+  }
+  .tool-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+article.news
+{
+  margin-bottom: 1em;
+}
+
+ul.card-icons 
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.card-icons img 
+{
+  width: 16px; 
+}
+
+ul.card-icons li 
+{
+  display: inline;
+  margin: 0; 
+}
+
+.card-person 
+{
+  width: 200px; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.card-person a 
+{
+  text-decoration: none;
+}
+
+/*
+ * Styling publication lists
+ */
+
+.publications ul
+{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.publications li
+{
+  padding: 0.5em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+  gap: 10px; /* Space between images */
+  max-width: 100%;
+  margin: auto;
+  justify-content: center; /* Extra centering insurance */
+}
+
+.project-column a {
+  display: block; /* Ensures the link fills the grid cell */
+  width: 100%;
+  height: 100%;
+}
+
+.project-column img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

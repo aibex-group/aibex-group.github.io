@@ -1,0 +1,8 @@
+# `news.toml`: News items to display on the main page. Just add a new
+# key, format it correctly (YYYY-MM-DD), and you are set. The *value*
+# attached to your key supports Markdown directly.
+
+2025-07-11 = """
+  🎉 Our work on text alignment has been accepted to the [VisionDocs Workshop](https://sites.google.com/view/avml-lab-visiondocs-iccv2025/) at ICCV2025!  🎉
+"""
+

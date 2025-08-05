@@ -1,0 +1,9 @@
+name    = "Andreas Fischer"
+job     = "Principal Investigator"
+image   = "af.jpg"
+bio     = """\
+          Short bio
+          """
+github  = "andreas-fischer-unifr"
+orcid   = "0000-0003-0069-3436"
+web = ""
