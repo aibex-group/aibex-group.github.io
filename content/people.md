@@ -2,21 +2,33 @@
 title: "People"
 ---
 
-# People
+# Professor
 
 <div class="people-card-container">
     {{< person "AF" >}}
-    {{< person "MJ" >}}
+</div>
+
+# Senior Researchers
+<div class="people-card-container">
+    {{< person "ASB" >}}
     {{< person "MP" >}}
 </div>
 
-# Collaborators
+# PhD Candidates
 
 <div class="people-card-container">
-    {{< person "ASB" >}}
+    {{< person "MJ" >}}
+    {{< person "Ray" >}}
+    {{< person "CZ" >}}
 </div>
 
-Your name is missing here! Learn more about [joining us]({{< relref "/contact" >}}).
+
+
+# Student Assistents
+
+<div class="people-card-container">
+    {{< person "AG" >}}
+</div>
 
 <!-- 
 # Alumni & Alumnae

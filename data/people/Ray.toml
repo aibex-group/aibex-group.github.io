@@ -1,0 +1,8 @@
+name    = "Ðình Dũng Văn"
+job     = "PhD Candidate"
+image   = "anonymous.svg"
+bio     = """\
+          Short bio
+          """
+web = "https://daw.philhist.unibas.ch/de/personen/dinh-dung-van/"
+mail = "dinhdung.van@unibas.ch"

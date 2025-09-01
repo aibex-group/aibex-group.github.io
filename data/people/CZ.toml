@@ -1,0 +1,8 @@
+name    = "Christoph Zaugg"
+job     = "PhD Candidate"
+image   = "zaugg.jpg"
+bio     = """\
+          Short bio
+          """
+orcid   = ""
+web = "https://www.zhaw.ch/de/ueber-uns/person/zght"

@@ -1,11 +1,25 @@
 <header>
-  <div>
-    <nav id="menu">
+  <div class="site-header">
+    <!-- Logos section -->
+    <div class="logos-section">
+      <div class="logo-left">
+        <img src="{{ "aibex_logo-hirsch.svg" | absURL }}" alt="AIBEX Logo">
+        <span>AIBEX</span>
+      </div>
+      
+      
+      <div class="logo-right">
+        <img src="{{ "unifr-logo.png" | absURL }}" alt="Partner Logo">
+      </div>
+    </div>
+    
+    <!-- Menu section -->
+    <div class="menu-section">
       <ul>
-      {{- range site.Menus.main }}
-        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-      {{ end }}
+        {{ range site.Menus.main }}
+          <li><a href="{{ .URL }}">{{ .Name | safeHTML }}</a></li>
+        {{ end }}
       </ul>
-    </nav>
+    </div>
   </div>
 </header>

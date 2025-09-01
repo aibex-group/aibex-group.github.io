@@ -1,6 +1,8 @@
 name    = "Marco Peer"
 job     = "Postdoctoral Researcher"
 image   = "mp.jpg"
+mail = "marco.peer@hefr.ch"
+office = "D402"
 bio     = """\
           Short bio
           """
