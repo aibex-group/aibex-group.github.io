@@ -40,7 +40,7 @@ ignoreFiles = ['publications.md$']
   name    = "Student Projects"
   pageRef = "/theses"
   weight  = -80
-  
+
 [[menu.main]]
   name   = "Research Projects"
   url    = "/projects/"
