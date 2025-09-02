@@ -15,13 +15,13 @@ Existing datasets in related work present limitations: some are **small** (e.g.,
 
 ## Methodology
 1. **Literature Review** – Examine current approaches in writer identification, style extraction, and semantic feature modeling  
-2. **Implementation** – Develop a pipeline combining Handwritten Text Recognition (HTR) with semantic analysis for writer identification  
-3. **Evaluation** – Benchmark the pipeline on the DODIS dataset, with optional comparison to IAM and CVL datasets  
+2. **Implementation** – Implementation of semantic analysis/writing style extraction for writer identification  
+3. **Evaluation** – Benchmark the pipeline on the DODIS dataset, with optional comparison to other datasets in related work
 4. **Reporting** – Produce the final thesis, presentation, and optional publication  
 
 ## Skills Required
 - Proficiency in Python programming  
 - Experience with deep learning frameworks (preferably PyTorch)  
-- Interest in historical document analysis, handwriting recognition, and natural language processing (NLP)
+- Interest in historical document analysis and natural language processing
 
 Created: 01.09.2025
