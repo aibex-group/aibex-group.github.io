@@ -1,9 +1,16 @@
+:root {
+  --bg: #f1ddbf;
+  --mainbg: #ffffff;
+  --menu: #DA291C;
+  --mainhover: white;
+}
+
 @font-face{
     font-family: 'Fira Sans';
     src:
       local('Fira Sans Light'),
       local('FiraSans-Light'),
-      url('/fonts/CrimsonText-Light.woff2') format('woff2');
+      url('/fonts/CrimsonText-Regular.woff') format('woff');
     font-weight: 300;
     font-style:  normal;
 }
@@ -13,7 +20,7 @@
     src:
       local('Fira Sans'),
       local('FiraSans-Regular'),
-      url('/fonts/CrimsonText-Regular.woff2') format('woff2');
+      url('/fonts/CrimsonText-Regular.woff') format('woff');
     font-weight: 400;
     font-style:  normal;
 }
@@ -23,7 +30,7 @@
     src:
       local('Fira Sans Italic'),
       local('FiraSans-Italic'),
-      url('/fonts/CrimsonText-Italic.woff2') format('woff2');
+      url('/fonts/CrimsonText-Italic.woff') format('woff');
     font-weight: 400;
     font-style:  italic;
 }
@@ -33,7 +40,7 @@
     src:
       local('Fira Sans Bold'),
       local('FiraSans-Bold'),
-      url('/fonts/CrimsonText-Bold.woff2') format('woff2');
+      url('/fonts/CrimsonText-Bold.woff') format('woff');
     font-weight: 700;
     font-style:  normal;
 }
@@ -52,39 +59,13 @@ body
 {
   line-height:  1.6;
   color:        #444;
-  background:   #f2f2f2;
-
   text-align:   justify;
-
   margin:       0;
   padding:      0;
-
   font-family: 'Fira Sans', sans-serif;
-
-  /*
-   * Horrifying in-line SVG, but it works. See:
-   * https://heropatterns.com/
-   */
-
-background-color: #eeeeee;
-/* background-image: url("data:image/svg+xml,%3Csvg width='84' height='48' viewBox='0 0 84 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h12v6H0V0zm28 8h12v6H28V8zm14-8h12v6H42V0zm14 0h12v6H56V0zm0 8h12v6H56V8zM42 8h12v6H42V8zm0 16h12v6H42v-6zm14-8h12v6H56v-6zm14 0h12v6H70v-6zm0-16h12v6H70V0zM28 32h12v6H28v-6zM14 16h12v6H14v-6zM0 24h12v6H0v-6zm0 8h12v6H0v-6zm14 0h12v6H14v-6zm14 8h12v6H28v-6zm-14 0h12v6H14v-6zm28 0h12v6H42v-6zm14-8h12v6H56v-6zm0-8h12v6H56v-6zm14 8h12v6H70v-6zm0 8h12v6H70v-6zM14 24h12v6H14v-6zm14-8h12v6H28v-6zM14 8h12v6H14V8zM0 8h12v6H0V8z' fill='%23ffffff' fill-opacity='0.56' fill-rule='evenodd'/%3E%3C/svg%3E"); */
-/* background-image: url(../background.jpg); */
-  /* Dims the image *//* background-color:red; */
+  background-image: url("/background-eiger.jpeg"); /* single source of truth */
 }
-/* 
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url("../background2.png");
-  background-size: cover;
-  background-position: center;
-  z-index: -1;
-  opacity: 0.8; /* Control the dimming here */
-/* }  */
+
 
 
 header
@@ -94,7 +75,7 @@ header
   position:       fixed;
   top:            0;
   width:          100%;
-  background:     #f2f2f2;
+  background:     var(--mainbg);
 }
 
 table
@@ -111,7 +92,7 @@ main
   min-height: 40em;
   padding:    5em;
   border:     1px solid lightgray;
-  background: #f2f2f2;
+  background-color: var(--mainbg);
 }
 
 figure
@@ -178,7 +159,6 @@ h2
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #fff;
   padding: 15px 30px;
   border-bottom: 1px solid #ddd;
 }
@@ -223,7 +203,7 @@ h2
 .menu-section {
   display: flex;
   align-items: stretch;
-  background: #b00;
+  background: var(--menu);
   margin: 0;
   width: 100%;
   min-height: 50px;
@@ -244,9 +224,9 @@ h2
 .menu-section li {
   display: flex;
   align-items: center;
-  background: #b00;
+  background: var(--menu);
   transition: background-color 0.3s ease;
-  border-right: 1px solid #900;
+  border-right: 1px solid var(--menu);
 }
 
 .menu-section li:last-child { 
@@ -254,7 +234,7 @@ h2
 }
 
 .menu-section li:hover {
-  background: #fff;
+  background: var(--mainhover);
 }
 
 .menu-section a {
@@ -270,7 +250,7 @@ h2
 }
 
 .menu-section li:hover a {
-  color: #b00;
+  color: var(--menu);
 }
 
 /* Responsive adjustments */

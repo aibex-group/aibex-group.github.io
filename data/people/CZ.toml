@@ -5,4 +5,5 @@ bio     = """\
           Short bio
           """
 orcid   = ""
+mail = "christoph.zaugg@unifr.ch"
 web = "https://www.zhaw.ch/de/ueber-uns/person/zght"

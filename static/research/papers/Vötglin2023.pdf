@@ -1,0 +1,293 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"
+      lang="fr"
+      xml:lang="fr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Language" content="fr"/>
+    <title>DIVA-DAF : - ArODES</title>
+    
+    <link rev="made" href="mailto:arodes@hes-so.ch"/>
+    
+        
+    
+    <link rel="stylesheet" href="/img/lightgallery.min.css?0ecaf59cd1b7e19f2a7b34683d32068c">
+
+    <link rel="stylesheet" href="/img/invenio.css?ea6637e0c2f15670bd461f4d9432effb" type="text/css"/>
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="/img/invenio-ie7.css" />
+    <![endif]-->
+    <!--[if gt IE 8]>
+    <style type="text/css">div.restrictedflag {filter:none;}</style>
+    <![endif]-->
+      <link rel="canonical" href="https://arodes.hes-so.ch/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf" />
+  <link rel="alternate" hreflang="fr" href="https://arodes.hes-so.ch/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?ln=fr" />
+  <link rel="alternate" hreflang="en" href="https://arodes.hes-so.ch/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?ln=en" />
+  <link rel="alternate" hreflang="de" href="https://arodes.hes-so.ch/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?ln=de" />
+
+    <link rel="alternate" type="application/rss+xml" title="ArODES RSS"
+          href="https://arodes.hes-so.ch/rss"/>
+    <link rel="search" type="application/opensearchdescription+xml"
+          href="https://arodes.hes-so.ch/opensearchdescription"
+          title="ArODES"/>
+    <link rel="unapi-server" type="application/xml" title="unAPI" href="https://arodes.hes-so.ch/unapi"/>
+    
+    <meta name="description" content="Deep learning methods have shown strong performance in solving tasks for historical document image analysis. However, despite current libraries and frameworks, programming an experiment or a set of experiments and executing them can be time-consuming. This is why we propose an open-source deep learning framework, DIVA-DAF, which is based on PyTorch Lightning and specifically designed for historical document analysis. Pre-implemented tasks such as segmentation and classification can be easily used or customized. It is also easy to create one’s own tasks with the benefit of powerful modules for loading data, even large data sets, and different forms of ground truth. The applications conducted have demonstrated time savings for the programming of a document analysis task, as well as for different scenarios such as pre-training or changing the architecture. Thanks to its data module, the framework also allows to reduce the time of model training significantly.
+Vötglin, Lars; Scius-Bertrand, Anna; Maergner, Paul; Fischer, Andreas; Ingold, Rolf"/>
+    <meta name="keywords" content="deep learning framework, document image analysis, historical documents, deep neural networks"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+        
+    
+    
+    <script type="text/javascript" src="/js/jquery.min.js?e6c2415c0ace414e5153670314ce99a9"></script>
+    <script type="text/javascript" src="/js/jquery-migrate.min.js?7121994eec5320fbe6586463bf9651c2"></script>
+    <script type="text/javascript" src="/js/jquery-ui.min.js?1e2047978946a1d271356d0b557a84a3"></script>
+    
+    <!--  Insert any configs that are required in the JS files  -->
+    <script type="text/javascript">
+        var bibformatThumbnailFullPreview = false;
+        
+        window.translations_hash_names_reverse_lookup = {"af": "af.e622fdd12ac58ab2a4cf10fb943c38c4.json", "ar": "ar.json", "bg": "bg.json", "ca": "ca.json", "cs": "cs.4826123038e384e0a7b24ae6a56d22fc.json", "de": "de.json", "el": "el.json", "en": "en.json", "es": "es.8e4673bef1eeb44c2e7fb5f3227c28b3.json", "fa": "fa.json", "fr": "fr.json", "gl": "gl.19082758c5eae798d6783aefcea39867.json", "hr": "hr.fb6f08033f976a2fbc7c0527cd3bcbd2.json", "hu": "hu.adf31a80d6de2fadb14db615895af27f.json", "it": "it.d67ecd593397215dd244f19991e55b24.json", "ja": "ja.ee1f9b7ee619ab27aae4102e642b32c2.json", "ka": "ka.json", "lt": "lt.json", "messages": "messages.json", "no": "no.7904c0a2316f2f62ccf5b0f6d02fa50e.json", "pl": "pl.08ed92e8c82dade42a6772309c86169e.json", "pt": "pt.json", "ro": "ro.json", "ru": "ru.json", "rw": "rw.403b683b616ac36adae78c16fb910315.json", "sk": "sk.4129d4de9853a94e8742033d0dd488e5.json", "sv": "sv.720e3d775f2762feb9bab4ed64651c63.json", "uk": "uk.json", "zh_CN": "zh_CN.json", "zh_TW": "zh_TW.9ba10a8f8f24ce97235cfcd43bcad2fc.json"};
+    </script>
+    <script type="text/javascript" src="/js/tind.js?c9473da90f6fdc9400532b585e5bfab4"></script>
+
+    <link rel="stylesheet" type="text/css" href="/img/select2.min.css?9f54e6414f87e0d14b9e966f19a174f9">
+    <link rel="stylesheet" type="text/css" href="/img/select2-bootstrap.min.css?b8ec8e1bea84f6c51fcbbc184a2982fc">
+    <script type="text/javascript" src="/js/select2.full.min.js?d53e9f5d63ed6e33dd7c368b85851658"></script>
+
+    <script type="module" src="/js/tinduicomponents/tinduicomponents/tinduicomponents.esm.js?f6b3a44179268c34ecfd477bb3aa6e52"></script>
+    <script type="text/javascript" src="/js/pdfjs-2.9.359/build/pdf.js"></script>
+    <script type="text/javascript">
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "/js/pdfjs-2.9.359/build/pdf.worker.js";
+    </script>
+    
+    
+    
+    
+</head>
+<body class="search">
+<!--The first interactive element should be a link to the main content.-->
+<div class="go-to-main-content">
+    <a tabindex="0" href="#main-content">Go to main content</a>
+</div>
+
+<!-- Preload Stencil elements that should load instantaneously -->
+<div style="display: none;">
+    <tindui-spinner></tindui-spinner>
+    <tindui-bibrecord-thumbnail></tindui-bibrecord-thumbnail>
+    <tindui-progressbar></tindui-progressbar>
+    
+    <tindui-app-advanced-search></tindui-app-advanced-search>
+    
+</div>
+
+<div class="pageheader" role="navigation">
+    <!-- replaced page header -->
+    <div class="headerbox headerlogo" role="menubar">
+        <div class="topleftmenu-wrapper">
+            <ul class="menu neutrallist" role="menu" aria-label="Language menu">
+                <li class="topleftmenu headermoduleboxbody mobile-menu-accordion" role="menuitem"><div class="hassubmenu"><span class="langinfo headerspan" tabindex="0">Français</span><ul class="subsubmenu"><li role="menuitem" class="langoption" data-ln="en"><a href="/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?ln=en">English</a></li><li role="menuitem" class="langoption" data-ln="de"><a href="/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?ln=de">Deutsch</a></li></ul></div></li>
+            </ul>
+        </div>
+
+        <a class="menu-toggle" href="#">
+            <span class="menu-icon"><i class="fa fa-fw fa-bars"></i></span>
+        </a>
+        <ul class="menu topmenu neutrallist" style="display:none;" role="presentation">
+            <li class="headermoduleboxbodyselected mobile-menu-accordion">
+                <a class="headerselected"
+                   href="/?ln=fr" role="menuitem">Recherche</a>
+            </li>
+            
+            
+            
+            
+            
+            
+                
+                    
+                    <li class="headermoduleboxbody mobile-menu-accordion"  tabindex="0">
+                        <a class="header" href="/pages/?page=about&ln=fr">
+                            A propos d'ArODES
+                        </a>
+                    </li>
+                
+            
+            
+
+            
+            <li id="lang-mobile-select" class="headermoduleboxbody mobile-menu-accordion"><div class="hassubmenu"><span class="langinfo headerspan" tabindex="0">Français</span><ul class="subsubmenu"><li role="menuitem" class="langoption" data-ln="en"><a href="/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?ln=en">English</a></li><li role="menuitem" class="langoption" data-ln="de"><a href="/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?ln=de">Deutsch</a></li></ul></div></li>
+            
+
+            <li id="userinfo-mobile" class="headermoduleboxbody mobile-menu-accordion"><i class="user-icon"></i><span class="account"></span><span class="separator"></span>
+                   <a class="userinfo logout" href="https://arodes.hes-so.ch/youraccount/login?ln=fr&amp;referer=https%3A//arodes.hes-so.ch/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf%3F" role="menuitem">identification</a></li>
+        </ul>
+        <div class="userinfoboxbody">
+            <i class="user-icon"></i><span class="account"></span><span class="separator"></span>
+                   <a class="userinfo logout" href="https://arodes.hes-so.ch/youraccount/login?ln=fr&amp;referer=https%3A//arodes.hes-so.ch/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf%3F" role="menuitem">identification</a>
+        </div>
+    </div>
+    <table class="navtrailbox">
+        <tr>
+            <td class="navtrailboxbody">
+                <a href="/?ln=fr" class="navtrail">Accueil</a> &gt; <a href="/collection/Conference%20Materials?ln=fr" class="navtrail">Documents de conférences</a> &gt; <a class="navtrail" href="https://arodes.hes-so.ch/record/13143">DIVA-DAF :</a>
+                                           &gt; Accès aux Fichiers
+            </td>
+        </tr>
+    </table>
+    <!-- end replaced page header -->
+    
+</div>
+
+<div class="headerboxbodylogo-wrapper">
+    
+        
+    
+    <div class="headerboxbodylogo scrolled">
+        <h1 class="logo-wrapper">
+            
+                <a class="header-link has-img" aria-label="Homepage link - ArODES"
+                    
+                        href="/?ln=fr"
+                    >
+                    <img class="header-img" src="/img/main_logo.svg" alt="ArODES"/>
+                </a>
+            
+        </h1>
+    </div>
+</div>
+
+
+
+
+<div class="pagebody"><div class="pagebodystripemiddle">
+        <div class="detailedrecordbox">
+                <div class="detailedrecordtabs">
+            <div>
+                <ul class="detailedrecordtabs"><li class="first"><a href="https://arodes.hes-so.ch/record/13143/">Informations  </a></li><li class="on"><a href="https://arodes.hes-so.ch/record/13143/files">Fichiers  </a></li></ul>
+            <div id="tabsSpacer" style="clear:both;height:0px">&nbsp;</div></div>
+        </div>
+        <div class="detailedrecordboxcontent">
+            <div class="top-left-folded"></div>
+            <div class="top-right-folded"></div>
+            <div class="inside">
+                <!--<div style="height:0.1em;">&nbsp;</div>
+                <p class="notopgap">&nbsp;</p>-->
+                <div id="detailedrecordshortreminder">
+                             <div id="clip">&nbsp;</div>
+                             <div id="HB">
+                                 <strong><a href="/record/13143?ln=fr"><div class='clearfix'>DIVA-DAF : a deep learning framework for historica[...]</div></a></strong>
+ - <a href="/search?p=author%3A%5BV%C3%B6tglin%2C%20Lars%5D&amp;ln=fr">Vötglin, Lars</a> <em>et al</em>
+
+
+
+
+
+                             </div>
+                         </div>
+                         <div style="clear:both;height:1px">&nbsp;</div>
+                         
+                <!--start file list-->
+                  <small><b>Main</b> fichier(s):</small><ul class='neutrallist'><table border="0" cellspacing="1" class="searchbox">
+                   
+                   <tr>
+                     <td align="left" colspan="2" class="portalboxheader">
+                       <img src='https://arodes.hes-so.ch/img/smallfiles.gif' border="0" />&nbsp;&nbsp;Scius-Bertrand_2023_DIVA.DAF
+                     </td>
+                   </tr><tr>
+                        <td class="portalboxheader">
+                          <font size="-2">version 1</font>
+                        </td>
+                        <td>
+                          <table>
+                        <tr>
+                    <td valign="top">
+                      <small><a href="https://arodes.hes-so.ch/record/13143/files/Scius-Bertrand_2023_DIVA.DAF.pdf?version=1">Scius-Bertrand_2023_DIVA.DAF.pdf</a></small>
+                    </td>
+                    <td valign="top">
+                      <font size="-2" color="green">[1.78 MB]</font>
+                      <font size="-2"><em>07 Nov 2023, 09:24</em>
+                      
+                    </td>
+                    <td valign="top"><em>Published version</em></td>
+                    </tr></table></td></tr></table></ul>
+                <!--end file list-->
+              
+            <div class="bottom-left-folded"></div>
+            <div class="bottom-right-folded" style="text-align:right;padding-bottom:2px;">
+                <span class="moreinfo" style="margin-right:10px;"><a href="/search?p=recid%3A13143&amp;rm=wrd&amp;ln=fr" class="moreinfo">Notices similaires</a></span></div>
+          </div>
+      </div>
+    </div>
+    <br/>
+    </div></div><footer class="pagefooter row" role="contentinfo">
+    
+
+    
+        <div id="botmiddle_links" class="col-sm-8 col-sm-offset-2"><a href='mailto:arodes@hes-so.ch'>arodes@hes-so.ch</a></div>
+    
+
+    
+        <div id="tindfooter" class="col-sm-2">
+            <a class="tindfooterlink" href="http://tind.io/" target="_blank">Powered by <strong>TIND</strong></a>
+        </div>
+    
+
+    <script src="/js/lightgallery.min.js?ddf3eb0893125d35cccb7ffab635ab1e"></script>
+    <script src="/js/lg-autoplay.min.js?e19b8897c2c73a00b0c377707038bb03"></script>
+    <script src="/js/lg-fullscreen.min.js?4abea06c34d9752ab7a2de1977bc0949"></script>
+    <script src="/js/lg-hash.min.js?b171c32acc647d760c4ed3ce1ab0c0ff"></script>
+    <script src="/js/lg-pager.min.js?d5385283f020def8c791dc72c67160d9"></script>
+    <script src="/js/lg-share.min.js?8f8f324b16c8dc8556c7c769f6616df2"></script>
+    <script src="/js/lg-thumbnail.min.js?8e13ac6ffdd9056fb69a881e8c0b9fe8"></script>
+    <script src="/js/lg-video.min.js?a8eb679340f0bf4fe8691cb9bceea9bd"></script>
+    <script src="/js/lg-zoom.min.js?c93eeb6d6482ac9d126cb7ebac0a1b5c"></script>
+    <!-- A jQuery plugin that adds cross-browser mouse wheel support. (Optional) -->
+    <script src="/js/jquery.mousewheel.min.js?409ac3648bba069c079fedc1ca107913"></script>
+
+    
+
+    
+        <!-- Piwik -->
+        <script type='text/javascript'>
+            var _paq = _paq || [];
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function () {
+                var u = 'https://stats.tind.io/';
+                _paq.push(['setTrackerUrl', u + 'piwik.php']);
+                _paq.push(['setSiteId', 1152]);
+                var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.type = 'text/javascript';
+                g.async = true;
+                g.defer = true;
+                g.src = u + 'piwik.js';
+                s.parentNode.insertBefore(g, s);
+            })();
+        </script>
+        <noscript><p><img src='https://stats.tind.io/piwik.php?idsite=1152' style='border:0;' alt=''/></p>
+        </noscript>
+        <!-- End Piwik Code -->
+    
+
+    
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] }
+            });
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML" integrity="sha512-Fv0JVzxvrWFLhiUP8wZYR6VwBZQt0XqB9MhHZE+12lObqIDzg3LOJcCCiRy6g4MCX/MlG+R9IRCWZAHjo9iBgw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+        <script type="text/javascript" src="/js/jquery.simple-dtpicker.js?52840f3d41b7bff7f02018aa18c08d32"></script>
+        <script type="text/javascript" src="/js/d3.min.js?5bc245068b1b70d4c3eaef79045023e4"></script>
+        <script type="text/javascript" src="/js/c3.min.js?3964a316d148b2fd67c5783208766846"></script>
+        <script type="text/javascript" src="/js/spin.min.js?545405225c13b2f42ab103fca31a49b1"></script>
+    <span id="tind-shibboleth"></span>
+</footer>
+
+<input type="hidden" name="csrf_token" value="f57276a189043dc26f932643279736dbf850793d67acc7cd16feca85bfbf590a">
+
+</body>
+</html>

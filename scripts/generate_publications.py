@@ -87,6 +87,13 @@ def process_bib_file(filepath):
                    f"        <small>{links}</small>"
 
         year = entry.get("year", "Unknown")
+        # if entry.get("publisher", None):
+        #     year = entry.get("publisher").split(" ")[-1]
+        # else:
+        #     year = entry.get("address").split("-")[0]
+        # # print(year)
+        # year = [i for i in entry.get("ID") if i.isdigit()]
+        # year = int("".join(year))
         entries_by_year[year].append(md_entry)
 
     return entries_by_year
@@ -124,7 +131,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     output_md = generate_markdown_list(args.directory)
-    print(output_md)
+    # print(output_md)s
 
     with open(args.output, "w", encoding="utf-8") as f:
         f.write(output_md)

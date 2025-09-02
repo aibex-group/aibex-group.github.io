@@ -10,8 +10,10 @@ title: "People"
 
 # Senior Researchers
 <div class="people-card-container">
-    {{< person "ASB" >}}
+    {{< person "AB" >}}
+    {{< person "AFl" >}}
     {{< person "MP" >}}
+    {{< person "ASB" >}}
 </div>
 
 # PhD Candidates
@@ -28,6 +30,7 @@ title: "People"
 
 <div class="people-card-container">
     {{< person "AG" >}}
+    {{< person "SK" >}}
 </div>
 
 <!-- 
