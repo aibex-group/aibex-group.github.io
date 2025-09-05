@@ -24,7 +24,7 @@ title: "People"
     {{< person "Ray" >}}
 </div>
 
-# Student Assistents
+# Student Assistants
 
 <div class="people-card-container">
     {{< person "AG" >}}
