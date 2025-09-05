@@ -1,0 +1,12 @@
+name = "Combining Image and Graph-Based Neural Networks for Handwriting Recognition"
+image   = "dortmund.png"
+duration = "2024-2027"
+grant =  "Swiss National Science Foundation"
+partners   = "TU Dortmund, University of Fribourg"
+summary = """
+This project develops deep learning methods for document analysis that combine visual and structural representations of handwriting, reducing the need for manual annotations and enabling applications in historical and low-resource settings.
+"""
+description = """
+This proposal aims to develop models, data synthesis and training methods for document analysis tasks such as classification or retrieval that allow the application of deep learning models without the need for manually created annotations. Especially, considering historic documents or low resource language the heavy demand for labeled data hinders the application of learning-based methodology. A key factor in the proposed project is the exploitation of the structural nature of handwriting. In addition to the visual appearance, the underlying structure can represented as a graph. Recent developments in geometric deep learning allow to integrate this structural element on the level of model design. Additionally, explicitly modeling the geometric component serves as a form of regularization, increasing adaptability and the generalization capabilities of the developed models. Training of a model combining visual and geometrical information is then performed with as little supervision as possible. Therefore, data synthesis approaches will be developed that also include structural representations. This project extends the state-of-the art in deep learning based document analysis by developing methods that explicitly model the geometric components of handwriting. The resulting reduction of training data demand opens up a diverse set of application areas and tasks.
+"""
+repo    = "https://data.snf.ch/grants/grant/217594"

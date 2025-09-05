@@ -1,43 +1,79 @@
-<!-- This is the main page  -->
-<div>
-    {{ $projects := .Site.Data.featured_projects }}
-    <div class="projects-grid">
-        <div class="project-column">
-            <a href="{{ $projects.link1 }}">
-                <img src="{{ $projects.img1 }}" alt="{{ $projects.alt1 }}">
-            </a>
-        </div>
-        <div class="project-column">
-            <a href="{{ $projects.link2 }}">
-                <img src="{{ $projects.img2 }}" alt="{{ $projects.alt2 }}">
-            </a>
-        </div>
-        <div class="project-column">
-            <a href="{{ $projects.link3 }}">
-                <img src="{{ $projects.img3 }}" alt="{{ $projects.alt3 }}">
-            </a>
-        </div>
+{{ $key := .Get 0 }}
+{{ $project := index site.Data.projects $key }}
+
+<div class="project-card">
+  <div class="project-image">
+    <img src="{{ $project.image }}" alt="{{ $project.name }}">
+  </div>
+  <div class="project-content">
+    <h3 class="project-title">{{ $project.name }}</h3>
+    <p><strong>Duration:</strong> {{ $project.duration }}</p>
+    <p><strong>Grant:</strong> <a href="{{ $project.repo }}" target="_blank">{{ $project.grant }}</a></p>
+    <p><strong>Partners:</strong> {{ $project.partners }}</p>
+
+    <p class="project-summary">{{ $project.summary | markdownify }}</p>
+
+    <div class="project-description" style="display:none;">
+      {{ $project.description | markdownify }}
     </div>
 
-    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-        <img src="infinity-logo.svg" style="width: 75%;" alt="Lab Large Infinity Logo">
-    </div>
-
-    <div class="projects-grid">
-        <div class="project-column">
-            <a href="{{ $projects.link4 }}">
-                <img src="{{ $projects.img4 }}" alt="{{ $projects.alt4 }}">
-            </a>
-        </div>
-        <div class="project-column">
-            <a href="{{ $projects.link5 }}">
-                <img src="{{ $projects.img5 }}" alt="{{ $projects.alt5 }}">
-            </a>
-        </div>
-        <div class="project-column">
-            <a href="{{ $projects.link6 }}">
-                <img src="{{ $projects.img6 }}" alt="{{ $projects.alt6 }}">
-            </a>
-        </div>
-    </div>
+    <button class="show-more-btn" onclick="toggleDescription(this)">Show more</button>
+  </div>
 </div>
+
+
+<script>
+function toggleDescription(button) {
+  const desc = button.previousElementSibling;
+  if (desc.style.display === "none") {
+    desc.style.display = "block";
+    button.innerText = "Show less";
+  } else {
+    desc.style.display = "none";
+    button.innerText = "Show more";
+  }
+}
+</script>
+
+<style>
+.project-content p {
+  margin: 0.2rem 0; /* much tighter spacing */
+}
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background: #f8f8f8;
+  border-radius: 12px;
+  margin: 2rem 0;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.project-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #e6eef7;
+  padding: 1rem;
+}
+
+.project-image img {
+  max-width: 200px;
+  max-height: 160px;
+  object-fit: contain;
+}
+
+.project-content {
+  padding: 0.6rem;
+}
+
+.project-title {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.project-description {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+}
+</style>

@@ -1,0 +1,681 @@
+\bibitem{dinh25hypothesis}
+D.V.~Dinh, G.~De Gregorio, R.C.~Gonzalez Pena, A.~Fischer, and I.~Marthot-Santaniello.
+\\\newblock Hypothesis-Aware Ductus Reconstruction for Greek Papyri: A Data-Driven Approach.
+\\\newblock In {\em Proc. 22nd Conference of the International Graphonomics Society (IGS)},
+  pages 1--4, 2025.
+\\\newblock \textbf{Best Student Paper Award}
+
+\bibitem{jungo25rulebased}
+M.~Jungo and A.~Fischer.
+\\\newblock Rule-Based Reinforcement Learning for Document Image Classification with Vision Language Models.
+\\\newblock In {\em Proc. 5th ICDAR Int. Workshop on Machine Learning (WML)},
+  pages 1--16, 2025.
+
+\bibitem{peer25ctc}
+M.~Peer, A.~Scius-Bertrand, and A.~Fischer.
+\\\newblock CTC Transcription Alignment of the Bullinger Letters: Automatic Improvement of Annotation Quality.
+\\\newblock In {\em Proc. 2nd Int. Workshop on Computer Vision Systems for Document Analysis and Recognition (VisionDocs)},
+  pages 1--10, 2025.
+
+
+\bibitem{pereyra24postcorrection}
+J.P.~Pereyra Principe, A.~Fischer, and A.~Scius-Bertrand.
+\\\newblock Post-Correction of Handwriting Recognition Using Large Language Models.
+\\\newblock In {\em Proc. 13th Int. Symposium on Information and Communication Technology (SoICT)},
+  pages 106--118, 2024.
+
+\bibitem{scius24arelayout}
+A.~Scius-Bertrand, A.~Fakhari, L.~V\"{o}gtlin, D.R.~Cabral, and A.~Fischer.
+\\\newblock Are Layout Analysis and OCR Still Useful for Document Information Extraction Using Foundation Models?
+\\\newblock In {\em Proc. 18th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 175--191, 2024.
+
+\bibitem{scius24zeroshot}
+A.~Scius-Bertrand, M.~Jungo, L.~V\"{o}gtlin, J.-M.~Spat, and A.~Fischer.
+\\\newblock Zero-Shot Prompting and Few-Shot Fine-Tuning: Revisiting Document Image Classification Using Large Language Models.
+\\\newblock In {\em Proc. 27th Int. Conf. on Pattern Recognition (ICPR)},
+  pages 152--166, 2024.
+
+
+\bibitem{frei23local}
+A.L.~Frei, A.~Khan, L.~Studer, P.~Zens, A.~Lugli, A.~Fischer, and I.~Zlobec.
+\\\newblock Local and Global Features Aggregation for Accurate Epithelial Cell Classification Using Graph Attention Mechanisms in Histopathology Images.
+\\\newblock In {\em Proc. Medical Imaging with Deep Learning (MIDL)},
+  pages 1--5, 2023.
+\\\newblock \textbf{Best Poster Award}
+  
+\bibitem{frei23gamma}
+A.L.~Frei, A.~Khan, P.~Zens, A.~Lugli, I.~Zlobec, and A.~Fischer.
+\\\newblock GammaFocus: {An} Image Augmentation Method to Focus Model Attention for Classification.
+\\\newblock In {\em Proc. Medical Imaging with Deep Learning (MIDL)},
+  pages 1--4, 2023.
+
+\bibitem{jungo23impact}
+M.~Jungo, L.~V\"{o}gtlin, A.~Fakhari, N.~Wegmann, R.~Ingold, A.~Fischer, and A.~Scius-Bertrand.
+\\\newblock Impact of Ground Truth Quality on Handwriting Recognition.
+\\\newblock In {\em Proc. 12th Int. Symposium on Information and Communication Technology (SoICT)},
+  pages 135--140, 2023.
+
+\bibitem{jungo23character}
+M.~Jungo, B.~Wolf, A.~Maksai, C.~Musat, and A.~Fischer.
+\\\newblock Character Queries: {A} Transformer-Based Approach to On-line Handwritten Character Segmentation.
+\\\newblock In {\em Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 98--114, 2023.
+\\\newblock \textbf{Best Student Paper Award}
+
+\bibitem{plamondon23lognormality}
+R.~Plamondon, A.~Bensalah, K.~Lebel, R.~Salameh, G.~S{\'e}guin~de~Broin, C.~O'Reilly, M.~Begon, O.~Desbiens, Y.~Beloufa, A.~Guy, D.~Berio, F.F.~Leymarie, S.P.~Boyogueno~Bidias, A.~Fischer, Z.~Zhang, M.-F.~Morin, D.~Alamargot, C.~R{\'e}mi, N.~Faci, R.~Fortin, M.-N.~Simard, and C.~Bazinet.
+\\\newblock Lognormality: An Open Window on Neuromotor Control.
+\\\newblock In {\em Proc. International Graphonomics Conference (IGS)},
+  pages 205--258. 2023.
+
+\bibitem{scius23towards}
+A.~Scius-Bertrand, C.~R{\'e}mi, E.~Biabiany, J.~Nagau, and A.~Fischer.
+\\\newblock Towards Visuo-Structural Handwriting Evaluation Based on Graph Matching.
+\\\newblock In {\em Proc. International Graphonomics Conference (IGS)},
+  pages 75--88, 2023.
+  
+\bibitem{scius23thebullinger}
+A.~Scius-Bertrand, P.~Str{\"o}bel, M.~Volk, T.~Hodel, and A.~Fischer.
+\\\newblock The {Bullinger} Dataset: {A} Writer Adaptation Challenge.
+\\\newblock In {\em Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 397--410, 2023.
+  
+\bibitem{stroebel23bullingers}
+P.~Str{\"o}bel, T.~Hodel, A.~Fischer, A.~Scius-Bertrand, B.~Wolf, A.~Janka, J.~Widmer, P.~Scheurer, and M.~Volk.
+\\\newblock {Bullingers Briefwechsel zug{\"a}nglich machen: Stand der Handschriftenerkennung}.
+\\\newblock In {\em Proc. Digital Humanities im deutschsprachigen Raum (DHd)},
+  pages 98--102, 2023.
+  
+\bibitem{studer23tumor}
+L.~Studer, J.-M.~Bokhorst, I.~Nagtegaal, I.~Zlobec, H.~Dawson, and A.~Fischer.
+\\\newblock Tumor Budding T-Cell Graphs: {Assessing} the Need for Resection in {pT1} Colorectal Cancer Patients.
+\\\newblock In {\em Proc. Int. Conf. on Medical Imaging with Deep Learning (MIDL)},
+  pages 1--25, 2023.
+  
+\bibitem{voegtlin23divadaf}
+L.~V{\"o}gtlin, A.~Scius-Bertrand, P.~Maergner, A.~Fischer, and R.~Ingold.
+\\\newblock {DIVA-DAF: A }Deep Learning Framework for Historical Document Image Analysis.
+\\\newblock In {\em Proc. 7th Int. Workshop on Historical Document Imaging and Processing (HIP)},
+  pages 61--66, 2023.
+
+\bibitem{diesbach22generating}
+J.~Diesbach, A.~Fischer, M.~Bui, and A.~Scius-Bertrand.
+\\\newblock Generating Synthetic Styled {Chu Nom} Characters.
+\\\newblock In {\em Proc. 18th Int. Conf on Frontiers in Handwriting Recognition (ICFHR)},
+  pages 484--497, 2022.
+  
+\bibitem{fornes22therpm3d}
+A.~Forn{\'e}s, A.~Bensalah, C.~Carmona-Duarte, J.~Chen, M.A.~Ferrer, A.~Fischer, J.~Llad{\'o}s, C.~Mart{\'i}n, E.~Opisso, R.~Plamondon, A.~Scius-Bertrand, J.M.~Tormos.
+\\\newblock The RPM3D Project: 3D Kinematics for Remote Patient Monitoring.
+\\\newblock In {\em Proc. International Graphonomics Conference (IGS)},
+  pages 217--226. 2022.
+
+\bibitem{scius22retrieving}
+A.~Scius-Bertrand, A.~Fischer, and M.~Bui.
+\\\newblock Retrieving Keywords in Historical {Vietnamese} Stele Images Without Human Annotations.
+\\\newblock In {\em Proc. 11th Int. Symposium on Information and Communication Technology (SoICT)},
+  pages 295--301, 2022.
+  
+\bibitem{scius22annotationfree}
+A.~Scius-Bertrand, L.~Studer, A.~Fischer, and M.~Bui.
+\\\newblock Annotation-Free Keyword Spotting in Historical {Vietnamese} Manuscripts Using Graph Matching.
+\\\newblock In {\em Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR)},
+  pages 22--32, 2022.
+  
+\bibitem{spoto22improving}
+M.~Spoto, B.~Wolf, A.~Fischer, and A.~Scius-Bertrand.
+\\\newblock Improving Handwriting Recognition for Historical Documents Using Synthetic Text Lines.
+\\\newblock In {\em Proc. International Graphonomics Conference (IGS)},
+  pages 61--75. 2022.
+
+\bibitem{stammet22analyzing}
+C.~Stammet, P.~Dotti, U.~Ultes-Nitsche, and A.~Fischer.
+\\\newblock Analyzing {B}\"{u}chi Automata with Graph Neural Networks.
+\\\newblock In {\em Proc. 4th Int. Workshop on Learning and Automata (LearnAut)},
+  pages 1--10. 2022.
+  
+
+\bibitem{abbet21selfrule}
+C.~Abbet, L.~Studer, A.~Fischer, H.~Dawson, I.~Zlobec, B.~Bozorgtabar, and J.-P.~Thiran.
+\\\newblock Self-Rule to Adapt: Learning Generalized Features from Sparsely-Labeled Data Using Unsupervised Domain Adaptation for Colorectal Cancer Tissue Phenotyping.
+\\\newblock In {\em Proc. 4th Int. Conf. on Medical Imaging with Deep Learning (MIDL)},
+  pages 1--16, 2021.
+
+\bibitem{scius21annotationfree}
+A.~Scius-Bertrand, M.~Jungo, B.~Wolf, A.~Fischer, and M.~Bui.
+\\\newblock Annotation-Free Character Detection in Historical Vietnamese Stele Images.
+\\\newblock In {\em Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 432--447, 2021.
+  
+\bibitem{studer21classification}
+L.~Studer, J.~Wallau, H.~Dawson, I.~Zlobec, and A.~Fischer.
+\\\newblock Classification of Intestinal Gland Cell-Graphs Using Graph Neural Networks.
+\\\newblock In {\em Proc. 25th Int. Conf. on Pattern Recognition (ICPR)},
+  pages 3636--3643, 2021.
+
+\bibitem{wolf21graph}
+F.~Wolf, A.~Fischer, and G.A.~Fink.
+\\\newblock Graph Convolutional Neural Networks for Learning Attribute Representations for Word Spotting.
+\\\newblock In {\em Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 50--64, 2021.
+
+\bibitem{linder20automatic}
+L.~Linder, M.~Jungo, J.~Hennebert, C.C.~Musat, and A.~Fischer.
+\\\newblock Automatic Creation of Text Corpora for Low-Resource Languages from the Internet: The Case of Swiss German.
+\\\newblock In {\em Proc. 12th Language Resources and Evaluation Conference (LREC)},
+  pages 2706---2711, 2020.
+
+
+\bibitem{studer20effects}
+L.~Studer, J.~Wallau, R.~Ingold, and A.~Fischer.
+\\\newblock Effects of Graph Pooling Layers on Classification with Graph Neural Networks.
+\\\newblock In {\em Proc. 7th Swiss Conference on Data Science (SDS)},
+  pages 57--58, 2020.
+
+
+\bibitem{kocher19alleviating}
+N.~Kocher, C.~Scuito, L.~Tarantino, A.~Lazaridis, A.~Fischer, and C.~Musat.
+\\\newblock Alleviating Sequence Information Loss with Data Overlapping and Prime Batch Sizes.
+\\\newblock In {\em Proc. SIGNLL Conf. on Computational Natural Language Learning (CoNLL)},
+  pages 890--899, 2019.
+
+\bibitem{maergner19synthetic}
+P.~Maergner, T.S.~Karabacakoglu, K.~Riesen, R.~Ingold, and A.~Fischer.
+\\\newblock Synthetic Generation of Online Signatures using a Deep Generative Model.
+\\\newblock In {\em Proc. 19th International Graphonomics Conference (IGS)},
+  In Print, 2019.
+
+\bibitem{scius19layout}
+A.~Scius-Bertrand, L.~Voegtlin, M.~Alberti, A.~Fischer, and M.~Bui.
+\\\newblock Layout Analysis and Text Column Segmentation for Historical Vietnamese Steles.
+\\\newblock In {\em Proc. 5th Int. Workshop on Historical Document Imaging and Processing (HIP)},
+  pages 84--89, 2019.
+
+\bibitem{stauffer19crossevaluation}
+M.~Stauffer, P.~Maergner, A.~Fischer, and K.~Riesen.
+\\\newblock Cross-Evaluation of Graph-Based Keyword Spotting in Handwritten Historical Documents.
+\\\newblock In {\em Proc. 12th Int. Workshop on Graph-Based Representation in Pattern Recognition (GbR)},
+  pages 45--55, 2019.
+
+\bibitem{stauffer19graph}
+M.~Stauffer, P.~Maergner, A.~Fischer, and K.~Riesen.
+\\\newblock Graph Embedding for Offline Handwritten Signature Verification.
+\\\newblock In {\em Proc. 3rd Int. Conf. on Biometric Engineering and Applications (ICBEA)},
+  pages 69--76, 2019.
+
+\bibitem{stauffer19offline}
+M.~Stauffer, P.~Maergner, A.~Fischer, R.~Ingold, and K.~Riesen.
+\\\newblock Offline Signature Verification using Structural Dynamic Time Warping.
+\\\newblock In {\em Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 1117--1124, 2019.
+
+\bibitem{studer19acomprehensive}
+L.~Studer, M.~Alberti, V.~Pondenkandath, P.~Goktepe, T.~Kolonko, A.~Fischer, M.~Liwicki, and R.~Ingold.
+\\\newblock A Comprehensive Study of ImageNet Pre-Training for Historical Document Image Analysis.
+\\\newblock In {\em Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 720--725, 2019.
+
+\bibitem{studer19graphbased}
+L.~Studer, S.~Toneyan, I.~Zlobec, H.~Dawson, and A.~Fischer.
+\\\newblock Graph-based Classification of Intestinal Glands in Colorectal Cancer Tissue Images.
+\\\newblock In {\em Proc. 2nd MICCAI Workshop on Computational Pathology (COMPAY)},
+  pages 1--8, 2019.
+  
+\bibitem{maergner18offlineb}
+P. Maergner, V. Pondenkandath, M. Alberti, M. Liwicki, K. Riesen, R. Ingold, and A.~Fischer.
+\\\newblock Offline Signature Verification by Combining Graph Edit Distance and Triplet Networks.
+\\\newblock In {\em Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR)},
+  pages 470--480, 2018.
+  
+\bibitem{maergner18offline}
+P. Maergner, N.R. Howe, K. Riesen, R. Ingold, and A.~Fischer.
+\\\newblock Offline Signature Verification via Structural Methods: Graph Edit Distance and Inkball Models.
+\\\newblock In {\em Proc. 16th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
+  pages 163--168, 2018.
+  
+\bibitem{riba18learning}
+P. Riba, A.~Fischer, J. Llados, and A.~Forn{\'e}s.
+\\\newblock Learning Graph Distances with Message Passing Neural Networks.
+\\\newblock In {\em Proc. 24th Int. Conf. on Pattern Recognition (ICPR)},
+  pages 2239--2244, 2018.
+\\\newblock \textbf{Best Scientific Paper Award}
+
+\bibitem{schindler18extending}
+R. Schindler, M. Bouillon, R. Plamondon, and A.~Fischer
+\\\newblock Extending the Sigma-Lognormal Model of the Kinematic Theory to Three Dimensions.
+\\\newblock In {\em Proc. 1st Int. Conf. on Pattern Recognition and Artificial Intelligence (ICPRAI)},
+  pages 748--752, 2018.  
+  
+\bibitem{stauffer18graphbased}
+M. Stauffer, A.~Fischer, and K. Riesen.
+\\\newblock Graph-Based Keyword Spotting in Historical Documents Using Context-Aware Hausdorff Edit Distance.
+\\\newblock In {\em Proc. 13th Int. Workshop on Document Analysis Systems (DAS)},
+  pages 49--54, 2018.
+
+\bibitem{wicht18dll}
+B. Wicht, A.~Fischer, and J. Hennebert.
+\\\newblock DLL: A Fast Deep Neural Network Library.
+\\\newblock In {\em Proc. 8th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
+  pages 54--65, 2018.
+
+
+\bibitem{ameri17keyword}
+M. Ameri, M. Stauffer, K. Riesen, T. Bui, and A.~Fischer.
+\\\newblock Keyword Spotting in Historical Documents Based on Handwriting Graphs and Hausdorff Edit Distance.
+\\\newblock In {\em Proc. 18th Conf. of the International Graphonomics Society (IGS)}, 2017.
+
+\bibitem{garz17user}
+A. Garz, F. Schuetz, A. Villa, R. Plamondon, and A.~Fischer.
+\\\newblock User Adaptation for Multi-Classifier Signature Verification Based on the Kinematic Theory.
+\\\newblock In {\em Proc. 18th Conf. of the International Graphonomics Society (IGS)}, 2017.
+
+\bibitem{maergner17astructural}
+P. Maergner, K. Riesen, R. Ingold, and A.~Fischer.
+\\\newblock A Structural Approach to Offline Signature Verification Using Graph Edit Distance.
+\\\newblock In {\em Proc. 14th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 1216--1222, 2017.
+
+\bibitem{maergner17offline}
+P. Maergner, K. Riesen, R. Ingold, and A.~Fischer.
+\\\newblock Offline Signature Verification Based on Bipartite Approximation of Graph Edit Distance.
+\\\newblock In {\em Proc. 18th Conf. of the International Graphonomics Society (IGS)}, 2017.
+
+\bibitem{niederhauser17model}
+T.~Niederhauser, A.~Haeberlin, B.~Jesacher, A.~Fischer, H.~Tanner.
+\\\newblock Model-based Delineation of Non-Uniformly Sampled ECG Signals.
+\\\newblock In {\em Proc. Computing in Cardiology (CinC)},
+  2017.
+
+\bibitem{riesen17improved}
+K. Riesen, A.~Fischer, and H. Bunke.
+\\\newblock Improved Graph Edit Distance Approximation with Simulated Annealing.
+\\\newblock In {\em Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
+  pages 222--231, 2017.
+
+\bibitem{stauffer17asurvey}
+M. Stauffer, T. Tschachtli, A.~Fischer, and K. Riesen.
+\\\newblock A Survey on Applications of Bipartite Graph Edit Distance.
+\\\newblock In {\em Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
+  pages 242--252, 2017.
+
+\bibitem{stauffer17ensembles}
+M. Stauffer, A.~Fischer, and K. Riesen.
+\\\newblock Ensembles for Graph-based Keyword Spotting in Historical Handwritten Documents.
+\\\newblock In {\em Proc. 14th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 714--720, 2017.
+
+\bibitem{stauffer17speedingup}
+M. Stauffer, A.~Fischer, and K. Riesen.
+\\\newblock Speeding-Up Graph-based Keyword Spotting in Historical Handwritten Documents.
+\\\newblock In {\em Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
+  pages 83--93, 2017.
+  
+\bibitem{fischer16nautilus}
+A.~Fischer, S.~Grimm, V.~Bernasconi, A.~Garz, P.~Buchs, M.~Caon, O.~Abou-Khaled, E.~Mugellini, F.~Meyer, and C. Wagner.
+\\\newblock Nautilus: Real-time interaction between dancers and augmented reality with pixel-cloud avatars.
+\\\newblock In {\em Proc. 28i{\`e}me conf{\`e}rence francophone sur l'Interaction Homme-Machine (IHM)},
+  pages 50--57, 2016.
+
+\bibitem{garz16creating}
+A.~Garz, M.~Seuret, F.~Simistira, A.~Fischer, and R.~Ingold.
+\\\newblock Creating ground truth for historical manuscripts with document graphs and scribbling interaction.
+\\\newblock In {\em Proc. 12th Int. Workshop on Document Analysis Systems (DAS)},
+  pages 126--131, 2016.
+  
+\bibitem{garz16graphmanuscribble}
+A.~Garz, M.~Seuret, A.~Fischer, and R.~Ingold.
+\\\newblock GraphManuscribble: Interact intuitively with digital facsimiles.
+\\\newblock In {\em Proc. 2nd Int. Conf. on Natural Sciences and Technology in Manuscript Analysis},
+  pages 61--63, 2016.
+ 
+\bibitem{garz16simple}
+A.~Garz, M.~W{\"u}rsch, A.~Fischer, and R.~Ingold.
+\\\newblock Simple and fast geometrical descriptors for writer identification.
+\\\newblock In {\em Proc. 23rd Int. Conf. on Document Recognition and Retrieval (DRR)},
+  pages 1--12, 2016.
+  
+\bibitem{howe16inkball}
+N. Howe, A.~Fischer, and B. Wicht.
+\\\newblock Inkball Models as Features for Handwriting Recognition.
+\\\newblock In {\em Proc. 15th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
+  pages 96--101, 2016.
+  
+\bibitem{riesen16approximation}
+K.~Riesen, A.~Fischer, and H.~Bunke.
+\\\newblock Approximation of Graph Edit Distance by Means of a Utility Matrix.
+\\\newblock In {\em Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
+  pages 185--194, 2016.
+  
+\bibitem{stauffer16anovel}
+M. Stauffer, A.~Fischer, and K. Riesen.
+\\\newblock A Novel Graph Database for Handwritten Word Images.
+\\\newblock In {\em Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR)},
+  pages 553--563, 2016.
+
+\bibitem{stauffer16graphbased}
+M. Stauffer, A.~Fischer, and K. Riesen.
+\\\newblock Graph-Based Keyword Spotting in Historical Handwritten Documents.
+\\\newblock In {\em Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR)},
+  pages 564--573, 2016.
+  
+\bibitem{wicht16deeplearning}
+B. Wicht, A.~Fischer, and J. Hennebert.
+\\\newblock Deep Learning Features for Handwritten Keyword Spotting.
+\\\newblock In {\em Proc. 23rd Int. Conf. on Pattern Recognition (ICPR)},
+  pages 3434--3439, 2016.
+
+\bibitem{wicht16keyword}
+B. Wicht, A.~Fischer, and J. Hennebert.
+\\\newblock Keyword Spotting with Convolutional Deep Belief Networks and Dynamic Time Warping.
+\\\newblock In {\em Proc. 25th Int. Conf. on Artificial Neural Networks (ICANN)},
+  pages 113--120, 2016.
+	
+\bibitem{wicht16oncpu}
+B. Wicht, A.~Fischer, and J. Hennebert.
+\\\newblock On CPU Performance Optimization of Restricted Boltzmann Machine and Convolutional RBM.
+\\\newblock In {\em Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
+  pages 163--174, 2016.
+  
+
+\bibitem{bou15omega}
+A.~Bou-Hernandez, A.~Fischer, and R.~Plamondon.
+\\\newblock Omega-Lognormal analysis of oscillatory movements as a function of brain stroke risk factors.
+\\\newblock In {\em Proc. 17th Conf. of the International Graphonomics Society (IGS)},
+  pages 59--62, 2015.  
+
+\bibitem{diaz15towards}
+M.~Diaz, A.~Fischer, R.~Plamondon, and M.A.~Ferrer.
+\\\newblock Towards an automatic on-line signature verifier using only one reference per signer.
+\\\newblock In {\em Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 631--635, 2015.
+
+\bibitem{fischer15adissimilarity}
+A.~Fischer and R.~Plamondon.
+\\\newblock A dissimilarity measure for on-line signature verification based on the Sigma-Lognormal model.
+\\\newblock In {\em Proc. 17th Conf. of the International Graphonomics Society (IGS)},
+  pages 83--86, 2015.
+
+\bibitem{fischer15approximation}
+A.~Fischer, S.~Uchida, V.~Frinken, K.~Riesen, and H.~Bunke.
+\\\newblock Improving Hausdorff edit distance using structural node context.
+\\\newblock In {\em Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
+  pages 148--157, 2015. 
+
+\bibitem{fischer15robust}
+A.~Fischer, M.~Diaz, R.~Plamondon, and M.A.~Ferrer.
+\\\newblock Robust score normalization for DTW-based on-line signature verification.
+\\\newblock In {\em Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 241--245, 2015.
+
+\bibitem{riesen15improving}
+K.~Riesen, M.~Ferrer, A.~Fischer, and H.~Bunke.
+\\\newblock Approximation of graph edit distance in quadratic time.
+\\\newblock In {\em Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
+  pages 3--12, 2015.
+
+\bibitem{riesen15building}
+K.~Riesen, M.~Ferrer, and A.~Fischer.
+\\\newblock Building classifier ensembles using greedy graph edit distance.
+\\\newblock In {\em Proc. 12th Int. Workshop on Multiple Classifier Systems (MCS)},
+  pages 125--134, 2015.
+  
+\bibitem{seuret15clustering}
+M.~Seuret, A.~Fischer, A.~Garz, M.~Liwicki, and R.~Ingold.
+\\\newblock Clustering historical documents based on the reconstruction error of autoencoders.
+\\\newblock In {\em Proc. 3rd Int. Workshop on Historical Document Imaging and Processing (HIP)},
+  pages 85--91, 2015.
+
+\bibitem{wei15selecting}
+H.~Wei, M.~Seuret, K.~Chen, A.~Fischer, M.~Liwicki, R.~Ingold, and X.~Zhong.
+\\\newblock Selecting autoencoder features for layout analysis of historical documents.
+\\\newblock In {\em Proc. 3rd Int. Workshop on Historical Document Imaging and Processing (HIP)},
+  pages 55--62, 2015.
+    
+
+\bibitem{ameri14afeature}
+M.R.~Ameri, M.~Haji, A.~Fischer, D.~Ponson, and T.D.~Bui.
+\\\newblock A feature extraction method for cursive character recognition using higher-order singular value decomposition.
+\\\newblock In {\em Proc. 14th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
+  pages 512--516, 2014.  
+  
+\bibitem{fischer14acombined}
+A.~Fischer, M.~Baechler, A.~Garz, M.~Liwicki, and R.~Ingold.
+\\\newblock A combined system for text line extraction and handwriting recognition in historical documents.
+\\\newblock In {\em Proc. 11th Int. Workshop on Document Analysis Systems (DAS)},
+  pages 71--75, 2014.
+  
+\bibitem{fischer14ahausdorff}
+A.~Fischer, R.~Plamondon, Y.~Savaria, K.~Riesen, and H.~Bunke.
+\\\newblock A Hausdorff heuristic for efficient computation of graph edit distance.
+\\\newblock In {\em Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR)},
+  pages 83--92, 2014. 
+  
+\bibitem{fischer14neuromuscular}
+A.~Fischer, R.~Plamondon, C.~{O'Reilly}, and Y.~Savaria.
+\\\newblock Neuromuscular representation and synthetic generation of handwritten whiteboard notes.
+\\\newblock In {\em Proc. 14th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
+  pages 222--227, 2014.  
+  
+\bibitem{frinken14acache}
+V.~Frinken, D.~Karatzas, and A.~Fischer.
+\\\newblock A cache language model for whole document handwriting recognition.
+\\\newblock In {\em Proc. 11th Int. Workshop on Document Analysis Systems (DAS)},
+  pages 166--170, 2014. 
+  
+\bibitem{riesen14combining}
+K.~Riesen, A.~Fischer, and H.~Bunke.
+\\\newblock Combining bipartite graph matching and beam search for graph edit distance approximation.
+\\\newblock In {\em Proc. 6th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
+  pages 117--128, 2014.
+  
+\bibitem{riesen14computing}
+K.~Riesen, A.~Fischer, and H.~Bunke.
+\\\newblock Computing upper and lower bounds of graph edit distance in cubic time.
+\\\newblock In {\em Proc. 6th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
+  pages 129--140, 2014.
+  
+\bibitem{riesen14improvingapproximate}
+K.~Riesen, A.~Fischer, and H.~Bunke.
+\\\newblock Improving approximate graph edit distance using genetic algorithms.
+\\\newblock In {\em Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR)},
+  pages 3910--3914, 2014.  
+  
+\bibitem{riesen14improvinggraph}
+K.~Riesen, A.~Fischer, and H.~Bunke.
+\\\newblock Improving graph edit distance approximation by centrality measures.
+\\\newblock In {\em Proc. 22nd Int. Conf. on Pattern Recognition (ICPR)},
+  pages 3910--3914, 2014. 
+  
+\bibitem{garz13abinarization}
+A.~Garz, A.~Fischer, H.~Bunke, and R.~Ingold.
+\\\newblock A binarization-free clustering approach to segment curved text lines
+  in historical manuscripts.
+\\\newblock In {\em Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 1290--1294, 2013.
+
+\bibitem{fischer13afast}
+A.~Fischer, C. Y.~Suen, V.~Frinken, K.~Riesen, and H.~Bunke.
+\\\newblock A fast matching algorithm for graph-based handwriting recognition.
+\\\newblock In {\em Proc. 9th Int. Workshop on Graph-Based Representations (GbR)},
+  pages 194--203, 2013.
+
+\bibitem{fischer13generation}
+A.~Fischer, V. C.~Kieu, M.~Visani, and C. Y.~Suen.
+\\\newblock Generation of learning samples for historical handwriting recognition
+  using image degradation.
+\\\newblock In {\em Proc. 2nd Int. Workshop on Historical Document Imaging and
+  Processing (HIP)}, pages 73--79, 2013.
+  
+\bibitem{fischer13improving}
+A.~Fischer, V.~Frinken, H.~Bunke, and C. Y.~Suen.
+\\\newblock Improving HMM-based keyword spotting with character language models.
+\\\newblock In {\em Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 506--510, 2013.
+
+\bibitem{frinken13handwriting}
+V.~Frinken, A.~Fischer, and C. D.~Martinez-Hinarejos.
+\\\newblock Handwriting recognition in historical documents using very large
+  vocabularies.
+\\\newblock In {\em Proc. 2nd Int. Workshop on Historical Document Imaging and
+  Processing (HIP)}, pages 67--72, 2013.
+
+\bibitem{prum13adiscriminative}
+S.~Prum, M.~Visani, A.~Fischer, and J.-M.~Ogier.
+\\\newblock A discriminative approach to on-line handwriting recognition using
+  bi-character models.
+\\\newblock In {\em Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 364--368, 2013.
+  
+
+\bibitem{fischer12hisdoc}
+M.~Baechler, A.~Fischer, N.~Naji, R.~Ingold, H.~Bunke, and J.~Savoy.
+\\\newblock {HisDoc}: historical document analysis, recognition, and retrieval.
+\\\newblock In {\em Proc. Digital Humanities (DH)},
+  pages 94--97, 2012.
+
+\bibitem{garz12binarizationfree}
+A.~Garz, A.~Fischer, R.~Sablatnig, and H.~Bunke.
+\\\newblock Binarization-free text line segmentation for historical documents based on interest point clustering.
+\\\newblock In {\em Proc. 10th Int. Workshop on Document Analysis Systems (DAS)},
+  pages 95--99, 2012.
+
+\bibitem{frinken12longshort}
+V.~Frinken, F.~Zamora-Mart\'{i}nez, S.~Espa\~{n}a-Boquera, M. J.~Castro-Bleda, A.~Fischer, and H.~Bunke.
+\\\newblock Long-short term memory neural networks language modeling for handwriting recognition.
+\\\newblock In {\em Proc. 21st Int. Conf. on Pattern Recognition (ICPR)},
+  pages 701--704, 2012.
+
+\bibitem{frinken12longshort}
+V.~Frinken, M.~Baumgartner, A.~Fischer, and H.~Bunke.
+\\\newblock Semi-supervised learning for cursive handwriting recognition using keyword spotting.
+\\\newblock In {\em Proc. 13th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
+  pages 49--54, 2012.
+  
+
+\bibitem{fischer11character}
+A.~Fischer and H.~Bunke.
+\\\newblock Character prototype selection for handwriting recognition in
+  historical documents with graph similarity features.
+\\\newblock In {\em Proc. 19th European Signal Processing Conference (EUSIPCO)}, pages
+  1435--1439, 2011.
+
+\bibitem{fischer11hmm}
+A.~Fischer, E.~Inderm\"uhle, V.~Frinken, and H.~Bunke.
+\\\newblock {HMM}-based alignment of inaccurate transcriptions for historical
+  documents.
+\\\newblock In {\em Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 53--57, 2011.
+
+\bibitem{fischer11transcription}
+A.~Fischer, V.~Frinken, A.~Forn{\'e}s, and H.~Bunke.
+\\\newblock Transcription alignment of Latin manuscripts using hidden {M}arkov
+  models.
+\\\newblock In {\em Proc. 1st Int. Workshop on Historical Document Imaging and
+  Processing (HIP)}, pages 29--36, 2011.
+
+\bibitem{frinken11cotraining}
+V.~Frinken, A.~Fischer, H.~Bunke, and A.~Forn{\'e}s.
+\\\newblock Co-training for handwritten word recognition.
+\\\newblock In {\em Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 314--318, 2011.
+ 
+\bibitem{frinken11improving}
+V.~Frinken, A.~Fischer, and H.~Bunke.
+\\\newblock Improving handwritten keyword spotting with self-training.
+\\\newblock In {\em Proc. 26th Symposium On Applied Computing (SAC)}, pages 838--843,
+  2011.
+ 
+\bibitem{fornes11akeyword}
+A.~Forn{\'e}s, V.~Frinken, A.~Fischer, J.~Almaz\'{a}n, G.~Jackson, and
+  H.~Bunke.
+\\\newblock A keyword spotting approach using blurred shape model-based
+  descriptors.
+\\\newblock In {\em Proc. 1st Int. Workshop on Historical Document Imaging and
+  Processing (HIP)}, pages 83--90, 2011.
+ 
+\bibitem{indermuehle11keyword}
+E.~Inderm\"{u}hle, V.~Frinken, A.~Fischer, and H.~Bunke.
+\\\newblock Keyword spotting in online handwritten documents containing text and
+  non-text using {BLSTM} neural networks.
+\\\newblock In {\em Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 73--77, 2011.
+
+
+\bibitem{fischer10gsf}
+A.~Fischer, K.~Riesen, and H.~Bunke.
+\\\newblock Graph similarity features for {HMM}-based handwriting recognition in
+  historical documents.
+\\\newblock In {\em Proc. 12th Int. Conf. on Frontiers in Handwriting
+  Recognition (ICFHR)}, pages 253--258, 2010.
+
+\bibitem{fischer10groundtruth}
+A.~Fischer, E.~Inderm\"uhle, H.~Bunke, G.~Viehhauser, and M.~Stolz.
+\\\newblock Ground truth creation for handwriting recognition in historical
+  documents.
+\\\newblock In {\em Proc. 9th Int. Workshop on Document Analysis Systems (DAS)}, pages
+  3--10, 2010.
+
+\bibitem{fischer10hmmspotting}
+A.~Fischer, A.~Keller, V.~Frinken, and H.~Bunke.
+\\\newblock {HMM}-based word spotting in handwritten documents using subword
+  models.
+\\\newblock In {\em Proc. 20th Int. Conf. on Pattern Recognition (ICPR)}, pages
+  3416--3419, 2010.
+\\\newblock \textbf{Best Scientific Paper Award}
+
+\bibitem{frinken10novel}
+V.~Frinken, A.~Fischer, and H.~Bunke.
+\\\newblock A novel word spotting algorithm using bidirectional long short-term
+  memory neural networks.
+\\\newblock In {\em Proc. 4th Int. Workshop on Artificial Neural Networks in
+  Pattern Recognition (ANNPR)}, pages 185--196, 2010.
+
+\bibitem{frinken10adapting}
+V.~Frinken, A.~Fischer, R.~Manmatha, and H.~Bunke.
+\\\newblock Adapting {BLSTM} neural network based keyword spotting trained on
+  modern data to historical documents.
+\\\newblock In {\em Proc. 12th Int. Conf. on Frontiers in Handwriting
+  Recognition (ICFHR)}, pages 352--357, 2010.
+
+\bibitem{frinken10combining}
+V.~Frinken, A.~Fischer, and H.~Bunke.
+\\\newblock Combining neural networks to improve performance of handwritten
+  keyword spotting.
+\\\newblock In {\em Proc. 9th Int. Workshop on Multiple Classifier Systems (MCS)}, pages 215--224, 2010.
+
+
+\bibitem{fischer09automatic}
+A.~Fischer, M.~W{\"u}thrich, M.~Liwicki, V.~Frinken, H.~Bunke, G.~Viehhauser,
+  and M.~Stolz.
+\\\newblock Automatic transcription of handwritten medieval documents.
+\\\newblock In {\em Proc. 15th Int. Conf. on Virtual Systems and Multimedia (VSMM)},
+  pages 137--142, 2009.
+
+\bibitem{fischer09kernel}
+A.~Fischer and H.~Bunke.
+\\\newblock Kernel {PCA} for {HMM}-based cursive handwriting recognition.
+\\\newblock In {\em Proc. 13th Int. Conf. on Computer Analysis of Images and
+  Patterns (CAIP)}, pages 181--188, 2009.
+
+\bibitem{frinken09improved}
+V.~Frinken, T.~Peter, A.~Fischer, H.~Bunke, T.-M.-T. Do, and T.~Artieres.
+\\\newblock Improved handwriting recognition by combining two forms of hidden
+  {M}arkov models and a recurrent neural network.
+\\\newblock In {\em Proc. 13th Int. Conf. on Computer Analysis of Images and
+  Patterns (CAIP)}, pages 189--196, 2009.
+
+\bibitem{wuethrich09language}
+M.~W\"uthrich, M.~Liwicki, A.~Fischer, E.~Inderm\"uhle, H.~Bunke,
+  G.~Viehhauser, and M.~Stolz.
+\\\newblock Language model integration for the recognition of handwritten
+  medieval documents.
+\\\newblock In {\em Proc. 10th Int. Conf. on Document Analysis and Recognition (ICDAR)},
+  pages 211--215, 2009.
+
+\bibitem{fischer08experimantal}
+A.~Fischer, K.~Riesen, and H.~Bunke.
+\\\newblock An experimental study of graph classification using prototype
+  selection.
+\\\newblock In {\em Proc. 19th Int. Conf. on Pattern Recognition (ICPR)},
+  pages 1--4, 2008.

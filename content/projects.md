@@ -2,4 +2,8 @@
 
 Here is a collection of projects within the AIBEX group. 
 
-{{< tool "dodis" >}}
+{{< projects "dodis" >}}
+{{< projects "dortmund" >}}
+{{< projects "hvac" >}}
+
+

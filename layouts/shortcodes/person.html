@@ -1,61 +1,5 @@
-<!-- <div class="card-person">
-  {{ $person := .Get 0 }}
-  {{ $person :=  index .Site.Data.people $person }}
-    <figure class="person">
-      <img src="{{ $person.image }}" width="180" alt="{{ $person.name }}" />
-    </figure>
-    <span class="card-name">{{ $person.name }}</span><br />
-    <span class="card-job">{{ $person.job }}</span>
-    <ul class="card-icons">
-      {{ with $person.web }}
-      <li>
-        <a href="{{ . }}">
-            <img src="/icons/home.svg" alt="Homepage" />
-          </a>
-      </li>
-      {{ end }} 
-
-      {{ with $person.orcid }}
-      <li>
-        <a href="https://orcid.org/{{ . }}">
-            <img src="/icons/orcid.svg" alt="ORCID" />
-          </a>
-      </li>
-      {{end }}
-
-      {{ with $person.github }}
-      <li>
-        <a href="https://github.com/{{ . }}">
-            <img src="/icons/github.svg" alt="GitHub" />
-          </a>
-      </li>
-      {{end }}
-      
-      {{ with $person.bluesky }}
-      <li>
-        <a href="https://bsky.app/profile/{{ . }}">
-            <img src="/icons/bluesky.svg" alt="Bluesky" />
-          </a>
-      </li>
-      {{ end }}
-
-      {{ with $person.twitter }}
-      <li>
-        <a href="https://twitter.com/{{ . }}">
-            <img src="/icons/x.svg" alt="X (formerly Twitter)" />
-          </a>
-      </li>
-      {{ end }}
-  </ul>
-
-    {{ with $person.office }}
-        {{ . }}
-    {{ end }} 
-    {{ with $person.mail }}
-        {{ . }}
-    {{ end }} 
-</div> -->
-
+{{ $key := .Get 0 }}
+{{ $person := index site.Data.people $key }}
 
 <div class="card-person">
   <figure class="person">
@@ -63,7 +7,10 @@
   </figure>
 
   <div class="card-details">
-    <span class="card-name">{{ $person.name }}</span><br>
+    <span class="card-name">{{ $person.name }}</span> <br/>
+      {{ with $person.job }}
+      {{ $person.job }}<br>
+      {{ end }}
     <div class="card-contact">
       {{ with $person.mail }}
       <span><img src="/icons/mail.svg" alt="Email"> {{ . }}</span>

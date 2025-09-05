@@ -1,0 +1,13 @@
+name = "Automated HVAC-Concept Audit and Optimisation Using AI"
+image   = "hvac.png"
+duration = "2023-2026"
+grant =  "Innosuisse"
+partners   = "HEIA, University of Fribourg, WATTELSE"
+summary = """
+This project aims to close the energy performance gap in modern HVAC systems by developing an AI-driven software solution that optimizes energy efficiency, comfort, and sustainability from the start of building operation.
+"""
+description = """
+Modern Heating, Ventilation and Air Conditioning (HVAC) systems are incredibly sophisticated, but rarely live-up to their potential. There is a significant Energy Performance Gap (EPG) between the energy performance calculated at the time of planning and the actual energy performance of the building once the equipment is in operation. In our experience it is up to 30%, which is equivalent to over 4% of global energy usage.
+Our vision, under this project, is to tackle the EPG from Day 1, by developing an automated software solution that uses AI and data-driven analytics to maximise the energy-efficiency, comfort and environmental sustainability of buildings.
+"""
+repo = "https://www.aramis.admin.ch/Beteiligte/?ProjectID=53900"
