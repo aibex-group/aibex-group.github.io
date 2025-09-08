@@ -1,6 +1,4 @@
-# Projects
-
-Here is a collection of projects within the AIBEX group. 
+# Current Research Projects
 
 {{< projects "dodis" >}}
 {{< projects "dortmund" >}}
