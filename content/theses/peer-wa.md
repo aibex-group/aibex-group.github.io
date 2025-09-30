@@ -1,6 +1,6 @@
 # Writer Adaptation in Handwritten Text Recognition (HTR)
 
-**Contact:** <a href="mailto:marco.peer@hefr.ch">Marco Peer</a>
+**Contact:** <a href="mailto:marco.peer@unifr.ch">Marco Peer</a>
 
 ## Overview
 The digitization of historical documents requires accurate transcription of handwritten text. Variations in writing styles and deteriorated conditions make recognition challenging.  

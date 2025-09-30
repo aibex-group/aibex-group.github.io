@@ -1,6 +1,6 @@
 # Semantic Writer Identification for Historical Documents of Swiss Foreign Politics
 
-**Contact:** <a href="mailto:marco.peer@hefr.ch">Marco Peer</a>
+**Contact:** <a href="mailto:marco.peer@unifr.ch">Marco Peer</a>
 
 ## Overview
 This thesis aims to explore **semantic writer identification** for the historical documents available at DODIS. The corpus consists of approximately **50,000 documents** related to Swiss foreign policy. A key research question is if there is sufficient semantic variety in the documents to reliably capture individual writing styles.
