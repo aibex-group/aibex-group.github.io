@@ -3,7 +3,7 @@
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *GrEp: Graph-based epithelial cell classification refinement in histopathology H&E images*<br />
 A.&nbsp;Frei, J.&nbsp;Garcia-Baroja, T.&nbsp;Rau, C.&nbsp;Neppl, A.&nbsp;Lugli, W.&nbsp;Solass, M.&nbsp;Wartenberg, A.&nbsp;Fischer, I.&nbsp;Zlobec<br />
 Pattern Recognition, Volume 171, pp. 112197, 2025<br />
-  <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Frei2025.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Frei2025');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -11,8 +11,9 @@ Pattern Recognition, Volume 171, pp. 112197, 2025<br />
         title="Show BibTeX" />
     <pre id="Frei2025" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Frei2025,
-  author = {A.L. Frei, J. Garcia-Baroja, T.T. Rau, C. Neppl, A. Lugli, W. Solass, M. Wartenberg, A. Fischer, and I. Zlobec},
+  author = {A.L. Frei and J. Garcia-Baroja and T.T. Rau and C. Neppl and A. Lugli and W. Solass and M. Wartenberg and A. Fischer and I. Zlobec},
   journal = {Pattern Recognition},
+  file = {/research/papers/Frei2025.pdf},
   pages = {112197},
   title = {GrEp: Graph-based epithelial cell classification refinement in histopathology H\&E images},
   volume = {171},
@@ -31,7 +32,7 @@ Proc. 22nd Conference of the International Graphonomics Society (IGS), pp. 1--4,
         title="Show BibTeX" />
     <pre id="Dinh2025" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Dinh2025,
-  author = {D.V. Dinh, G. De Gregorio, R.C. Gonzalez Pena, A. Fischer, and I. Marthot-Santaniello},
+  author = {D.V. Dinh and G. De Gregorio and R.C. Gonzalez Pena and A. Fischer and I. Marthot-Santaniello},
   booktitle = {Proc. 22nd Conference of the International Graphonomics Society (IGS)},
   note = {{Best Student Paper Award}},
   pages = {1--4},
@@ -63,7 +64,7 @@ Proc. 5th ICDAR Int. Workshop on Machine Learning (WML), pp. 1--16, 2025<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *CTC Transcription Alignment of the Bullinger Letters: Automatic Improvement of Annotation Quality*<br />
 M.&nbsp;Peer, A.&nbsp;Scius-Bertrand, A.&nbsp;Fischer<br />
 Proc. 2nd Int. Workshop on Computer Vision Systems for Document Analysis and Recognition (VisionDocs), pp. 1--10, 2025<br />
-  <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Peer2025.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Peer2025');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -71,9 +72,10 @@ Proc. 2nd Int. Workshop on Computer Vision Systems for Document Analysis and Rec
         title="Show BibTeX" />
     <pre id="Peer2025" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Peer2025,
-  author = {M. Peer, A. Scius-Bertrand, and A. Fischer},
+  author = {M. Peer and A. Scius-Bertrand and A. Fischer},
   booktitle = {Proc. 2nd Int. Workshop on Computer Vision Systems for Document Analysis and Recognition (VisionDocs)},
   note = {},
+  file = {/research/papers/Peer2025.pdf},
   pages = {1--10},
   title = {CTC Transcription Alignment of the Bullinger Letters: Automatic Improvement of Annotation Quality},
   year = {2025}
@@ -94,7 +96,7 @@ Proc. 13th Int. Symposium on Information and Communication Technology (SoICT), p
         title="Show BibTeX" />
     <pre id="Principe2024" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Principe2024,
-  author = {J.P. Pereyra Principe, A. Fischer, and A. Scius-Bertrand},
+  author = {J.P. Pereyra Principe and A. Fischer and A. Scius-Bertrand},
   booktitle = {Proc. 13th Int. Symposium on Information and Communication Technology (SoICT)},
   note = {},
   pages = {106--118},
@@ -114,7 +116,7 @@ Proc. 18th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 175--191
         title="Show BibTeX" />
     <pre id="Scius_bertrand2024" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2024,
-  author = {A. Scius-Bertrand, A. Fakhari, L. Vögtlin, D.R. Cabral, and A. Fischer},
+  author = {A. Scius-Bertrand and A. Fakhari and L. Vögtlin and D.R. Cabral and A. Fischer},
   booktitle = {Proc. 18th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {175--191},
@@ -134,7 +136,7 @@ Proc. 27th Int. Conf. on Pattern Recognition (ICPR), pp. 152--166, 2024<br />
         title="Show BibTeX" />
     <pre id="Scius_bertrand2024a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2024a,
-  author = {A. Scius-Bertrand, M. Jungo, L. Vögtlin, J.-M. Spat, and A. Fischer},
+  author = {A. Scius-Bertrand and M. Jungo and L. Vögtlin and J.-M. Spat and A. Fischer},
   booktitle = {Proc. 27th Int. Conf. on Pattern Recognition (ICPR)},
   note = {},
   pages = {152--166},
@@ -154,7 +156,7 @@ Number US12169768, 2024<br />
         title="Show BibTeX" />
     <pre id="Cholleton2024" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@misc{Cholleton2024,
-  author = {A. Cholleton, A. Fischer, J. Hennebert, Y. Labrou, V. Raemy, A. West, and B. Wicht},
+  author = {A. Cholleton and A. Fischer and J. Hennebert and Y. Labrou and V. Raemy and A. West and B. Wicht},
   number = {US12169768},
   organization = {U.S. Patent Office},
   title = {Deep Neural Network Generation of Domain Names},
@@ -168,7 +170,7 @@ Number US12169768, 2024<br />
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *A Hybrid Deep Learning Approach to Keyword Spotting in Vietnamese Stele Images*<br />
 A.&nbsp;Scius-Bertrand, M.&nbsp;Bui, A.&nbsp;Fischer<br />
 Informatica, Volume 47, Number 3, pp. 361--372, 2023<br />
- <small><a href="/research/papers/Scius-bertrand2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2023b');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -176,8 +178,7 @@ Informatica, Volume 47, Number 3, pp. 361--372, 2023<br />
         title="Show BibTeX" />
     <pre id="Scius_bertrand2023b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Scius-bertrand2023b,
-  author = {A. Scius-Bertrand, M. Bui, and A. Fischer},
-  file = {/research/papers/Scius-bertrand2023.pdf},
+  author = {A. Scius-Bertrand and M. Bui and A. Fischer},
   journal = {Informatica},
   number = {3},
   pages = {361--372},
@@ -198,7 +199,7 @@ IEEE Access, Volume 11, pp. 140993--141007, 2023<br />
         title="Show BibTeX" />
     <pre id="Stammet2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Stammet2023,
-  author = {C. Stammet, U. Ultes-Nitsche, and A. Fischer},
+  author = {C. Stammet and U. Ultes-Nitsche and A. Fischer},
   file = {/research/papers/Stammet2023.pdf},
   journal = {IEEE Access},
   pages = {140993--141007},
@@ -219,7 +220,7 @@ Proc. Medical Imaging with Deep Learning (MIDL), pp. 1--4, 2023<br />
         title="Show BibTeX" />
     <pre id="Frei2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frei2023,
-  author = {A.L. Frei, A. Khan, P. Zens, A. Lugli, I. Zlobec, and A. Fischer},
+  author = {A.L. Frei and A. Khan and P. Zens and A. Lugli and I. Zlobec and A. Fischer},
   booktitle = {Proc. Medical Imaging with Deep Learning (MIDL)},
   file = {/research/papers/Frei2023.pdf},
   note = {},
@@ -232,7 +233,7 @@ Proc. Medical Imaging with Deep Learning (MIDL), pp. 1--4, 2023<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Local and Global Features Aggregation for Accurate Epithelial Cell Classification Using Graph Attention Mechanisms in Histopathology Images*<br />
 A.&nbsp;Frei, A.&nbsp;Khan, L.&nbsp;Studer, P.&nbsp;Zens, A.&nbsp;Lugli, A.&nbsp;Fischer, I.&nbsp;Zlobec<br />
 Proc. Medical Imaging with Deep Learning (MIDL), pp. 1--5, 2023<br />**Best Poster Award**<br />
- <small><a href="/research/papers/Frei2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Frei2023a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -240,9 +241,8 @@ Proc. Medical Imaging with Deep Learning (MIDL), pp. 1--5, 2023<br />**Best Post
         title="Show BibTeX" />
     <pre id="Frei2023a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frei2023a,
-  author = {A.L. Frei, A. Khan, L. Studer, P. Zens, A. Lugli, A. Fischer, and I. Zlobec},
+  author = {A.L. Frei and A. Khan and L. Studer and P. Zens and A. Lugli and A. Fischer and I. Zlobec},
   booktitle = {Proc. Medical Imaging with Deep Learning (MIDL)},
-  file = {/research/papers/Frei2023.pdf},
   note = {{Best Poster Award}},
   pages = {1--5},
   title = {Local and Global Features Aggregation for Accurate Epithelial Cell Classification Using Graph Attention Mechanisms in Histopathology Images},
@@ -253,7 +253,7 @@ Proc. Medical Imaging with Deep Learning (MIDL), pp. 1--5, 2023<br />**Best Post
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Character Queries: A Transformer-Based Approach to On-line Handwritten Character Segmentation*<br />
 M.&nbsp;Jungo, B.&nbsp;Wolf, A.&nbsp;Maksai, C.&nbsp;Musat, A.&nbsp;Fischer<br />
 Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 98--114, 2023<br />**Best Student Paper Award**<br />
- <small><a href="/research/papers/Jungo2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Jungo2023');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -261,9 +261,8 @@ Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 98--114,
         title="Show BibTeX" />
     <pre id="Jungo2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Jungo2023,
-  author = {M. Jungo, B. Wolf, A. Maksai, C. Musat, and A. Fischer},
+  author = {M. Jungo and B. Wolf and A. Maksai and C. Musat and A. Fischer},
   booktitle = {Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR)},
-  file = {/research/papers/Jungo2023.pdf},
   note = {{Best Student Paper Award}},
   pages = {98--114},
   title = {Character Queries: {A} Transformer-Based Approach to On-line Handwritten Character Segmentation},
@@ -282,7 +281,7 @@ Proc. 12th Int. Symposium on Information and Communication Technology (SoICT), p
         title="Show BibTeX" />
     <pre id="Jungo2023a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Jungo2023a,
-  author = {M. Jungo, L. Vögtlin, A. Fakhari, N. Wegmann, R. Ingold, A. Fischer, and A. Scius-Bertrand},
+  author = {M. Jungo and L. Vögtlin and A. Fakhari and N. Wegmann and R. Ingold and A. Fischer and A. Scius-Bertrand},
   booktitle = {Proc. 12th Int. Symposium on Information and Communication Technology (SoICT)},
   file = {/research/papers/Jungo2023.pdf},
   note = {},
@@ -303,7 +302,7 @@ Proc. International Graphonomics Conference (IGS), pp. 205--258, 2023<br />
         title="Show BibTeX" />
     <pre id="Plamondon2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Plamondon2023,
-  author = {R. Plamondon, A. Bensalah, K. Lebel, R. Salameh, G. S{'e}guin de Broin, C. O'Reilly, M. Begon, O. Desbiens, Y. Beloufa, A. Guy, D. Berio, F.F. Leymarie, S.P. Boyogueno Bidias, A. Fischer, Z. Zhang, M.-F. Morin, D. Alamargot, C. R{'e}mi, N. Faci, R. Fortin, M.-N. Simard, and C. Bazinet},
+  author = {R. Plamondon and A. Bensalah and K. Lebel and R. Salameh and G. S{'e}guin de Broin and C. O'Reilly and M. Begon and O. Desbiens and Y. Beloufa and A. Guy and D. Berio and F.F. Leymarie and S.P. Boyogueno Bidias and A. Fischer and Z. Zhang and M.-F. Morin and D. Alamargot and C. R{'e}mi and N. Faci and R. Fortin and M.-N. Simard and C. Bazinet},
   booktitle = {Proc. International Graphonomics Conference (IGS)},
   note = {},
   pages = {205--258},
@@ -323,7 +322,7 @@ Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 397--410
         title="Show BibTeX" />
     <pre id="Scius_bertrand2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2023,
-  author = {A. Scius-Bertrand, P. Ströbel, M. Volk, T. Hodel, and A. Fischer},
+  author = {A. Scius-Bertrand and P. Ströbel and M. Volk and T. Hodel and A. Fischer},
   booktitle = {Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   file = {/research/papers/Scius-bertrand2023.pdf},
   note = {},
@@ -344,7 +343,7 @@ Proc. International Graphonomics Conference (IGS), pp. 75--88, 2023<br />
         title="Show BibTeX" />
     <pre id="Scius_bertrand2023a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2023a,
-  author = {A. Scius-Bertrand, C. R{'e}mi, E. Biabiany, J. Nagau, and A. Fischer},
+  author = {A. Scius-Bertrand and C. R{'e}mi and E. Biabiany and J. Nagau and A. Fischer},
   booktitle = {Proc. International Graphonomics Conference (IGS)},
   file = {/research/papers/Scius-bertrand2023.pdf},
   note = {},
@@ -365,7 +364,7 @@ Proc. Digital Humanities im deutschsprachigen Raum (DHd), pp. 98--102, 2023<br /
         title="Show BibTeX" />
     <pre id="Ströbel2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Ströbel2023,
-  author = {P. Ströbel, T. Hodel, A. Fischer, A. Scius-Bertrand, B. Wolf, A. Janka, J. Widmer, P. Scheurer, and M. Volk},
+  author = {P. Ströbel and T. Hodel and A. Fischer and A. Scius-Bertrand and B. Wolf and A. Janka and J. Widmer and P. Scheurer and M. Volk},
   booktitle = {Proc. Digital Humanities im deutschsprachigen Raum (DHd)},
   file = {/research/papers/Ströbel2023.pdf},
   note = {},
@@ -386,7 +385,7 @@ Proc. Int. Conf. on Medical Imaging with Deep Learning (MIDL), pp. 1--25, 2023<b
         title="Show BibTeX" />
     <pre id="Studer2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Studer2023,
-  author = {L. Studer, J.-M. Bokhorst, I. Nagtegaal, I. Zlobec, H. Dawson, and A. Fischer},
+  author = {L. Studer and J.-M. Bokhorst and I. Nagtegaal and I. Zlobec and H. Dawson and A. Fischer},
   booktitle = {Proc. Int. Conf. on Medical Imaging with Deep Learning (MIDL)},
   file = {/research/papers/Studer2023.pdf},
   note = {},
@@ -407,7 +406,7 @@ Proc. 7th Int. Workshop on Historical Document Imaging and Processing (HIP), pp.
         title="Show BibTeX" />
     <pre id="Vögtlin2023" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Vögtlin2023,
-  author = {L. Vögtlin, A. Scius-Bertrand, P. Maergner, A. Fischer, and R. Ingold},
+  author = {L. Vögtlin and A. Scius-Bertrand and P. Maergner and A. Fischer and R. Ingold},
   booktitle = {Proc. 7th Int. Workshop on Historical Document Imaging and Processing (HIP)},
   note = {},
   pages = {61--66},
@@ -430,7 +429,7 @@ Medical Image Analysis, Volume 79, pp. 1--20, 2022<br />
         title="Show BibTeX" />
     <pre id="Abbet2022" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Abbet2022,
-  author = {C. Abbet, L. Studer, A. Fischer, H. Dawson, I. Zlobec, B. Bozorgtabar, and J.-P. Thiran},
+  author = {C. Abbet and L. Studer and A. Fischer and H. Dawson and I. Zlobec and B. Bozorgtabar and J.-P. Thiran},
   file = {/research/papers/Abbet2022.pdf},
   journal = {Medical Image Analysis},
   pages = {1--20},
@@ -451,7 +450,7 @@ Proc. 18th Int. Conf on Frontiers in Handwriting Recognition (ICFHR), pp. 484--4
         title="Show BibTeX" />
     <pre id="Diesbach2022" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Diesbach2022,
-  author = {J. Diesbach, A. Fischer, M. Bui, and A. Scius-Bertrand},
+  author = {J. Diesbach and A. Fischer and M. Bui and A. Scius-Bertrand},
   booktitle = {Proc. 18th Int. Conf on Frontiers in Handwriting Recognition (ICFHR)},
   note = {},
   pages = {484--497},
@@ -463,7 +462,7 @@ Proc. 18th Int. Conf on Frontiers in Handwriting Recognition (ICFHR), pp. 484--4
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *The RPM3D Project: 3D Kinematics for Remote Patient Monitoring*<br />
 A.&nbsp;Fornes, A.&nbsp;Bensalah, C.&nbsp;Carmona-Duarte, J.&nbsp;Chen, M.&nbsp;Ferrer, A.&nbsp;Fischer, J.&nbsp;Llad'os, C.&nbsp;Martin, E.&nbsp;Opisso, R.&nbsp;Plamondon, A.&nbsp;Scius-Bertrand, J.&nbsp;Tormos<br />
 Proc. International Graphonomics Conference (IGS), pp. 217--226, 2022<br />
-  <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Fornes2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fornes2022');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -471,8 +470,9 @@ Proc. International Graphonomics Conference (IGS), pp. 217--226, 2022<br />
         title="Show BibTeX" />
     <pre id="Fornes2022" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fornes2022,
-  author = {A. Fornes, A. Bensalah, C. Carmona-Duarte, J. Chen, M.A. Ferrer, A. Fischer, J. Llad{'o}s, C. Martin, E. Opisso, R. Plamondon, A. Scius-Bertrand, J.M. Tormos},
+  author = {A. Fornes and A. Bensalah and C. Carmona-Duarte and J. Chen and M.A. Ferrer and A. Fischer and J. Llad{'o}s and C. Martin and E. Opisso and R. Plamondon and A. Scius-Bertrand and J.M. Tormos},
   booktitle = {Proc. International Graphonomics Conference (IGS)},
+  file = {/research/papers/Fornes2021.pdf},
   note = {},
   pages = {217--226},
   title = {The RPM3D Project: 3D Kinematics for Remote Patient Monitoring},
@@ -483,7 +483,7 @@ Proc. International Graphonomics Conference (IGS), pp. 217--226, 2022<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Annotation-Free Keyword Spotting in Historical Vietnamese Manuscripts Using Graph Matching*<br />
 A.&nbsp;Scius-Bertrand, L.&nbsp;Studer, A.&nbsp;Fischer, M.&nbsp;Bui<br />
 Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR), pp. 22--32, 2022<br />
- <small><a href="/research/papers/Scius-bertrand2022.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2022');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -491,9 +491,8 @@ Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR), pp. 
         title="Show BibTeX" />
     <pre id="Scius_bertrand2022" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2022,
-  author = {A. Scius-Bertrand, L. Studer, A. Fischer, and M. Bui},
+  author = {A. Scius-Bertrand and L. Studer and A. Fischer and M. Bui},
   booktitle = {Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR)},
-  file = {/research/papers/Scius-bertrand2022.pdf},
   note = {},
   pages = {22--32},
   title = {Annotation-Free Keyword Spotting in Historical {Vietnamese} Manuscripts Using Graph Matching},
@@ -512,7 +511,7 @@ Proc. 11th Int. Symposium on Information and Communication Technology (SoICT), p
         title="Show BibTeX" />
     <pre id="Scius_bertrand2022a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2022a,
-  author = {A. Scius-Bertrand, A. Fischer, and M. Bui},
+  author = {A. Scius-Bertrand and A. Fischer and M. Bui},
   booktitle = {Proc. 11th Int. Symposium on Information and Communication Technology (SoICT)},
   file = {/research/papers/Scius-bertrand2022.pdf},
   note = {},
@@ -525,7 +524,7 @@ Proc. 11th Int. Symposium on Information and Communication Technology (SoICT), p
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Improving Handwriting Recognition for Historical Documents Using Synthetic Text Lines*<br />
 M.&nbsp;Spoto, B.&nbsp;Wolf, A.&nbsp;Fischer, A.&nbsp;Scius-Bertrand<br />
 Proc. International Graphonomics Conference (IGS), pp. 61--75, 2022<br />
-  <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Spoto2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Spoto2022');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -533,9 +532,10 @@ Proc. International Graphonomics Conference (IGS), pp. 61--75, 2022<br />
         title="Show BibTeX" />
     <pre id="Spoto2022" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Spoto2022,
-  author = {M. Spoto, B. Wolf, A. Fischer, and A. Scius-Bertrand},
+  author = {M. Spoto and B. Wolf and A. Fischer and A. Scius-Bertrand},
   booktitle = {Proc. International Graphonomics Conference (IGS)},
   note = {},
+  file = {/research/papers/Spoto2021.pdf},
   pages = {61--75},
   title = {Improving Handwriting Recognition for Historical Documents Using Synthetic Text Lines},
   year = {2022}
@@ -553,7 +553,7 @@ Proc. 4th Int. Workshop on Learning and Automata (LearnAut), pp. 1--10, 2022<br 
         title="Show BibTeX" />
     <pre id="Stammet2022" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stammet2022,
-  author = {C. Stammet, P. Dotti, U. Ultes-Nitsche, and A. Fischer},
+  author = {C. Stammet and P. Dotti and U. Ultes-Nitsche and A. Fischer},
   booktitle = {Proc. 4th Int. Workshop on Learning and Automata (LearnAut)},
   file = {/research/papers/Stammet2022.pdf},
   note = {},
@@ -574,7 +574,7 @@ Number US11431672, 2022<br />
         title="Show BibTeX" />
     <pre id="Cholleton2022" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@misc{Cholleton2022,
-  author = {A. Cholleton, A. Fischer, J. Hennebert, V. Raemy, and B. Wicht},
+  author = {A. Cholleton and A. Fischer and J. Hennebert and V. Raemy and B. Wicht},
   number = {US11431672},
   organization = {U.S. Patent Office},
   title = {Deep Neural Network Generation of Domain Names},
@@ -596,7 +596,7 @@ Pattern Recognition, Volume 120, pp. 1--11, 2021<br />
         title="Show BibTeX" />
     <pre id="Riba2021" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Riba2021,
-  author = {P. Riba, A. Fischer, J. Llad{\'o}s, and A. Forn{\'e}s},
+  author = {P. Riba and A. Fischer and J. Llad{\'o}s and A. Forn{\'e}s},
   journal = {Pattern Recognition},
   pages = {1--11},
   title = {Learning Graph Edit Distance by Graph Neural Networks},
@@ -616,7 +616,7 @@ Applied Sciences, Volume 11, pp. 1--18, 2021<br />
         title="Show BibTeX" />
     <pre id="Scius_bertrand2021a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Scius-bertrand2021a,
-  author = {A. Scius-Bertrand, M. Jungo, B. Wolf, A. Fischer, and M. Bui},
+  author = {A. Scius-Bertrand and M. Jungo and B. Wolf and A. Fischer and M. Bui},
   file = {/research/papers/Scius-bertrand2021.pdf},
   journal = {Applied Sciences},
   pages = {1--18},
@@ -637,7 +637,7 @@ Histopathology, Volume 78, Number 4, pp. 476--484, 2021<br />
         title="Show BibTeX" />
     <pre id="Studer2021a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Studer2021a,
-  author = {L. Studer, A. Blank, J.-M. Bokhorst, I. Nagtegaal, I. Zlobec, A. Lugli, A. Fischer, and H. Dawson},
+  author = {L. Studer and A. Blank and J.-M. Bokhorst and I. Nagtegaal and I. Zlobec and A. Lugli and A. Fischer and H. Dawson},
   journal = {Histopathology},
   number = {4},
   pages = {476--484},
@@ -658,7 +658,7 @@ Proc. 4th Int. Conf. on Medical Imaging with Deep Learning (MIDL), pp. 1--16, 20
         title="Show BibTeX" />
     <pre id="Abbet2021" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Abbet2021,
-  author = {C. Abbet, L. Studer, A. Fischer, H. Dawson, I. Zlobec, B. Bozorgtabar, and J.-P. Thiran},
+  author = {C. Abbet and L. Studer and A. Fischer and H. Dawson and I. Zlobec and B. Bozorgtabar and J.-P. Thiran},
   booktitle = {Proc. 4th Int. Conf. on Medical Imaging with Deep Learning (MIDL)},
   file = {/research/papers/Abbet2021.pdf},
   note = {},
@@ -671,7 +671,7 @@ Proc. 4th Int. Conf. on Medical Imaging with Deep Learning (MIDL), pp. 1--16, 20
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Annotation-Free Character Detection in Historical Vietnamese Stele Images*<br />
 A.&nbsp;Scius-Bertrand, M.&nbsp;Jungo, B.&nbsp;Wolf, A.&nbsp;Fischer, M.&nbsp;Bui<br />
 Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 432--447, 2021<br />
- <small><a href="/research/papers/Scius-bertrand2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2021');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -679,9 +679,8 @@ Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 432--447
         title="Show BibTeX" />
     <pre id="Scius_bertrand2021" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2021,
-  author = {A. Scius-Bertrand, M. Jungo, B. Wolf, A. Fischer, and M. Bui},
+  author = {A. Scius-Bertrand and M. Jungo and B. Wolf and A. Fischer and M. Bui},
   booktitle = {Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR)},
-  file = {/research/papers/Scius-bertrand2021.pdf},
   note = {},
   pages = {432--447},
   title = {Annotation-Free Character Detection in Historical Vietnamese Stele Images},
@@ -700,7 +699,7 @@ Proc. 25th Int. Conf. on Pattern Recognition (ICPR), pp. 3636--3643, 2021<br />
         title="Show BibTeX" />
     <pre id="Studer2021" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Studer2021,
-  author = {L. Studer, J. Wallau, H. Dawson, I. Zlobec, and A. Fischer},
+  author = {L. Studer and J. Wallau and H. Dawson and I. Zlobec and A. Fischer},
   booktitle = {Proc. 25th Int. Conf. on Pattern Recognition (ICPR)},
   note = {},
   pages = {3636--3643},
@@ -720,7 +719,7 @@ Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 50--64, 
         title="Show BibTeX" />
     <pre id="Wolf2021" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Wolf2021,
-  author = {F. Wolf, A. Fischer, and G.A. Fink},
+  author = {F. Wolf and A. Fischer and G.A. Fink},
   booktitle = {Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {50--64},
@@ -735,7 +734,7 @@ Proc. 16th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 50--64, 
 <span style='color:rgb(255, 213, 0)'>&#9724;</span>  *Modeling 3D Movements with the Kinematic Theory of Rapid Human Movements*<br />
 A.&nbsp;Fischer, R.&nbsp;Schindler, M.&nbsp;Bouillon, R.&nbsp;Plamondon<br />
 The Lognormality Principle and its Applications in e-Security, e-Learning and e-Health, Volume 88, pp. 327--342, 2020<br />
- <small><a href="/research/papers/Fischer2020.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fischer2020');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -743,14 +742,33 @@ The Lognormality Principle and its Applications in e-Security, e-Learning and e-
         title="Show BibTeX" />
     <pre id="Fischer2020" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@incollection{Fischer2020,
-  author = {A. Fischer, R. Schindler, M. Bouillon, R. Plamondon},
+  author = {A. Fischer and R. Schindler and M. Bouillon and R. Plamondon},
   booktitle = {The Lognormality Principle and its Applications in e-Security, e-Learning and e-Health},
   editor = {R. Plamondon and A. Marcelli and M.A. Ferrer},
-  file = {/research/papers/Fischer2020.pdf},
   pages = {327--342},
   series = {Series in Machine Perception and Artificial Intelligence},
   title = {Modeling 3D Movements with the Kinematic Theory of Rapid Human Movements},
   volume = {88},
+  year = {2020}
+}
+</pre>
+
+<span style='color:rgb(255, 213, 0)'>&#9724;</span>  *Handwritten Historical Document Analysis, Recognition, And Retrieval - State Of The Art And Future Trends*<br />
+A.&nbsp;Fischer, M.&nbsp;Liwicki, R.&nbsp;Ingold<br />
+Series in Machine Perception and Artificial Intelligence, 2020<br />
+ <small><a href="/research/papers/Fischer2020.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('Fischer2020a');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="Fischer2020a" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@book{Fischer2020a,
+  author = {A. Fischer and M. Liwicki and R. Ingold},
+  file = {/research/papers/Fischer2020.pdf},
+  title = {Handwritten Historical Document Analysis, Recognition, And Retrieval - State Of The Art And Future Trends},
+  journal = {Series in Machine Perception and Artificial Intelligence},
+  publisher = {WORLD SCIENTIFIC},
   year = {2020}
 }
 </pre>
@@ -766,7 +784,7 @@ Pattern Recognition Letters, Volume 134, pp. 125--134, 2020<br />
         title="Show BibTeX" />
     <pre id="Stauffer2020" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Stauffer2020,
-  author = {M. Stauffer, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   journal = {Pattern Recognition Letters},
   pages = {125--134},
   title = {Filters for Graph-Based Keyword Spotting in Historical Handwritten Documents},
@@ -786,7 +804,7 @@ Proc. 12th Language Resources and Evaluation Conference (LREC), pp. , 2020<br />
         title="Show BibTeX" />
     <pre id="Linder2020" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Linder2020,
-  author = {L. Linder, M. Jungo, J. Hennebert, C.C. Musat, and A. Fischer},
+  author = {L. Linder and M. Jungo and J. Hennebert and C.C. Musat and A. Fischer},
   booktitle = {Proc. 12th Language Resources and Evaluation Conference (LREC)},
   file = {/research/papers/Linder2020.pdf},
   note = {},
@@ -807,7 +825,7 @@ Proc. 7th Swiss Conference on Data Science (SDS), pp. 57--58, 2020<br />
         title="Show BibTeX" />
     <pre id="Studer2020" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Studer2020,
-  author = {L. Studer, J. Wallau, R. Ingold, and A. Fischer},
+  author = {L. Studer and J. Wallau and R. Ingold and A. Fischer},
   booktitle = {Proc. 7th Swiss Conference on Data Science (SDS)},
   note = {},
   pages = {57--58},
@@ -830,7 +848,7 @@ Pattern Recognition Letters, Volume 121, pp. 61--67, 2019<br />
         title="Show BibTeX" />
     <pre id="Ameri2019" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Ameri2019,
-  author = {M.R. Ameri, M. Stauffer, K. Riesen, T.D. Bui, and A. Fischer},
+  author = {M.R. Ameri and M. Stauffer and K. Riesen and T.D. Bui and A. Fischer},
   journal = {Pattern Recognition Letters},
   pages = {61--67},
   title = {Graph-Based Keyword Spotting in Historical Manuscripts Using Hausdorff Edit Distance},
@@ -850,7 +868,7 @@ Pattern Recognition Letters, Volume 125, pp. 527--533, 2019<br />
         title="Show BibTeX" />
     <pre id="Maergner2019a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Maergner2019a,
-  author = {P. Maergner, V. Pondenkandath, M. Alberti, M. Liwicki, K. Riesen, R. Ingold, and A. Fischer},
+  author = {P. Maergner and V. Pondenkandath and M. Alberti and M. Liwicki and K. Riesen and R. Ingold and A. Fischer},
   file = {/research/papers/Maergner2019.pdf},
   journal = {Pattern Recognition Letters},
   pages = {527--533},
@@ -871,7 +889,7 @@ Proc. SIGNLL Conf. on Computational Natural Language Learning (CoNLL), pp. 890--
         title="Show BibTeX" />
     <pre id="Kocher2019" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Kocher2019,
-  author = {N. Kocher, C. Scuito, L. Tarantino, A. Lazaridis, A. Fischer, and C. Musat},
+  author = {N. Kocher and C. Scuito and L. Tarantino and A. Lazaridis and A. Fischer and C. Musat},
   booktitle = {Proc. SIGNLL Conf. on Computational Natural Language Learning (CoNLL)},
   file = {/research/papers/Kocher2019.pdf},
   note = {},
@@ -884,7 +902,7 @@ Proc. SIGNLL Conf. on Computational Natural Language Learning (CoNLL), pp. 890--
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Synthetic Generation of Online Signatures using a Deep Generative Model*<br />
 P.&nbsp;Maergner, T.&nbsp;Karabacakoglu, K.&nbsp;Riesen, R.&nbsp;Ingold, A.&nbsp;Fischer<br />
 Proc. 19th International Graphonomics Conference (IGS), pp. , 2019<br />
- <small><a href="/research/papers/Maergner2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Maergner2019');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -892,9 +910,8 @@ Proc. 19th International Graphonomics Conference (IGS), pp. , 2019<br />
         title="Show BibTeX" />
     <pre id="Maergner2019" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Maergner2019,
-  author = {P. Maergner, T.S. Karabacakoglu, K. Riesen, R. Ingold, and A. Fischer},
+  author = {P. Maergner and T.S. Karabacakoglu and K. Riesen and R. Ingold and A. Fischer},
   booktitle = {Proc. 19th International Graphonomics Conference (IGS)},
-  file = {/research/papers/Maergner2019.pdf},
   note = {},
   pages = {},
   title = {Synthetic Generation of Online Signatures using a Deep Generative Model},
@@ -913,7 +930,7 @@ Proc. 5th Int. Workshop on Historical Document Imaging and Processing (HIP), pp.
         title="Show BibTeX" />
     <pre id="Scius_bertrand2019" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Scius-bertrand2019,
-  author = {A. Scius-Bertrand, L. Voegtlin, M. Alberti, A. Fischer, and M. Bui},
+  author = {A. Scius-Bertrand and L. Voegtlin and M. Alberti and A. Fischer and M. Bui},
   booktitle = {Proc. 5th Int. Workshop on Historical Document Imaging and Processing (HIP)},
   file = {/research/papers/Scius-bertrand2019.pdf},
   note = {},
@@ -926,7 +943,7 @@ Proc. 5th Int. Workshop on Historical Document Imaging and Processing (HIP), pp.
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Cross-Evaluation of Graph-Based Keyword Spotting in Handwritten Historical Documents*<br />
 M.&nbsp;Stauffer, P.&nbsp;Maergner, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
 Proc. 12th Int. Workshop on Graph-Based Representation in Pattern Recognition (GbR), pp. 45--55, 2019<br />
- <small><a href="/research/papers/Stauffer2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2019');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -934,9 +951,8 @@ Proc. 12th Int. Workshop on Graph-Based Representation in Pattern Recognition (G
         title="Show BibTeX" />
     <pre id="Stauffer2019" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2019,
-  author = {M. Stauffer, P. Maergner, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and P. Maergner and A. Fischer and K. Riesen},
   booktitle = {Proc. 12th Int. Workshop on Graph-Based Representation in Pattern Recognition (GbR)},
-  file = {/research/papers/Stauffer2019.pdf},
   note = {},
   pages = {45--55},
   title = {Cross-Evaluation of Graph-Based Keyword Spotting in Handwritten Historical Documents},
@@ -955,7 +971,7 @@ Proc. 3rd Int. Conf. on Biometric Engineering and Applications (ICBEA), pp. 69--
         title="Show BibTeX" />
     <pre id="Stauffer2019a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2019a,
-  author = {M. Stauffer, P. Maergner, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and P. Maergner and A. Fischer and K. Riesen},
   booktitle = {Proc. 3rd Int. Conf. on Biometric Engineering and Applications (ICBEA)},
   file = {/research/papers/Stauffer2019.pdf},
   note = {},
@@ -968,7 +984,7 @@ Proc. 3rd Int. Conf. on Biometric Engineering and Applications (ICBEA), pp. 69--
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Offline Signature Verification using Structural Dynamic Time Warping*<br />
 M.&nbsp;Stauffer, P.&nbsp;Maergner, A.&nbsp;Fischer, R.&nbsp;Ingold, K.&nbsp;Riesen<br />
 Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 1117--1124, 2019<br />
- <small><a href="/research/papers/Stauffer2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2019b');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -976,9 +992,8 @@ Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 1117--11
         title="Show BibTeX" />
     <pre id="Stauffer2019b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2019b,
-  author = {M. Stauffer, P. Maergner, A. Fischer, R. Ingold, and K. Riesen},
+  author = {M. Stauffer and P. Maergner and A. Fischer and R. Ingold and K. Riesen},
   booktitle = {Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR)},
-  file = {/research/papers/Stauffer2019.pdf},
   note = {},
   pages = {1117--1124},
   title = {Offline Signature Verification using Structural Dynamic Time Warping},
@@ -997,7 +1012,7 @@ Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 720--725
         title="Show BibTeX" />
     <pre id="Studer2019" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Studer2019,
-  author = {L. Studer, M. Alberti, V. Pondenkandath, P. Goktepe, T. Kolonko, A. Fischer, M. Liwicki, and R. Ingold},
+  author = {L. Studer and M. Alberti and V. Pondenkandath and P. Goktepe and T. Kolonko and A. Fischer and M. Liwicki and R. Ingold},
   booktitle = {Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   file = {/research/papers/Studer2019.pdf},
   note = {},
@@ -1010,7 +1025,7 @@ Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 720--725
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Graph-based Classification of Intestinal Glands in Colorectal Cancer Tissue Images*<br />
 L.&nbsp;Studer, S.&nbsp;Toneyan, I.&nbsp;Zlobec, H.&nbsp;Dawson, A.&nbsp;Fischer<br />
 Proc. 2nd MICCAI Workshop on Computational Pathology (COMPAY), pp. 1--8, 2019<br />
- <small><a href="/research/papers/Studer2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Studer2019a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1018,9 +1033,8 @@ Proc. 2nd MICCAI Workshop on Computational Pathology (COMPAY), pp. 1--8, 2019<br
         title="Show BibTeX" />
     <pre id="Studer2019a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Studer2019a,
-  author = {L. Studer, S. Toneyan, I. Zlobec, H. Dawson, and A. Fischer},
+  author = {L. Studer and S. Toneyan and I. Zlobec and H. Dawson and A. Fischer},
   booktitle = {Proc. 2nd MICCAI Workshop on Computational Pathology (COMPAY)},
-  file = {/research/papers/Studer2019.pdf},
   note = {},
   pages = {1--8},
   title = {Graph-based Classification of Intestinal Glands in Colorectal Cancer Tissue Images},
@@ -1042,7 +1056,7 @@ Business Information Systems and Technology 4.0, Volume 141, pp. 197--211, 2018<
         title="Show BibTeX" />
     <pre id="Stauffer2018b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@incollection{Stauffer2018b,
-  author = {M. Stauffer, A. Fischer, K. Riesen},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   booktitle = {Business Information Systems and Technology 4.0},
   editor = {R. Dornberger},
   file = {/research/papers/Stauffer2018.pdf},
@@ -1065,7 +1079,7 @@ IEEE Trans. on Cybernetics, Volume 48, Number 1, pp. 228--239, 2018<br />
         title="Show BibTeX" />
     <pre id="Diaz2018" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Diaz2018,
-  author = {M. Diaz, A. Fischer, M.A. Ferrer, and R. Plamondon},
+  author = {M. Diaz and A. Fischer and M.A. Ferrer and R. Plamondon},
   journal = {IEEE Trans. on Cybernetics},
   number = {1},
   pages = {228--239},
@@ -1086,7 +1100,7 @@ Neural Processing Letters, Volume 48, Number 2, pp. 691--707, 2018<br />
         title="Show BibTeX" />
     <pre id="Riesen2018" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Riesen2018,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   file = {/research/papers/Riesen2018.pdf},
   journal = {Neural Processing Letters},
   number = {2},
@@ -1100,7 +1114,7 @@ Neural Processing Letters, Volume 48, Number 2, pp. 691--707, 2018<br />
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Keyword Spotting in Historical Handwritten Documents based on Graph Matching*<br />
 M.&nbsp;Stauffer, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
 Pattern Recognition, Volume 81, pp. 240--253, 2018<br />
- <small><a href="/research/papers/Stauffer2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2018a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1108,8 +1122,7 @@ Pattern Recognition, Volume 81, pp. 240--253, 2018<br />
         title="Show BibTeX" />
     <pre id="Stauffer2018a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Stauffer2018a,
-  author = {M. Stauffer, A. Fischer, and K. Riesen},
-  file = {/research/papers/Stauffer2018.pdf},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   journal = {Pattern Recognition},
   pages = {240--253},
   title = {Keyword Spotting in Historical Handwritten Documents based on Graph Matching},
@@ -1129,7 +1142,7 @@ Proc. 16th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 163--
         title="Show BibTeX" />
     <pre id="Maergner2018" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Maergner2018,
-  author = {P. Maergner, N.R. Howe, K. Riesen, R. Ingold, and A. Fischer},
+  author = {P. Maergner and N.R. Howe and K. Riesen and R. Ingold and A. Fischer},
   booktitle = {Proc. 16th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
   note = {},
   pages = {163--168},
@@ -1149,7 +1162,7 @@ Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognitio
         title="Show BibTeX" />
     <pre id="Maergner2018a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Maergner2018a,
-  author = {P. Maergner, V. Pondenkandath, M. Alberti, M. Liwicki, K. Riesen, R. Ingold, and A. Fischer},
+  author = {P. Maergner and V. Pondenkandath and M. Alberti and M. Liwicki and K. Riesen and R. Ingold and A. Fischer},
   booktitle = {Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR)},
   note = {},
   pages = {470--480},
@@ -1169,7 +1182,7 @@ Proc. 24th Int. Conf. on Pattern Recognition (ICPR), pp. 2239--2244, 2018<br />*
         title="Show BibTeX" />
     <pre id="Riba2018" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riba2018,
-  author = {P. Riba, A. Fischer, J. Llados, and A. Fornes},
+  author = {P. Riba and A. Fischer and J. Llados and A. Fornes},
   booktitle = {Proc. 24th Int. Conf. on Pattern Recognition (ICPR)},
   note = {{Best Scientific Paper Award}},
   pages = {2239--2244},
@@ -1189,7 +1202,7 @@ Proc. 1st Int. Conf. on Pattern Recognition and Artificial Intelligence (ICPRAI)
         title="Show BibTeX" />
     <pre id="Schindler2018" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Schindler2018,
-  author = {R. Schindler, M. Bouillon, R. Plamondon, and A. Fischer},
+  author = {R. Schindler and M. Bouillon and R. Plamondon and A. Fischer},
   booktitle = {Proc. 1st Int. Conf. on Pattern Recognition and Artificial Intelligence (ICPRAI)},
   file = {/research/papers/Schindler2018.pdf},
   note = {},
@@ -1202,7 +1215,7 @@ Proc. 1st Int. Conf. on Pattern Recognition and Artificial Intelligence (ICPRAI)
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Graph-Based Keyword Spotting in Historical Documents Using Context-Aware Hausdorff Edit Distance*<br />
 M.&nbsp;Stauffer, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
 Proc. 13th Int. Workshop on Document Analysis Systems (DAS), pp. 49--54, 2018<br />
- <small><a href="/research/papers/Stauffer2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2018');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1210,9 +1223,8 @@ Proc. 13th Int. Workshop on Document Analysis Systems (DAS), pp. 49--54, 2018<br
         title="Show BibTeX" />
     <pre id="Stauffer2018" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2018,
-  author = {M. Stauffer, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   booktitle = {Proc. 13th Int. Workshop on Document Analysis Systems (DAS)},
-  file = {/research/papers/Stauffer2018.pdf},
   note = {},
   pages = {49--54},
   title = {Graph-Based Keyword Spotting in Historical Documents Using Context-Aware Hausdorff Edit Distance},
@@ -1231,7 +1243,7 @@ Proc. 8th Int. Workshop on Artificial Neural Networks in Pattern Recognition (AN
         title="Show BibTeX" />
     <pre id="Wicht2018" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Wicht2018,
-  author = {B. Wicht, A. Fischer, and J. Hennebert},
+  author = {B. Wicht and A. Fischer and J. Hennebert},
   booktitle = {Proc. 8th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
   note = {},
   pages = {54--65},
@@ -1254,7 +1266,7 @@ Pattern Recognition Letters, Volume 87, pp. 55--62, 2017<br />
         title="Show BibTeX" />
     <pre id="Fischer2017" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Fischer2017,
-  author = {A. Fischer, K. Riesen, and H. Bunke},
+  author = {A. Fischer and K. Riesen and H. Bunke},
   journal = {Pattern Recognition Letters},
   pages = {55--62},
   title = {Improved Quadratic Time Approximation of Graph Edit Distance by Combining Hausdorff Matching and Greedy Assignment},
@@ -1295,7 +1307,7 @@ IEEE Trans. on Human-Machine Systems, Volume 47, Number 2, pp. 181--193, 2017<br
         title="Show BibTeX" />
     <pre id="Garz2017a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Garz2017a,
-  author = {A. Garz, M. Seuret, A. Fischer, and R. Ingold},
+  author = {A. Garz and M. Seuret and A. Fischer and R. Ingold},
   journal = {IEEE Trans. on Human-Machine Systems},
   number = {2},
   pages = {181--193},
@@ -1316,7 +1328,7 @@ Proc. 18th Conf. of the International Graphonomics Society (IGS), pp. , 2017<br 
         title="Show BibTeX" />
     <pre id="Ameri2017" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Ameri2017,
-  author = {M. Ameri, M. Stauffer, K. Riesen, T. Bui, and A. Fischer},
+  author = {M. Ameri and M. Stauffer and K. Riesen and T. Bui and A. Fischer},
   booktitle = {Proc. 18th Conf. of the International Graphonomics Society (IGS)},
   note = {},
   pages = {},
@@ -1336,7 +1348,7 @@ Proc. 18th Conf. of the International Graphonomics Society (IGS), pp. , 2017<br 
         title="Show BibTeX" />
     <pre id="Garz2017" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Garz2017,
-  author = {A. Garz, F. Schuetz, A. Villa, R. Plamondon, and A. Fischer},
+  author = {A. Garz and F. Schuetz and A. Villa and R. Plamondon and A. Fischer},
   booktitle = {Proc. 18th Conf. of the International Graphonomics Society (IGS)},
   note = {},
   pages = {},
@@ -1356,7 +1368,7 @@ Proc. 14th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 1216--12
         title="Show BibTeX" />
     <pre id="Maergner2017" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Maergner2017,
-  author = {P. Maergner, K. Riesen, R. Ingold, and A. Fischer},
+  author = {P. Maergner and K. Riesen and R. Ingold and A. Fischer},
   booktitle = {Proc. 14th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {1216--1222},
@@ -1376,7 +1388,7 @@ Proc. 18th Conf. of the International Graphonomics Society (IGS), pp. , 2017<br 
         title="Show BibTeX" />
     <pre id="Maergner2017a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Maergner2017a,
-  author = {P. Maergner, K. Riesen, R. Ingold, and A. Fischer},
+  author = {P. Maergner and K. Riesen and R. Ingold and A. Fischer},
   booktitle = {Proc. 18th Conf. of the International Graphonomics Society (IGS)},
   note = {},
   pages = {},
@@ -1396,7 +1408,7 @@ Proc. Computing in Cardiology (CinC), pp. , 2017<br />
         title="Show BibTeX" />
     <pre id="Niederhauser2017" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Niederhauser2017,
-  author = {T. Niederhauser, A. Haeberlin, B. Jesacher, A. Fischer, H. Tanner},
+  author = {T. Niederhauser and A. Haeberlin and B. Jesacher and A. Fischer and H. Tanner},
   booktitle = {Proc. Computing in Cardiology (CinC)},
   note = {},
   pages = {},
@@ -1416,7 +1428,7 @@ Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (
         title="Show BibTeX" />
     <pre id="Riesen2017" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2017,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   booktitle = {Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
   note = {},
   pages = {222--231},
@@ -1436,7 +1448,7 @@ Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (
         title="Show BibTeX" />
     <pre id="Stauffer2017" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2017,
-  author = {M. Stauffer, T. Tschachtli, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and T. Tschachtli and A. Fischer and K. Riesen},
   booktitle = {Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
   note = {},
   pages = {242--252},
@@ -1456,7 +1468,7 @@ Proc. 14th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 714--720
         title="Show BibTeX" />
     <pre id="Stauffer2017a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2017a,
-  author = {M. Stauffer, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   booktitle = {Proc. 14th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {714--720},
@@ -1476,7 +1488,7 @@ Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (
         title="Show BibTeX" />
     <pre id="Stauffer2017b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2017b,
-  author = {M. Stauffer, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   booktitle = {Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
   note = {},
   pages = {83--93},
@@ -1491,7 +1503,7 @@ Proc. 11th Int. Workshop on Graph-based Representations in Pattern Recognition (
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Creating ground truth for historical manuscripts with document graphs and scribbling interaction*<br />
 A.&nbsp;Garz, M.&nbsp;Seuret, F.&nbsp;Simistira, A.&nbsp;Fischer, R.&nbsp;Ingold<br />
 Proc. 12th Int. Workshop on Document Analysis Systems (DAS), pp. 126--131, 2016<br />
- <small><a href="/research/papers/Garz2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Garz2016');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1499,9 +1511,8 @@ Proc. 12th Int. Workshop on Document Analysis Systems (DAS), pp. 126--131, 2016<
         title="Show BibTeX" />
     <pre id="Garz2016" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Garz2016,
-  author = {A. Garz, M. Seuret, F. Simistira, A. Fischer, and R. Ingold},
+  author = {A. Garz and M. Seuret and F. Simistira and A. Fischer and R. Ingold},
   booktitle = {Proc. 12th Int. Workshop on Document Analysis Systems (DAS)},
-  file = {/research/papers/Garz2016.pdf},
   note = {},
   pages = {126--131},
   title = {Creating ground truth for historical manuscripts with document graphs and scribbling interaction},
@@ -1512,7 +1523,7 @@ Proc. 12th Int. Workshop on Document Analysis Systems (DAS), pp. 126--131, 2016<
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *GraphManuscribble: Interact intuitively with digital facsimiles*<br />
 A.&nbsp;Garz, M.&nbsp;Seuret, A.&nbsp;Fischer, R.&nbsp;Ingold<br />
 Proc. 2nd Int. Conf. on Natural Sciences and Technology in Manuscript Analysis, pp. 61--63, 2016<br />
- <small><a href="/research/papers/Garz2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Garz2016a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1520,9 +1531,8 @@ Proc. 2nd Int. Conf. on Natural Sciences and Technology in Manuscript Analysis, 
         title="Show BibTeX" />
     <pre id="Garz2016a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Garz2016a,
-  author = {A. Garz, M. Seuret, A. Fischer, and R. Ingold},
+  author = {A. Garz and M. Seuret and A. Fischer and R. Ingold},
   booktitle = {Proc. 2nd Int. Conf. on Natural Sciences and Technology in Manuscript Analysis},
-  file = {/research/papers/Garz2016.pdf},
   note = {},
   pages = {61--63},
   title = {GraphManuscribble: Interact intuitively with digital facsimiles},
@@ -1541,7 +1551,7 @@ Proc. 23rd Int. Conf. on Document Recognition and Retrieval (DRR), pp. 1--12, 20
         title="Show BibTeX" />
     <pre id="Garz2016b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Garz2016b,
-  author = {A. Garz, M. Würsch, A. Fischer, and R. Ingold},
+  author = {A. Garz and M. Würsch and A. Fischer and R. Ingold},
   booktitle = {Proc. 23rd Int. Conf. on Document Recognition and Retrieval (DRR)},
   file = {/research/papers/Garz2016.pdf},
   note = {},
@@ -1562,7 +1572,7 @@ Proc. 15th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 96--1
         title="Show BibTeX" />
     <pre id="Howe2016" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Howe2016,
-  author = {N. Howe, A. Fischer, and B. Wicht},
+  author = {N. Howe and A. Fischer and B. Wicht},
   booktitle = {Proc. 15th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
   note = {},
   pages = {96--101},
@@ -1582,7 +1592,7 @@ Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (AN
         title="Show BibTeX" />
     <pre id="Riesen2016" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2016,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   booktitle = {Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
   file = {/research/papers/Riesen2016.pdf},
   note = {},
@@ -1603,7 +1613,7 @@ Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognitio
         title="Show BibTeX" />
     <pre id="Stauffer2016" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2016,
-  author = {M. Stauffer, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   booktitle = {Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR)},
   file = {/research/papers/Stauffer2016.pdf},
   note = {},
@@ -1616,7 +1626,7 @@ Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognitio
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Graph-Based Keyword Spotting in Historical Handwritten Documents*<br />
 M.&nbsp;Stauffer, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
 Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR), pp. 564--573, 2016<br />
- <small><a href="/research/papers/Stauffer2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2016a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1624,9 +1634,8 @@ Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognitio
         title="Show BibTeX" />
     <pre id="Stauffer2016a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Stauffer2016a,
-  author = {M. Stauffer, A. Fischer, and K. Riesen},
+  author = {M. Stauffer and A. Fischer and K. Riesen},
   booktitle = {Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR)},
-  file = {/research/papers/Stauffer2016.pdf},
   note = {},
   pages = {564--573},
   title = {Graph-Based Keyword Spotting in Historical Handwritten Documents},
@@ -1637,7 +1646,7 @@ Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognitio
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Deep Learning Features for Handwritten Keyword Spotting*<br />
 B.&nbsp;Wicht, A.&nbsp;Fischer, J.&nbsp;Hennebert<br />
 Proc. 23rd Int. Conf. on Pattern Recognition (ICPR), pp. 3434--3439, 2016<br />
- <small><a href="/research/papers/Wicht2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Wicht2016');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1645,9 +1654,8 @@ Proc. 23rd Int. Conf. on Pattern Recognition (ICPR), pp. 3434--3439, 2016<br />
         title="Show BibTeX" />
     <pre id="Wicht2016" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Wicht2016,
-  author = {B. Wicht, A. Fischer, and J. Hennebert},
+  author = {B. Wicht and A. Fischer and J. Hennebert},
   booktitle = {Proc. 23rd Int. Conf. on Pattern Recognition (ICPR)},
-  file = {/research/papers/Wicht2016.pdf},
   note = {},
   pages = {3434--3439},
   title = {Deep Learning Features for Handwritten Keyword Spotting},
@@ -1658,7 +1666,7 @@ Proc. 23rd Int. Conf. on Pattern Recognition (ICPR), pp. 3434--3439, 2016<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Keyword Spotting with Convolutional Deep Belief Networks and Dynamic Time Warping*<br />
 B.&nbsp;Wicht, A.&nbsp;Fischer, J.&nbsp;Hennebert<br />
 Proc. 25th Int. Conf. on Artificial Neural Networks (ICANN), pp. 113--120, 2016<br />
- <small><a href="/research/papers/Wicht2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+  <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Wicht2016a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1666,9 +1674,8 @@ Proc. 25th Int. Conf. on Artificial Neural Networks (ICANN), pp. 113--120, 2016<
         title="Show BibTeX" />
     <pre id="Wicht2016a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Wicht2016a,
-  author = {B. Wicht, A. Fischer, and J. Hennebert},
+  author = {B. Wicht and A. Fischer and J. Hennebert},
   booktitle = {Proc. 25th Int. Conf. on Artificial Neural Networks (ICANN)},
-  file = {/research/papers/Wicht2016.pdf},
   note = {},
   pages = {113--120},
   title = {Keyword Spotting with Convolutional Deep Belief Networks and Dynamic Time Warping},
@@ -1687,7 +1694,7 @@ Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (AN
         title="Show BibTeX" />
     <pre id="Wicht2016b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Wicht2016b,
-  author = {B. Wicht, A. Fischer, and J. Hennebert},
+  author = {B. Wicht and A. Fischer and J. Hennebert},
   booktitle = {Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
   file = {/research/papers/Wicht2016.pdf},
   note = {},
@@ -1711,7 +1718,7 @@ Pattern Recognition, Volume 48, Number 2, pp. 331--343, 2015<br />
         title="Show BibTeX" />
     <pre id="Fischer2015c" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Fischer2015c,
-  author = {A. Fischer, C. Y. Suen, V. Frinken, K. Riesen, and H. Bunke},
+  author = {A. Fischer and C. Y. Suen and V. Frinken and K. Riesen and H. Bunke},
   file = {/research/papers/Fischer2015.pdf},
   journal = {Pattern Recognition},
   number = {2},
@@ -1733,7 +1740,7 @@ International Journal of Pattern Recognition and Artificial Intelligence, Volume
         title="Show BibTeX" />
     <pre id="Riesen2015b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Riesen2015b,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   journal = {International Journal of Pattern Recognition and Artificial Intelligence},
   number = {2},
   pages = {1--27},
@@ -1754,7 +1761,7 @@ Proc. 17th Conf. of the International Graphonomics Society (IGS), pp. 59--62, 20
         title="Show BibTeX" />
     <pre id="Bou_hernandez2015" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Bou-hernandez2015,
-  author = {A. Bou-Hernandez, A. Fischer, and R. Plamondon},
+  author = {A. Bou-Hernandez and A. Fischer and R. Plamondon},
   booktitle = {Proc. 17th Conf. of the International Graphonomics Society (IGS)},
   note = {},
   pages = {59--62},
@@ -1774,7 +1781,7 @@ Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 631--635
         title="Show BibTeX" />
     <pre id="Diaz2015" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Diaz2015,
-  author = {M. Diaz, A. Fischer, R. Plamondon, and M.A. Ferrer},
+  author = {M. Diaz and A. Fischer and R. Plamondon and M.A. Ferrer},
   booktitle = {Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {631--635},
@@ -1815,7 +1822,7 @@ Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (
         title="Show BibTeX" />
     <pre id="Fischer2015a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2015a,
-  author = {A. Fischer, S. Uchida, V. Frinken, K. Riesen, and H. Bunke},
+  author = {A. Fischer and S. Uchida and V. Frinken and K. Riesen and H. Bunke},
   booktitle = {Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
   file = {/research/papers/Fischer2015.pdf},
   note = {},
@@ -1836,7 +1843,7 @@ Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 241--245
         title="Show BibTeX" />
     <pre id="Fischer2015b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2015b,
-  author = {A. Fischer, M. Diaz, R. Plamondon, and M.A. Ferrer},
+  author = {A. Fischer and M. Diaz and R. Plamondon and M.A. Ferrer},
   booktitle = {Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   file = {/research/papers/Fischer2015.pdf},
   note = {},
@@ -1857,7 +1864,7 @@ Proc. 12th Int. Workshop on Multiple Classifier Systems (MCS), pp. 125--134, 201
         title="Show BibTeX" />
     <pre id="Riesen2015" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2015,
-  author = {K. Riesen, M. Ferrer, and A. Fischer},
+  author = {K. Riesen and M. Ferrer and A. Fischer},
   booktitle = {Proc. 12th Int. Workshop on Multiple Classifier Systems (MCS)},
   note = {},
   pages = {125--134},
@@ -1877,7 +1884,7 @@ Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (
         title="Show BibTeX" />
     <pre id="Riesen2015a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2015a,
-  author = {K. Riesen, M. Ferrer, A. Fischer, and H. Bunke},
+  author = {K. Riesen and M. Ferrer and A. Fischer and H. Bunke},
   booktitle = {Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR)},
   note = {},
   pages = {3--12},
@@ -1897,7 +1904,7 @@ Proc. 3rd Int. Workshop on Historical Document Imaging and Processing (HIP), pp.
         title="Show BibTeX" />
     <pre id="Seuret2015" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Seuret2015,
-  author = {M. Seuret, A. Fischer, A. Garz, M. Liwicki, and R. Ingold},
+  author = {M. Seuret and A. Fischer and A. Garz and M. Liwicki and R. Ingold},
   booktitle = {Proc. 3rd Int. Workshop on Historical Document Imaging and Processing (HIP)},
   note = {},
   pages = {85--91},
@@ -1917,7 +1924,7 @@ Proc. 3rd Int. Workshop on Historical Document Imaging and Processing (HIP), pp.
         title="Show BibTeX" />
     <pre id="Wei2015" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Wei2015,
-  author = {H. Wei, M. Seuret, K. Chen, A. Fischer, M. Liwicki, R. Ingold, and X. Zhong},
+  author = {H. Wei and M. Seuret and K. Chen and A. Fischer and M. Liwicki and R. Ingold and X. Zhong},
   booktitle = {Proc. 3rd Int. Workshop on Historical Document Imaging and Processing (HIP)},
   note = {},
   pages = {55--62},
@@ -1940,7 +1947,7 @@ Internationality and Interdisciplinarity in Edition Philology, Volume 38, pp. 91
         title="Show BibTeX" />
     <pre id="Fischer2014c" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@incollection{Fischer2014c,
-  author = {A. Fischer, H. Bunke, N. Naji, J. Savoy, M. Baechler, and R. Ingold},
+  author = {A. Fischer and H. Bunke and N. Naji and J. Savoy and M. Baechler and R. Ingold},
   booktitle = {Internationality and Interdisciplinarity in Edition Philology},
   editor = {M. Stolz and Y.-C. Chen},
   pages = {91--106},
@@ -1962,7 +1969,7 @@ Pattern Recognition, Volume 47, Number 3, pp. 1073--1082, 2014<br />
         title="Show BibTeX" />
     <pre id="Frinken2014a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Frinken2014a,
-  author = {V. Frinken, A. Fischer, M. Baumgartner, and H. Bunke},
+  author = {V. Frinken and A. Fischer and M. Baumgartner and H. Bunke},
   journal = {Pattern Recognition},
   number = {3},
   pages = {1073--1082},
@@ -1983,7 +1990,7 @@ Pattern Recognition, Volume 47, Number 4, pp. 1642--1652, 2014<br />
         title="Show BibTeX" />
     <pre id="Zamora_martinez2014" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Zamora-martinez2014,
-  author = {F. Zamora-Martinez, V. Frinken, S. Espana-Boquera, M. J. Castro-Bleda, A. Fischer, and H. Bunke},
+  author = {F. Zamora-Martinez and V. Frinken and S. Espana-Boquera and M. J. Castro-Bleda and A. Fischer and H. Bunke},
   journal = {Pattern Recognition},
   number = {4},
   pages = {1642--1652},
@@ -2004,7 +2011,7 @@ Proc. 14th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 512--
         title="Show BibTeX" />
     <pre id="Ameri2014" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Ameri2014,
-  author = {M.R. Ameri, M. Haji, A. Fischer, D. Ponson, and T.D. Bui},
+  author = {M.R. Ameri and M. Haji and A. Fischer and D. Ponson and T.D. Bui},
   booktitle = {Proc. 14th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
   note = {},
   pages = {512--516},
@@ -2024,7 +2031,7 @@ Proc. 11th Int. Workshop on Document Analysis Systems (DAS), pp. 71--75, 2014<br
         title="Show BibTeX" />
     <pre id="Fischer2014" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2014,
-  author = {A. Fischer, M. Baechler, A. Garz, M. Liwicki, and R. Ingold},
+  author = {A. Fischer and M. Baechler and A. Garz and M. Liwicki and R. Ingold},
   booktitle = {Proc. 11th Int. Workshop on Document Analysis Systems (DAS)},
   note = {},
   pages = {71--75},
@@ -2044,7 +2051,7 @@ Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR), pp. 
         title="Show BibTeX" />
     <pre id="Fischer2014a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2014a,
-  author = {A. Fischer, R. Plamondon, Y. Savaria, K. Riesen, and H. Bunke},
+  author = {A. Fischer and R. Plamondon and Y. Savaria and K. Riesen and H. Bunke},
   booktitle = {Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR)},
   note = {},
   pages = {83--92},
@@ -2064,7 +2071,7 @@ Proc. 14th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 222--
         title="Show BibTeX" />
     <pre id="Fischer2014b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2014b,
-  author = {A. Fischer, R. Plamondon, C. {O'Reilly}, and Y. Savaria},
+  author = {A. Fischer and R. Plamondon and C. {O'Reilly} and Y. Savaria},
   booktitle = {Proc. 14th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
   note = {},
   pages = {222--227},
@@ -2084,7 +2091,7 @@ Proc. 11th Int. Workshop on Document Analysis Systems (DAS), pp. 166--170, 2014<
         title="Show BibTeX" />
     <pre id="Frinken2014" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2014,
-  author = {V. Frinken, D. Karatzas, and A. Fischer},
+  author = {V. Frinken and D. Karatzas and A. Fischer},
   booktitle = {Proc. 11th Int. Workshop on Document Analysis Systems (DAS)},
   note = {},
   pages = {166--170},
@@ -2104,7 +2111,7 @@ Proc. 6th Int. Workshop on Artificial Neural Networks in Pattern Recognition (AN
         title="Show BibTeX" />
     <pre id="Riesen2014" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2014,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   booktitle = {Proc. 6th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
   note = {},
   pages = {117--128},
@@ -2124,7 +2131,7 @@ Proc. 6th Int. Workshop on Artificial Neural Networks in Pattern Recognition (AN
         title="Show BibTeX" />
     <pre id="Riesen2014a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2014a,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   booktitle = {Proc. 6th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)},
   note = {},
   pages = {129--140},
@@ -2144,7 +2151,7 @@ Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR), pp. 
         title="Show BibTeX" />
     <pre id="Riesen2014b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2014b,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   booktitle = {Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR)},
   note = {},
   pages = {3910--3914},
@@ -2164,7 +2171,7 @@ Proc. 22nd Int. Conf. on Pattern Recognition (ICPR), pp. 3910--3914, 2014<br />
         title="Show BibTeX" />
     <pre id="Riesen2014c" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Riesen2014c,
-  author = {K. Riesen, A. Fischer, and H. Bunke},
+  author = {K. Riesen and A. Fischer and H. Bunke},
   booktitle = {Proc. 22nd Int. Conf. on Pattern Recognition (ICPR)},
   note = {},
   pages = {3910--3914},
@@ -2187,7 +2194,7 @@ Machine Learning: Theory and Applications, Volume 31, pp. 421--442, 2013<br />
         title="Show BibTeX" />
     <pre id="Fischer2013c" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@incollection{Fischer2013c,
-  author = {A. Fischer, V. Frinken, and H. Bunke},
+  author = {A. Fischer and V. Frinken and H. Bunke},
   booktitle = {Machine Learning: Theory and Applications},
   editor = {C.R. Rao and V. Govindaraju},
   pages = {421--442},
@@ -2209,7 +2216,7 @@ Proc. 9th Int. Workshop on Graph-Based Representations (GbR), pp. 194--203, 2013
         title="Show BibTeX" />
     <pre id="Fischer2013" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2013,
-  author = {A. Fischer, C. Y. Suen, V. Frinken, K. Riesen, and H. Bunke},
+  author = {A. Fischer and C. Y. Suen and V. Frinken and K. Riesen and H. Bunke},
   booktitle = {Proc. 9th Int. Workshop on Graph-Based Representations (GbR)},
   note = {},
   pages = {194--203},
@@ -2231,7 +2238,7 @@ Processing (HIP), pp. 73--79, 2013<br />
         title="Show BibTeX" />
     <pre id="Fischer2013a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2013a,
-  author = {A. Fischer, V. C. Kieu, M. Visani, and C. Y. Suen},
+  author = {A. Fischer and V. C. Kieu and M. Visani and C. Y. Suen},
   booktitle = {Proc. 2nd Int. Workshop on Historical Document Imaging and
 Processing (HIP)},
   note = {},
@@ -2253,7 +2260,7 @@ Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 506--510
         title="Show BibTeX" />
     <pre id="Fischer2013b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2013b,
-  author = {A. Fischer, V. Frinken, H. Bunke, and C. Y. Suen},
+  author = {A. Fischer and V. Frinken and H. Bunke and C. Y. Suen},
   booktitle = {Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {506--510},
@@ -2275,7 +2282,7 @@ Processing (HIP), pp. 67--72, 2013<br />
         title="Show BibTeX" />
     <pre id="Frinken2013" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2013,
-  author = {V. Frinken, A. Fischer, and C. D. Martinez-Hinarejos},
+  author = {V. Frinken and A. Fischer and C. D. Martinez-Hinarejos},
   booktitle = {Proc. 2nd Int. Workshop on Historical Document Imaging and
 Processing (HIP)},
   note = {},
@@ -2298,7 +2305,7 @@ Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 1290--12
         title="Show BibTeX" />
     <pre id="Garz2013" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Garz2013,
-  author = {A. Garz, A. Fischer, H. Bunke, and R. Ingold},
+  author = {A. Garz and A. Fischer and H. Bunke and R. Ingold},
   booktitle = {Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {1290--1294},
@@ -2320,7 +2327,7 @@ Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 364--368
         title="Show BibTeX" />
     <pre id="Prum2013" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Prum2013,
-  author = {S. Prum, M. Visani, A. Fischer, and J.-M. Ogier},
+  author = {S. Prum and M. Visani and A. Fischer and J.-M. Ogier},
   booktitle = {Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {364--368},
@@ -2344,7 +2351,7 @@ Pattern Recognition Letters, Volume 33, Number 7, pp. 934--942, 2012<br />
         title="Show BibTeX" />
     <pre id="Fischer2012" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Fischer2012,
-  author = {A. Fischer, A. Keller, V. Frinken, and H. Bunke},
+  author = {A. Fischer and A. Keller and V. Frinken and H. Bunke},
   journal = {Pattern Recognition Letters},
   number = {7},
   pages = {934--942},
@@ -2365,7 +2372,7 @@ IEEE Trans. PAMI, Volume 34, Number 2, pp. 211--224, 2012<br />
         title="Show BibTeX" />
     <pre id="Frinken2012b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{Frinken2012b,
-  author = {V. Frinken, A. Fischer, R. Manmatha, and H. Bunke},
+  author = {V. Frinken and A. Fischer and R. Manmatha and H. Bunke},
   journal = {IEEE Trans. PAMI},
   number = {2},
   pages = {211--224},
@@ -2386,7 +2393,7 @@ Proc. Digital Humanities (DH), pp. 94--97, 2012<br />
         title="Show BibTeX" />
     <pre id="Baechler2012" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Baechler2012,
-  author = {M. Baechler, A. Fischer, N. Naji, R. Ingold, H. Bunke, and J. Savoy},
+  author = {M. Baechler and A. Fischer and N. Naji and R. Ingold and H. Bunke and J. Savoy},
   booktitle = {Proc. Digital Humanities (DH)},
   note = {},
   pages = {94--97},
@@ -2406,7 +2413,7 @@ Proc. 21st Int. Conf. on Pattern Recognition (ICPR), pp. 701--704, 2012<br />
         title="Show BibTeX" />
     <pre id="Frinken2012" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2012,
-  author = {V. Frinken, F. Zamora-Mart'{i}nez, S. Espa {n}a-Boquera, M. J. Castro-Bleda, A. Fischer, and H. Bunke},
+  author = {V. Frinken and F. Zamora-Mart'{i}nez and S. Espa {n}a-Boquera and M. J. Castro-Bleda and A. Fischer and H. Bunke},
   booktitle = {Proc. 21st Int. Conf. on Pattern Recognition (ICPR)},
   note = {},
   pages = {701--704},
@@ -2426,7 +2433,7 @@ Proc. 13th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 49--5
         title="Show BibTeX" />
     <pre id="Frinken2012a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2012a,
-  author = {V. Frinken, M. Baumgartner, A. Fischer, and H. Bunke},
+  author = {V. Frinken and M. Baumgartner and A. Fischer and H. Bunke},
   booktitle = {Proc. 13th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR)},
   note = {},
   pages = {49--54},
@@ -2446,7 +2453,7 @@ Proc. 10th Int. Workshop on Document Analysis Systems (DAS), pp. 95--99, 2012<br
         title="Show BibTeX" />
     <pre id="Garz2012" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Garz2012,
-  author = {A. Garz, A. Fischer, R. Sablatnig, and H. Bunke},
+  author = {A. Garz and A. Fischer and R. Sablatnig and H. Bunke},
   booktitle = {Proc. 10th Int. Workshop on Document Analysis Systems (DAS)},
   note = {},
   pages = {95--99},
@@ -2492,7 +2499,7 @@ Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 53--57, 
         title="Show BibTeX" />
     <pre id="Fischer2011a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2011a,
-  author = {A. Fischer, E. Indermüuhle, V. Frinken, and H. Bunke},
+  author = {A. Fischer and E. Indermüuhle and V. Frinken and H. Bunke},
   booktitle = {Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {53--57},
@@ -2515,7 +2522,7 @@ Processing (HIP), pp. 29--36, 2011<br />
         title="Show BibTeX" />
     <pre id="Fischer2011b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2011b,
-  author = {A. Fischer, V. Frinken, A. Fornes, and H. Bunke},
+  author = {A. Fischer and V. Frinken and A. Fornes and H. Bunke},
   booktitle = {Proc. 1st Int. Workshop on Historical Document Imaging and
 Processing (HIP)},
   note = {},
@@ -2539,7 +2546,7 @@ Processing (HIP), pp. 83--90, 2011<br />
         title="Show BibTeX" />
     <pre id="Fornes2011" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fornes2011,
-  author = {A. Fornes, V. Frinken, A. Fischer, J. Almaz'{a}n, G. Jackson, and
+  author = {A. Fornes and V. Frinken and A. Fischer and J. Almaz'{a}n, G. Jackson, and
 H. Bunke},
   booktitle = {Proc. 1st Int. Workshop on Historical Document Imaging and
 Processing (HIP)},
@@ -2562,7 +2569,7 @@ Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 314--318
         title="Show BibTeX" />
     <pre id="Frinken2011" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2011,
-  author = {V. Frinken, A. Fischer, H. Bunke, and A. Fornes},
+  author = {V. Frinken and A. Fischer and H. Bunke and A. Fornes},
   booktitle = {Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {314--318},
@@ -2582,7 +2589,7 @@ Proc. 26th Symposium On Applied Computing (SAC), pp. 838--843, 2011<br />
         title="Show BibTeX" />
     <pre id="Frinken2011a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2011a,
-  author = {V. Frinken, A. Fischer, and H. Bunke},
+  author = {V. Frinken and A. Fischer and H. Bunke},
   booktitle = {Proc. 26th Symposium On Applied Computing (SAC)},
   note = {},
   pages = {838--843},
@@ -2603,7 +2610,7 @@ Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 73--77, 
         title="Show BibTeX" />
     <pre id="Indermüuhle2011" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Indermü{u}hle2011,
-  author = {E. Indermü{u}hle, V. Frinken, A. Fischer, and H. Bunke},
+  author = {E. Indermü{u}hle and V. Frinken and A. Fischer and H. Bunke},
   booktitle = {Proc. 11th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {73--77},
@@ -2628,7 +2635,7 @@ Proc. 9th Int. Workshop on Document Analysis Systems (DAS), pp. , 2010<br />
         title="Show BibTeX" />
     <pre id="Fischer2010" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2010,
-  author = {A. Fischer, E. Indermühle, H. Bunke, G. Viehhauser, and M. Stolz},
+  author = {A. Fischer and E. Indermühle and H. Bunke and G. Viehhauser and M. Stolz},
   booktitle = {Proc. 9th Int. Workshop on Document Analysis Systems (DAS)},
   note = {},
   pages = {},
@@ -2651,7 +2658,7 @@ Recognition (ICFHR), pp. 253--258, 2010<br />
         title="Show BibTeX" />
     <pre id="Fischer2010a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2010a,
-  author = {A. Fischer, K. Riesen, and H. Bunke},
+  author = {A. Fischer and K. Riesen and H. Bunke},
   booktitle = {Proc. 12th Int. Conf. on Frontiers in Handwriting
 Recognition (ICFHR)},
   note = {},
@@ -2674,7 +2681,7 @@ Proc. 20th Int. Conf. on Pattern Recognition (ICPR), pp. , 2010<br />**Best Scie
         title="Show BibTeX" />
     <pre id="Fischer2010b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2010b,
-  author = {A. Fischer, A. Keller, V. Frinken, and H. Bunke},
+  author = {A. Fischer and A. Keller and V. Frinken and H. Bunke},
   booktitle = {Proc. 20th Int. Conf. on Pattern Recognition (ICPR)},
   note = {Best Scientific Paper Award},
   pages = {},
@@ -2697,7 +2704,7 @@ Recognition (ICFHR), pp. 352--357, 2010<br />
         title="Show BibTeX" />
     <pre id="Frinken2010" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2010,
-  author = {V. Frinken, A. Fischer, R. Manmatha, and H. Bunke},
+  author = {V. Frinken and A. Fischer and R. Manmatha and H. Bunke},
   booktitle = {Proc. 12th Int. Conf. on Frontiers in Handwriting
 Recognition (ICFHR)},
   note = {},
@@ -2720,7 +2727,7 @@ Proc. 9th Int. Workshop on Multiple Classifier Systems (MCS), pp. 215--224, 2010
         title="Show BibTeX" />
     <pre id="Frinken2010a" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2010a,
-  author = {V. Frinken, A. Fischer, and H. Bunke},
+  author = {V. Frinken and A. Fischer and H. Bunke},
   booktitle = {Proc. 9th Int. Workshop on Multiple Classifier Systems (MCS)},
   note = {},
   pages = {215--224},
@@ -2743,7 +2750,7 @@ Pattern Recognition (ANNPR), pp. 185--196, 2010<br />
         title="Show BibTeX" />
     <pre id="Frinken2010b" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2010b,
-  author = {V. Frinken, A. Fischer, and H. Bunke},
+  author = {V. Frinken and A. Fischer and H. Bunke},
   booktitle = {Proc. 4th Int. Workshop on Artificial Neural Networks in
 Pattern Recognition (ANNPR)},
   note = {},
@@ -2758,7 +2765,7 @@ memory neural networks},
 ### 2009
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Automatic transcription of handwritten medieval documents*<br />
-A.&nbsp;Fischer, M.&nbsp;Wüthrich, M.&nbsp;Liwicki, V.&nbsp;Frinken, H.&nbsp;Bunke, G.&nbsp;Viehhauser, a.&nbsp;M.&nbsp;Stolz<br />
+A.&nbsp;Fischer, M.&nbsp;Wüthrich, M.&nbsp;Liwicki, V.&nbsp;Frinken, H.&nbsp;Bunke, G.&nbsp;Viehhauser, M.&nbsp;Stolz<br />
 Proc. 15th Int. Conf. on Virtual Systems and Multimedia (VSMM), pp. 137--142, 2009<br />
   <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
@@ -2768,8 +2775,7 @@ Proc. 15th Int. Conf. on Virtual Systems and Multimedia (VSMM), pp. 137--142, 20
         title="Show BibTeX" />
     <pre id="Fischer2009" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2009,
-  author = {A. Fischer, M. Wüthrich, M. Liwicki, V. Frinken, H. Bunke, G. Viehhauser,
-and M. Stolz},
+  author = {A. Fischer and M. Wüthrich and M. Liwicki and V. Frinken and H. Bunke and G. Viehhauser and M. Stolz},
   booktitle = {Proc. 15th Int. Conf. on Virtual Systems and Multimedia (VSMM)},
   note = {},
   pages = {137--142},
@@ -2813,7 +2819,7 @@ Patterns (CAIP), pp. 189--196, 2009<br />
         title="Show BibTeX" />
     <pre id="Frinken2009" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Frinken2009,
-  author = {V. Frinken, T. Peter, A. Fischer, H. Bunke, T.-M.-T. Do, and T. Artieres},
+  author = {V. Frinken and T. Peter and A. Fischer and H. Bunke and T.-M.-T. Do and T. Artieres},
   booktitle = {Proc. 13th Int. Conf. on Computer Analysis of Images and
 Patterns (CAIP)},
   note = {},
@@ -2836,8 +2842,7 @@ Proc. 10th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 211--215
         title="Show BibTeX" />
     <pre id="Wüthrich2009" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Wüthrich2009,
-  author = {M. Wüthrich, M. Liwicki, A. Fischer, E. Indermuhle, H. Bunke,
-G. Viehhauser, and M. Stolz},
+  author = {M. Wüthrich and M. Liwicki and A. Fischer and E. Indermuhle and H. Bunke and G. Viehhauser and M. Stolz},
   booktitle = {Proc. 10th Int. Conf. on Document Analysis and Recognition (ICDAR)},
   note = {},
   pages = {211--215},
@@ -2862,7 +2867,7 @@ Proc. 19th Int. Conf. on Pattern Recognition (ICPR), pp. 1--4, 2008<br />
         title="Show BibTeX" />
     <pre id="Fischer2008" style="display:none; padding:2px; border:1px solid #ccc;
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Fischer2008,
-  author = {A. Fischer, K. Riesen, and H. Bunke},
+  author = {A. Fischer and K. Riesen and H. Bunke},
   booktitle = {Proc. 19th Int. Conf. on Pattern Recognition (ICPR)},
   note = {},
   pages = {1--4},
