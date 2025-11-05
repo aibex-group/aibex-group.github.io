@@ -21,6 +21,12 @@ title: "People"
 <div class="people-card-container">
     {{< person "MJ" >}}
     {{< person "CZ" >}}
+</div>
+
+# External PhD Candidates
+
+<div class="people-card-container">
+    {{< person "FP" >}}
     {{< person "Ray" >}}
 </div>
 
