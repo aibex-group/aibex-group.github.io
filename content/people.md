@@ -20,6 +20,7 @@ title: "People"
 
 <div class="people-card-container">
     {{< person "MJ" >}}
+    {{< person "OD" >}}
     {{< person "CZ" >}}
 </div>
 
