@@ -2,6 +2,7 @@
 # key, format it correctly (YYYY-MM-DD), and you are set. The *value*
 # attached to your key supports Markdown directly.
 
+2026-02-12 = """We presented our research on detecting handwriting similarities in Swiss popular initiatives in Bern alongside the Federal Chancellor, as covered by the [Bundeskanzlei News Media](https://www.news.admin.ch/de/newnsb/-ZuXOVyTRsS0auMSsi-Na)."""
 2025-07-28 = """ Our work on Rule-Based Reinforcement Learning has been accepted to the [WML Workshop](https://www.isical.ac.in/~umapada/ICDARWML25/) at ICDAR2025! 🎉"""
 2025-07-11 = """Our work on text alignment has been accepted to the [VisionDocs Workshop](https://sites.google.com/view/avml-lab-visiondocs-iccv2025/) at ICCV2025! 🎉"""
 2025-06-15 = """Andreas will give a keynote talk at  the [VisionDocs Workshop](https://sites.google.com/view/avml-lab-visiondocs-iccv2025/) at ICCV2025!"""

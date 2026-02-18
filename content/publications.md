@@ -3,7 +3,7 @@
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *GrEp: Graph-based epithelial cell classification refinement in histopathology H&E images*<br />
 A.&nbsp;Frei, J.&nbsp;Garcia-Baroja, T.&nbsp;Rau, C.&nbsp;Neppl, A.&nbsp;Lugli, W.&nbsp;Solass, M.&nbsp;Wartenberg, A.&nbsp;Fischer, I.&nbsp;Zlobec<br />
 Pattern Recognition, Volume 171, pp. 112197, 2025<br />
- <small><a href="/research/papers/Frei2025.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Frei2025.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Frei2025');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -64,7 +64,7 @@ Proc. 5th ICDAR Int. Workshop on Machine Learning (WML), pp. 1--16, 2025<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *CTC Transcription Alignment of the Bullinger Letters: Automatic Improvement of Annotation Quality*<br />
 M.&nbsp;Peer, A.&nbsp;Scius-Bertrand, A.&nbsp;Fischer<br />
 Proc. 2nd Int. Workshop on Computer Vision Systems for Document Analysis and Recognition (VisionDocs), pp. 1--10, 2025<br />
- <small><a href="/research/papers/Peer2025.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Peer2025.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Peer2025');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -191,7 +191,7 @@ Informatica, Volume 47, Number 3, pp. 361--372, 2023<br />
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Universality of Büchi Automata: Analysis with Graph Neural Networks*<br />
 C.&nbsp;Stammet, U.&nbsp;Ultes-Nitsche, A.&nbsp;Fischer<br />
 IEEE Access, Volume 11, pp. 140993--141007, 2023<br />
- <small><a href="/research/papers/Stammet2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Stammet2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stammet2023');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -212,7 +212,7 @@ IEEE Access, Volume 11, pp. 140993--141007, 2023<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *GammaFocus: An Image Augmentation Method to Focus Model Attention for Classification*<br />
 A.&nbsp;Frei, A.&nbsp;Khan, P.&nbsp;Zens, A.&nbsp;Lugli, I.&nbsp;Zlobec, A.&nbsp;Fischer<br />
 Proc. Medical Imaging with Deep Learning (MIDL), pp. 1--4, 2023<br />
- <small><a href="/research/papers/Frei2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Frei2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Frei2023');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -273,7 +273,7 @@ Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 98--114,
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Impact of Ground Truth Quality on Handwriting Recognition*<br />
 M.&nbsp;Jungo, L.&nbsp;Vögtlin, A.&nbsp;Fakhari, N.&nbsp;Wegmann, R.&nbsp;Ingold, A.&nbsp;Fischer, A.&nbsp;Scius-Bertrand<br />
 Proc. 12th Int. Symposium on Information and Communication Technology (SoICT), pp. 135--140, 2023<br />
- <small><a href="/research/papers/Jungo2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Jungo2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Jungo2023a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -314,7 +314,7 @@ Proc. International Graphonomics Conference (IGS), pp. 205--258, 2023<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *The Bullinger Dataset: A Writer Adaptation Challenge*<br />
 A.&nbsp;Scius-Bertrand, P.&nbsp;Ströbel, M.&nbsp;Volk, T.&nbsp;Hodel, A.&nbsp;Fischer<br />
 Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 397--410, 2023<br />
- <small><a href="/research/papers/Scius-bertrand2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Scius-bertrand2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2023');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -335,7 +335,7 @@ Proc. 17th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 397--410
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Towards Visuo-Structural Handwriting Evaluation Based on Graph Matching*<br />
 A.&nbsp;Scius-Bertrand, C.&nbsp;R'emi, E.&nbsp;Biabiany, J.&nbsp;Nagau, A.&nbsp;Fischer<br />
 Proc. International Graphonomics Conference (IGS), pp. 75--88, 2023<br />
- <small><a href="/research/papers/Scius-bertrand2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Scius-bertrand2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2023a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -356,7 +356,7 @@ Proc. International Graphonomics Conference (IGS), pp. 75--88, 2023<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Bullingers Briefwechsel zugänglich machen: Stand der Handschriftenerkennung*<br />
 P.&nbsp;Ströbel, T.&nbsp;Hodel, A.&nbsp;Fischer, A.&nbsp;Scius-Bertrand, B.&nbsp;Wolf, A.&nbsp;Janka, J.&nbsp;Widmer, P.&nbsp;Scheurer, M.&nbsp;Volk<br />
 Proc. Digital Humanities im deutschsprachigen Raum (DHd), pp. 98--102, 2023<br />
- <small><a href="/research/papers/Ströbel2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Ströbel2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Ströbel2023');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -377,7 +377,7 @@ Proc. Digital Humanities im deutschsprachigen Raum (DHd), pp. 98--102, 2023<br /
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Tumor Budding T-Cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients*<br />
 L.&nbsp;Studer, J.&nbsp;Bokhorst, I.&nbsp;Nagtegaal, I.&nbsp;Zlobec, H.&nbsp;Dawson, A.&nbsp;Fischer<br />
 Proc. Int. Conf. on Medical Imaging with Deep Learning (MIDL), pp. 1--25, 2023<br />
- <small><a href="/research/papers/Studer2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Studer2023.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Studer2023');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -421,7 +421,7 @@ Proc. 7th Int. Workshop on Historical Document Imaging and Processing (HIP), pp.
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Self-Rule to Multi-Adapt: Generalized Multi-Source Feature Learning Using Unsupervised Domain Adaptation for Colorectal Cancer Tissue Detection*<br />
 C.&nbsp;Abbet, L.&nbsp;Studer, A.&nbsp;Fischer, H.&nbsp;Dawson, I.&nbsp;Zlobec, B.&nbsp;Bozorgtabar, J.&nbsp;Thiran<br />
 Medical Image Analysis, Volume 79, pp. 1--20, 2022<br />
- <small><a href="/research/papers/Abbet2022.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Abbet2022.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Abbet2022');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -462,7 +462,7 @@ Proc. 18th Int. Conf on Frontiers in Handwriting Recognition (ICFHR), pp. 484--4
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *The RPM3D Project: 3D Kinematics for Remote Patient Monitoring*<br />
 A.&nbsp;Fornes, A.&nbsp;Bensalah, C.&nbsp;Carmona-Duarte, J.&nbsp;Chen, M.&nbsp;Ferrer, A.&nbsp;Fischer, J.&nbsp;Llad'os, C.&nbsp;Martin, E.&nbsp;Opisso, R.&nbsp;Plamondon, A.&nbsp;Scius-Bertrand, J.&nbsp;Tormos<br />
 Proc. International Graphonomics Conference (IGS), pp. 217--226, 2022<br />
- <small><a href="/research/papers/Fornes2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Fornes2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fornes2022');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -503,7 +503,7 @@ Proc. Int. Workshop on Structural and Syntactic Pattern Recognition (SSPR), pp. 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Retrieving Keywords in Historical Vietnamese Stele Images Without Human Annotations*<br />
 A.&nbsp;Scius-Bertrand, A.&nbsp;Fischer, M.&nbsp;Bui<br />
 Proc. 11th Int. Symposium on Information and Communication Technology (SoICT), pp. 295--301, 2022<br />
- <small><a href="/research/papers/Scius-bertrand2022.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Scius-bertrand2022.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2022a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -524,7 +524,7 @@ Proc. 11th Int. Symposium on Information and Communication Technology (SoICT), p
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Improving Handwriting Recognition for Historical Documents Using Synthetic Text Lines*<br />
 M.&nbsp;Spoto, B.&nbsp;Wolf, A.&nbsp;Fischer, A.&nbsp;Scius-Bertrand<br />
 Proc. International Graphonomics Conference (IGS), pp. 61--75, 2022<br />
- <small><a href="/research/papers/Spoto2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Spoto2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Spoto2022');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -545,7 +545,7 @@ Proc. International Graphonomics Conference (IGS), pp. 61--75, 2022<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Analyzing Büchi Automata with Graph Neural Networks*<br />
 C.&nbsp;Stammet, P.&nbsp;Dotti, U.&nbsp;Ultes-Nitsche, A.&nbsp;Fischer<br />
 Proc. 4th Int. Workshop on Learning and Automata (LearnAut), pp. 1--10, 2022<br />
- <small><a href="/research/papers/Stammet2022.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Stammet2022.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stammet2022');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -608,7 +608,7 @@ Pattern Recognition, Volume 120, pp. 1--11, 2021<br />
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Transcription Alignment of Historical Vietnamese Manuscripts without Human-Annotated Learning Samples*<br />
 A.&nbsp;Scius-Bertrand, M.&nbsp;Jungo, B.&nbsp;Wolf, A.&nbsp;Fischer, M.&nbsp;Bui<br />
 Applied Sciences, Volume 11, pp. 1--18, 2021<br />
- <small><a href="/research/papers/Scius-bertrand2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Scius-bertrand2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2021a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -650,7 +650,7 @@ Histopathology, Volume 78, Number 4, pp. 476--484, 2021<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Self-Rule to Adapt: Learning Generalized Features from Sparsely-Labeled Data Using Unsupervised Domain Adaptation for Colorectal Cancer Tissue Phenotyping*<br />
 C.&nbsp;Abbet, L.&nbsp;Studer, A.&nbsp;Fischer, H.&nbsp;Dawson, I.&nbsp;Zlobec, B.&nbsp;Bozorgtabar, J.&nbsp;Thiran<br />
 Proc. 4th Int. Conf. on Medical Imaging with Deep Learning (MIDL), pp. 1--16, 2021<br />
- <small><a href="/research/papers/Abbet2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Abbet2021.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Abbet2021');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -756,7 +756,7 @@ The Lognormality Principle and its Applications in e-Security, e-Learning and e-
 <span style='color:rgb(255, 213, 0)'>&#9724;</span>  *Handwritten Historical Document Analysis, Recognition, And Retrieval - State Of The Art And Future Trends*<br />
 A.&nbsp;Fischer, M.&nbsp;Liwicki, R.&nbsp;Ingold<br />
 Series in Machine Perception and Artificial Intelligence, 2020<br />
- <small><a href="/research/papers/Fischer2020.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Fischer2020.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fischer2020a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -796,7 +796,7 @@ Pattern Recognition Letters, Volume 134, pp. 125--134, 2020<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Automatic Creation of Text Corpora for Low-Resource Languages from the Internet: The Case of Swiss German*<br />
 L.&nbsp;Linder, M.&nbsp;Jungo, J.&nbsp;Hennebert, C.&nbsp;Musat, A.&nbsp;Fischer<br />
 Proc. 12th Language Resources and Evaluation Conference (LREC), pp. , 2020<br />
- <small><a href="/research/papers/Linder2020.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Linder2020.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Linder2020');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -860,7 +860,7 @@ Pattern Recognition Letters, Volume 121, pp. 61--67, 2019<br />
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Combining Graph Edit Distance and Triplet Networks for Offline Signature Verification*<br />
 P.&nbsp;Maergner, V.&nbsp;Pondenkandath, M.&nbsp;Alberti, M.&nbsp;Liwicki, K.&nbsp;Riesen, R.&nbsp;Ingold, A.&nbsp;Fischer<br />
 Pattern Recognition Letters, Volume 125, pp. 527--533, 2019<br />
- <small><a href="/research/papers/Maergner2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Maergner2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Maergner2019a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -881,7 +881,7 @@ Pattern Recognition Letters, Volume 125, pp. 527--533, 2019<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Alleviating Sequence Information Loss with Data Overlapping and Prime Batch Sizes*<br />
 N.&nbsp;Kocher, C.&nbsp;Scuito, L.&nbsp;Tarantino, A.&nbsp;Lazaridis, A.&nbsp;Fischer, C.&nbsp;Musat<br />
 Proc. SIGNLL Conf. on Computational Natural Language Learning (CoNLL), pp. 890--899, 2019<br />
- <small><a href="/research/papers/Kocher2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Kocher2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Kocher2019');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -922,7 +922,7 @@ Proc. 19th International Graphonomics Conference (IGS), pp. , 2019<br />
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Layout Analysis and Text Column Segmentation for Historical Vietnamese Steles*<br />
 A.&nbsp;Scius-Bertrand, L.&nbsp;Voegtlin, M.&nbsp;Alberti, A.&nbsp;Fischer, M.&nbsp;Bui<br />
 Proc. 5th Int. Workshop on Historical Document Imaging and Processing (HIP), pp. 84--89, 2019<br />
- <small><a href="/research/papers/Scius-bertrand2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Scius-bertrand2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Scius_bertrand2019');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -963,7 +963,7 @@ Proc. 12th Int. Workshop on Graph-Based Representation in Pattern Recognition (G
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Graph Embedding for Offline Handwritten Signature Verification*<br />
 M.&nbsp;Stauffer, P.&nbsp;Maergner, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
 Proc. 3rd Int. Conf. on Biometric Engineering and Applications (ICBEA), pp. 69--76, 2019<br />
- <small><a href="/research/papers/Stauffer2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Stauffer2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2019a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1004,7 +1004,7 @@ Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 1117--11
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *A Comprehensive Study of ImageNet Pre-Training for Historical Document Image Analysis*<br />
 L.&nbsp;Studer, M.&nbsp;Alberti, V.&nbsp;Pondenkandath, P.&nbsp;Goktepe, T.&nbsp;Kolonko, A.&nbsp;Fischer, M.&nbsp;Liwicki, R.&nbsp;Ingold<br />
 Proc. 15th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 720--725, 2019<br />
- <small><a href="/research/papers/Studer2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Studer2019.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Studer2019');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1048,7 +1048,7 @@ Proc. 2nd MICCAI Workshop on Computational Pathology (COMPAY), pp. 1--8, 2019<br
 <span style='color:rgb(255, 213, 0)'>&#9724;</span>  *Searching and Browsing in Historical Documents -- State of the Art and Novel Approaches for Template-Based Keyword Spotting*<br />
 M.&nbsp;Stauffer, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
 Business Information Systems and Technology 4.0, Volume 141, pp. 197--211, 2018<br />
- <small><a href="/research/papers/Stauffer2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Stauffer2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2018b');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1092,7 +1092,7 @@ IEEE Trans. on Cybernetics, Volume 48, Number 1, pp. 228--239, 2018<br />
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *On the Impact of Using Utilities Rather than Costs for Graph Matching*<br />
 K.&nbsp;Riesen, A.&nbsp;Fischer, H.&nbsp;Bunke<br />
 Neural Processing Letters, Volume 48, Number 2, pp. 691--707, 2018<br />
- <small><a href="/research/papers/Riesen2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Riesen2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Riesen2018');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1194,7 +1194,7 @@ Proc. 24th Int. Conf. on Pattern Recognition (ICPR), pp. 2239--2244, 2018<br />*
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Extending the Sigma-Lognormal Model of the Kinematic Theory to Three Dimensions*<br />
 R.&nbsp;Schindler, M.&nbsp;Bouillon, R.&nbsp;Plamondon, A.&nbsp;Fischer<br />
 Proc. 1st Int. Conf. on Pattern Recognition and Artificial Intelligence (ICPRAI), pp. 748--752, 2018<br />
- <small><a href="/research/papers/Schindler2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Schindler2018.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Schindler2018');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1543,7 +1543,7 @@ Proc. 2nd Int. Conf. on Natural Sciences and Technology in Manuscript Analysis, 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Simple and fast geometrical descriptors for writer identification*<br />
 A.&nbsp;Garz, M.&nbsp;Würsch, A.&nbsp;Fischer, R.&nbsp;Ingold<br />
 Proc. 23rd Int. Conf. on Document Recognition and Retrieval (DRR), pp. 1--12, 2016<br />
- <small><a href="/research/papers/Garz2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Garz2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Garz2016b');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1584,7 +1584,7 @@ Proc. 15th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 96--1
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Approximation of Graph Edit Distance by Means of a Utility Matrix*<br />
 K.&nbsp;Riesen, A.&nbsp;Fischer, H.&nbsp;Bunke<br />
 Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR), pp. 185--194, 2016<br />
- <small><a href="/research/papers/Riesen2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Riesen2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Riesen2016');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1605,7 +1605,7 @@ Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (AN
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *A Novel Graph Database for Handwritten Word Images*<br />
 M.&nbsp;Stauffer, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
 Proc. Int. Workshop on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR), pp. 553--563, 2016<br />
- <small><a href="/research/papers/Stauffer2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Stauffer2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Stauffer2016');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1686,7 +1686,7 @@ Proc. 25th Int. Conf. on Artificial Neural Networks (ICANN), pp. 113--120, 2016<
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *On CPU Performance Optimization of Restricted Boltzmann Machine and Convolutional RBM*<br />
 B.&nbsp;Wicht, A.&nbsp;Fischer, J.&nbsp;Hennebert<br />
 Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR), pp. 163--174, 2016<br />
- <small><a href="/research/papers/Wicht2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Wicht2016.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Wicht2016b');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1710,7 +1710,7 @@ Proc. 7th Int. Workshop on Artificial Neural Networks in Pattern Recognition (AN
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Approximation of Graph Edit Distance Based on Hausdorff Matching*<br />
 A.&nbsp;Fischer, C.&nbsp;Y.&nbsp;Suen, V.&nbsp;Frinken, K.&nbsp;Riesen, H.&nbsp;Bunke<br />
 Pattern Recognition, Volume 48, Number 2, pp. 331--343, 2015<br />
- <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fischer2015c');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1793,7 +1793,7 @@ Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 631--635
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *A dissimilarity measure for on-line signature verification based on the Sigma-Lognormal model*<br />
 A.&nbsp;Fischer, R.&nbsp;Plamondon<br />
 Proc. 17th Conf. of the International Graphonomics Society (IGS), pp. 83--86, 2015<br />
- <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fischer2015');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1814,7 +1814,7 @@ Proc. 17th Conf. of the International Graphonomics Society (IGS), pp. 83--86, 20
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Improving Hausdorff edit distance using structural node context*<br />
 A.&nbsp;Fischer, S.&nbsp;Uchida, V.&nbsp;Frinken, K.&nbsp;Riesen, H.&nbsp;Bunke<br />
 Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (GbR), pp. 148--157, 2015<br />
- <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fischer2015a');
                 if(x.style.display==='none'){x.style.display='block';}
@@ -1835,7 +1835,7 @@ Proc. 10th Int. Workshop on Graph-based Representations in Pattern Recognition (
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Robust score normalization for DTW-based on-line signature verification*<br />
 A.&nbsp;Fischer, M.&nbsp;Diaz, R.&nbsp;Plamondon, M.&nbsp;Ferrer<br />
 Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 241--245, 2015<br />
- <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:16px; height:16px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
+ <small><a href="/research/papers/Fischer2015.pdf" target="_blank" title="Author's copy"><img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" /></a></small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Fischer2015b');
                 if(x.style.display==='none'){x.style.display='block';}
