@@ -29,7 +29,6 @@ This master’s thesis investigates methods to convert paper-based signatures in
 - Evaluate similarity measures such as **Dynamic Time Warping (DTW)** and related methods  
 - Assess the usefulness of such tools as support systems for forensic handwriting examiners  
 
----
 
 ## Methodology
 - **Literature Review:** Survey methods for stroke extraction, vectorisation, and handwriting comparison  
@@ -40,7 +39,6 @@ This master’s thesis investigates methods to convert paper-based signatures in
 - **Evaluation:** Assess the usefulness and limitations of the proposed workflow  
 - **Reporting:** Document results in the master’s thesis and final presentation  
 
----
 
 ## Skills Required
 - Programming skills  
