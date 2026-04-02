@@ -7,6 +7,7 @@ title: "Theses"
 - [Adaptive Multi-Loss Balancing for Offline Handwritten Text Recognition](/theses/neto-multiloss-htr/)
 - [Enhancing Handwritten Text Recognition in Historical Documents Using Spectral Imaging](/theses/belen-htr-hsi/)
 - [Structural Generation of HVAC Plans with the Assistance of Large Language Models](/theses/jungo-hvac-generation/)
+- [Web Application to work on HVAC Plans and their Simplified Graph Representation](/theses/jungo-hvac-web-app/)
 - [Writer Adaptation in Handwritten Text Recognition (HTR)](/theses/peer-wa/) 
 - [Semantic Writer Identification for Historical Documents of Swiss Foreign Politics](/theses/peer-semantic-wi/)
 
