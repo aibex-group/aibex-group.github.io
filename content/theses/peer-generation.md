@@ -2,7 +2,7 @@
 
 **Contact:** <a href="mailto:marco.peer@unifr.ch">Marco Peer</a>
 
-Note: The thesis is in collaboration with Forensisches Institut Zürich.
+Note: The thesis is in collaboration with Zurich Forensic Science Institute.
 
 ## Overview
 AI-based handwriting generators have made significant progress in recent years (Figure 1). However, most existing systems produce raster graphics. For reproducing handwriting with a pen plotter on paper, stroke paths rather than pixel-based images are required. Such information can be represented in SVG data (single-line vector graphics).

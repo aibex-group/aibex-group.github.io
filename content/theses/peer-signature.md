@@ -2,21 +2,19 @@
 
 **Contact:** <a href="mailto:marco.peer@unifr.ch">Marco Peer</a>
 
-Note: The thesis is in collaboration with Forensisches Institut Zürich.
+Note: The thesis is in collaboration with Zurich Forensic Science Institute.
 
 ## Overview
 In forensic handwriting examination, comparisons are typically based on the visual inspection of handwritten samples. However, representing signatures as vector-based stroke paths could enable additional quantitative analyses of writing shapes.
 
 Signatures on paper can be digitised as images, but extracting the underlying writing trajectories remains challenging. Converting handwriting into SVG paths allows strokes to be represented as sequences of coordinates.
 
-These coordinates can subsequently be transformed into x-y series, enabling the application of similarity measures such as **Dynamic Time Warping (DTW)** or related algorithms for shape comparison.
+These coordinates can subsequently be transformed into x-y series, enabling the application of similarity measures such as **Dynamic Time Warping (DTW)** or related algorithms for shape comparison (Figure 1).
 
 <figure style="text-align: center;">
   <img src="/theses/signature.png" style="width:80%;">
   <figcaption>Figure 1. Example of a DTW-alignment between two signatures.</figcaption>
 </figure>
-
-*Figure 1 illustrates an example of a DTW alignment between two signatures.*
 
 
 This master’s thesis investigates methods to convert paper-based signatures into SVG stroke paths and explores algorithms for automatic form comparison of handwriting shapes.
