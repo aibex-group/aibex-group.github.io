@@ -13,7 +13,7 @@ title: "People"
     {{< person "ASB" >}}
     {{< person "MP" >}}
     {{< person "AFl" >}}
-    {{< person "AB" >}}
+    {{< person "JMC" >}}
 </div>
 
 # PhD Candidates
@@ -36,4 +36,16 @@ title: "People"
 <div class="people-card-container">
     {{< person "AG" >}}
     {{< person "SK" >}}
+</div>
+
+# Former Members
+
+
+<div>
+    <ul>
+        <li>Prof. Dr. Ana Belén López Baldomero</li>
+        <li>Dr. Linlin Jia</li>
+        <li>Dr. Linda Studer</li>
+        <li>Dr. Paul Märgner</li>
+    </ul>
 </div>
