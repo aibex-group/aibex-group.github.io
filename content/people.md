@@ -22,6 +22,8 @@ title: "People"
     {{< person "MJ" >}}
     {{< person "OD" >}}
     {{< person "CZ" >}}
+    {{< person "CF" >}}
+
 </div>
 
 # External PhD Candidates
