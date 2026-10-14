@@ -8,7 +8,7 @@ Below we list open and ongoing topics for Bachelor or Master theses in our group
 
 It is also possible to define other topics based on a discussion.
 
-To get in touch, please write an email to Dr. Scius-Bertrand [anna.scius-bertrand@unifr.ch](mailto:anna.scius-bertrand@unifr.ch), mention topics that are of interest to you, and also attach your academic transcript (courses and grades).
+To get in touch, please write an email to Dr. Scius-Bertrand ([anna.scius-bertrand@unifr.ch](mailto:anna.scius-bertrand@unifr.ch)), mention topics that are of interest to you, and also attach your academic transcript (courses and grades).
 
 **Available topics**
 - [Structural Generation of HVAC Plans with the Assistance of Large Language Models](/theses/jungo-hvac-generation/)
