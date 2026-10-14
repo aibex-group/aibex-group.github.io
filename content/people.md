@@ -23,6 +23,7 @@ title: "People"
     {{< person "OD" >}}
     {{< person "CZ" >}}
     {{< person "CF" >}}
+    {{< person "DL" >}}
 
 </div>
 
