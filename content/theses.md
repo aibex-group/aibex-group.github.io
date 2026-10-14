@@ -10,11 +10,12 @@ It is also possible to define other topics based on a discussion.
 
 To get in touch, please write an email to Dr. Scius-Bertrand [anna.scius-bertrand@unifr.ch](mailto:anna.scius-bertrand@unifr.ch), mention topics that are of interest to you, and also attach your academic transcript (courses and grades).
 
+**Available topics**
 - [Structural Generation of HVAC Plans with the Assistance of Large Language Models](/theses/jungo-hvac-generation/)
 - [Semi-Automatic Extraction and Comparison of Signature Stroke Paths](/theses/peer-signature/)
 
 
-Currently taken:
+**Currently taken**
 - [AI Generators for Handwritten SVG Output](/theses/peer-generation/)
 - [Adaptive Multi-Loss Balancing for Offline Handwritten Text Recognition](/theses/neto-multiloss-htr/)
 - [Writer Adaptation in Handwritten Text Recognition (HTR)](/theses/peer-wa/) 
