@@ -3,7 +3,7 @@
 **Contact:** <a href="mailto:michael.jungo@unifr.ch">Michael Jungo</a>
 
 <figure style="text-align: center;">
-  <img src="/theses/jungo-hvac-generation-plan.png" alt="HVAC Plan Excerpt" style="width:90%;">
+  <img src="/theses/jungo-hvac-generation-plan.webp" width="1200" height="755" loading="lazy" decoding="async" alt="HVAC Plan Excerpt" style="width:90%; height:auto;">
   <figcaption>Figure 1: Excerpt from an HVAC plan</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@
 **Contact:** <a href="mailto:michael.jungo@unifr.ch">Michael Jungo</a>
 
 <figure style="text-align: center;">
-  <img src="/theses/jungo-hvac-web-app.png" alt="HVAC Web App Concept" style="width:90%;">
+  <img src="/theses/jungo-hvac-web-app.webp" width="1200" height="898" loading="lazy" decoding="async" alt="HVAC Web App Concept" style="width:90%; height:auto;">
   <figcaption>Figure 1: Concept of the web application for an HVAC plan</figcaption>
 </figure>
 

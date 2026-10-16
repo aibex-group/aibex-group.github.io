@@ -1,4 +1,4 @@
-baseURL       = "http://aibex.ch/"
+baseURL       = "https://aibex.ch/"
 languageCode  = "en-gb"
 title         = "AIBEX Group"
 theme         = "brevis"
@@ -6,7 +6,7 @@ enableGitInfo = false
 favicon = true
 
 [params]
-  description = "Website of the AIBEX group, an international lab of researchers interested in ..."
+  description = "Artificial intelligence and pattern recognition research at the University of Fribourg, with applications in cultural heritage, health, and sustainable development."
 
 ignoreFiles = ['publications.md$']
 

@@ -1,4 +1,12 @@
-### 2026
+---
+title: "Publications"
+description: "Publications by the AIBEX research group in artificial intelligence, pattern recognition, document analysis, and related fields."
+---
+
+# Publications
+
+
+## 2026
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *GrEp: Graph-based epithelial cell classification refinement in histopathology H&amp;E images*<br />
 A.&nbsp;Frei, J.&nbsp;Garcia-Baroja, T.&nbsp;Rau, C.&nbsp;Neppl, A.&nbsp;Lugli, W.&nbsp;Solass, M.&nbsp;Wartenberg, A.&nbsp;Fischer, I.&nbsp;Zlobec<br />
@@ -259,7 +267,7 @@ Information and Communication Technology, pp. 126–140, 2026<br />
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation*<br />
 M.&nbsp;Jungo, A.&nbsp;An<br />
-Proceedings of the 2026 ACM Symposium on Document Engineering, pp. 1–4<br />
+Proceedings of the 2026 ACM Symposium on Document Engineering (WoLDE 2026), pp. 1–4<br />
  <small>[\[DOI\]](https://doi.org/10.48550/arXiv.2607.19226)</small><small> &bull; </small> <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Jungo2026');
@@ -270,7 +278,7 @@ Proceedings of the 2026 ACM Symposium on Document Engineering, pp. 1–4<br />
         background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Jungo2026,
   series = {DocEng ’26},
   title = {The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation},
-  booktitle = {Proceedings of the 2026 ACM Symposium on Document Engineering},
+  booktitle = {Proceedings of the 2026 ACM Symposium on Document Engineering (WoLDE 2026)},
   publisher = {ACM},
   author = {Jungo,  Michael and An,  Aixiu},
   doi = {10.48550/arXiv.2607.19226},
@@ -332,7 +340,7 @@ Document Analysis and Recognition – ICDAR 2026, pp. 195–210<br />
 }</pre>
 
 
-### 2025
+## 2025
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Cross-Entropy Regularization with Mutual Information in Training CNNs*<br />
 C.&nbsp;Zaugg, R.&nbsp;Ingold, D.&nbsp;Trendafilov, A.&nbsp;Fischer<br />
@@ -414,7 +422,7 @@ Proc. 5th ICDAR Int. Workshop on Machine Learning (WML), pp. 1--16, 2025<br />
 }</pre>
 
 
-### 2024
+## 2024
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Are Layout Analysis and OCR Still Useful for Document Information Extraction Using Foundation Models?*<br />
 A.&nbsp;Scius-Bertrand, A.&nbsp;Fakhari, L.&nbsp;Vögtlin, D.&nbsp;Cabral, A.&nbsp;Fischer<br />
@@ -514,7 +522,7 @@ Number US12169768, 2024<br />
 }</pre>
 
 
-### 2023
+## 2023
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *A Hybrid Deep Learning Approach to Keyword Spotting in Vietnamese Stele Images*<br />
 A.&nbsp;Scius-Bertrand, M.&nbsp;Bui, A.&nbsp;Fischer<br />
@@ -762,7 +770,7 @@ Proc. Int. Conf. on Medical Imaging with Deep Learning (MIDL), pp. 1--25, 2023<b
 }</pre>
 
 
-### 2022
+## 2022
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Self-Rule to Multi-Adapt: Generalized Multi-Source Feature Learning Using Unsupervised Domain Adaptation for Colorectal Cancer Tissue Detection*<br />
 C.&nbsp;Abbet, L.&nbsp;Studer, A.&nbsp;Fischer, H.&nbsp;Dawson, I.&nbsp;Zlobec, B.&nbsp;Bozorgtabar, J.&nbsp;Thiran<br />
@@ -928,7 +936,7 @@ Number US11431672, 2022<br />
 }</pre>
 
 
-### 2021
+## 2021
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Learning Graph Edit Distance by Graph Neural Networks*<br />
 P.&nbsp;Riba, A.&nbsp;Fischer, J.&nbsp;Lladós, A.&nbsp;Fornés<br />
@@ -1073,7 +1081,7 @@ Proc. 4th Int. Conf. on Medical Imaging with Deep Learning (MIDL), pp. 1--16, 20
 }</pre>
 
 
-### 2020
+## 2020
 
 <span style='color:rgb(255, 213, 0)'>&#9724;</span>  *Handwritten Historical Document Analysis, Recognition, And Retrieval - State Of The Art And Future Trends*<br />
 A.&nbsp;Fischer, M.&nbsp;Liwicki, R.&nbsp;Ingold<br />
@@ -1179,7 +1187,7 @@ Proc. 7th Swiss Conference on Data Science (SDS), pp. 57--58, 2020<br />
 }</pre>
 
 
-### 2019
+## 2019
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Combining Graph Edit Distance and Triplet Networks for Offline Signature Verification*<br />
 P.&nbsp;Maergner, V.&nbsp;Pondenkandath, M.&nbsp;Alberti, M.&nbsp;Liwicki, K.&nbsp;Riesen, R.&nbsp;Ingold, A.&nbsp;Fischer<br />
@@ -1385,7 +1393,7 @@ Proc. 19th International Graphonomics Conference (IGS), 2019<br />
 }</pre>
 
 
-### 2018
+## 2018
 
 <span style='color:rgb(255, 213, 0)'>&#9724;</span>  *Searching and Browsing in Historical Documents -- State of the Art and Novel Approaches for Template-Based Keyword Spotting*<br />
 M.&nbsp;Stauffer, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
@@ -1594,7 +1602,7 @@ Proc. 16th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 163--
 }</pre>
 
 
-### 2017
+## 2017
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *A User-Centered Segmentation Method for Complex Historical Manuscripts Based on Document Graphs*<br />
 A.&nbsp;Garz, M.&nbsp;Seuret, A.&nbsp;Fischer, R.&nbsp;Ingold<br />
@@ -1836,7 +1844,7 @@ Proc. 18th Conf. of the International Graphonomics Society (IGS), 2017<br />
 }</pre>
 
 
-### 2016
+## 2016
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *A Novel Graph Database for Handwritten Word Images*<br />
 M.&nbsp;Stauffer, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
@@ -2042,7 +2050,7 @@ Proc. 23rd Int. Conf. on Document Recognition and Retrieval (DRR), pp. 1--12, 20
 }</pre>
 
 
-### 2015
+## 2015
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *Approximation of Graph Edit Distance Based on Hausdorff Matching*<br />
 A.&nbsp;Fischer, C.&nbsp;Y.&nbsp;Suen, V.&nbsp;Frinken, K.&nbsp;Riesen, H.&nbsp;Bunke<br />
@@ -2269,7 +2277,7 @@ Proc. 13th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 631--635
 }</pre>
 
 
-### 2014
+## 2014
 
 <span style='color:rgb(255, 213, 0)'>&#9724;</span>  *The HisDoc Project. Automatic Analysis, Recognition, and Retrieval of Handwritten Historical Documents for Digital Libraries*<br />
 A.&nbsp;Fischer, H.&nbsp;Bunke, N.&nbsp;Naji, J.&nbsp;Savoy, M.&nbsp;Baechler, R.&nbsp;Ingold<br />
@@ -2516,7 +2524,7 @@ Proc. 14th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 222--
 }</pre>
 
 
-### 2013
+## 2013
 
 <span style='color:rgb(255, 213, 0)'>&#9724;</span>  *Application of Hidden Markov Models for Handwriting Recognition*<br />
 A.&nbsp;Fischer, V.&nbsp;Frinken, H.&nbsp;Bunke<br />
@@ -2673,7 +2681,7 @@ Proc. 12th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 506--510
 }</pre>
 
 
-### 2012
+## 2012
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *A Novel Word Spotting Method Based on Recurrent Neural Networks*<br />
 V.&nbsp;Frinken, A.&nbsp;Fischer, R.&nbsp;Manmatha, H.&nbsp;Bunke<br />
@@ -2796,7 +2804,7 @@ Proc. 13th Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 49--5
 }</pre>
 
 
-### 2011
+## 2011
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *A keyword spotting approach using blurred shape model-based
 descriptors*<br />
@@ -2953,7 +2961,7 @@ models},
 }</pre>
 
 
-### 2010
+## 2010
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *A novel word spotting algorithm using bidirectional long short-term
 memory neural networks*<br />
@@ -3094,7 +3102,7 @@ models},
 }</pre>
 
 
-### 2009
+## 2009
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Automatic transcription of handwritten medieval documents*<br />
 A.&nbsp;Fischer, M.&nbsp;Wüthrich, M.&nbsp;Liwicki, V.&nbsp;Frinken, H.&nbsp;Bunke, G.&nbsp;Viehhauser, M.&nbsp;Stolz<br />
@@ -3185,7 +3193,7 @@ medieval documents},
 }</pre>
 
 
-### 2008
+## 2008
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *An experimental study of graph classification using prototype
 selection*<br />

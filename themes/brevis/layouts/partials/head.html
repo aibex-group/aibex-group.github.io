@@ -3,10 +3,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{{ .Title | markdownify | plainify }}</title>
-  {{ with .Site.Params.description }}
-  <meta name="description" content="{{ . }}">
+  {{ $title := .Site.Title }}
+  {{ if not .IsHome }}
+    {{ with .Title }}{{ $title = printf "%s | %s" (. | markdownify | plainify) $.Site.Title }}{{ end }}
   {{ end }}
+  {{ $description := .Site.Params.description }}
+  {{ with .Description }}{{ $description = . }}{{ end }}
+
+  <title>{{ $title }}</title>
+  <meta name="description" content="{{ $description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <meta property="og:title" content="{{ $title }}">
+  <meta property="og:description" content="{{ $description }}">
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ $title }}">
+  <meta name="twitter:description" content="{{ $description }}">
 
   {{ with .Site.Params.author }}
   <meta name="author" content="{{ . }}">
@@ -14,10 +29,6 @@
 
   {{ with .Site.Params.google_site_verification }}
   <meta name="google-site-verification" content="{{ . }}">
-  {{ end }}
-
-  {{ with .Description }}
-  <meta name="description" content="{{ . }}">
   {{ end }}
 
   <link rel="preload" as="style" href="{{ relURL "css/style.css" }}">

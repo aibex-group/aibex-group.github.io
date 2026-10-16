@@ -6,7 +6,7 @@
 Many historical documents are difficult to transcribe due to different types of degradation, where conventional RGB imaging is often insufficient [1]. This master's thesis focuses on the generation and use of **synthetic hyperspectral (HSI) and multispectral (MSI) data for handwritten text recognition (HTR)**. By transforming existing annotated RGB document datasets into synthetic spectral data, the thesis evaluates whether spectral information can improve HTR performance compared to RGB approaches.
 
 <figure style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/theses/hyperdoc_docs.png" width="60%">
+  <img src="/theses/hyperdoc_docs.webp" width="1200" height="697" loading="lazy" decoding="async" alt="Examples of degraded historical handwritten documents" style="width:60%; height:auto;">
   <figcaption>Figure 1: False RGB images of historical documents extracted from the HYPERDOC dataset [2].</figcaption>
 </figure>
 

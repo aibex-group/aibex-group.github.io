@@ -1,5 +1,7 @@
 name = "Automated HVAC-Concept Audit and Optimisation Using AI"
-image   = "hvac.png"
+image   = "hvac.webp"
+image_width = 800
+image_height = 408
 duration = "2023-2026"
 grant =  "Innosuisse"
 partners   = "HEIA, University of Fribourg, WATTELSE"

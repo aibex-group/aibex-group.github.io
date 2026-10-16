@@ -3,7 +3,7 @@
 
 <div class="project-card">
   <div class="project-image">
-    <img src="{{ $project.image }}" alt="{{ $project.name }}">
+    <img src="{{ $project.image }}" alt="{{ $project.name }}" width="{{ $project.image_width }}" height="{{ $project.image_height }}" loading="lazy" decoding="async">
   </div>
   <div class="project-content">
     <h3 class="project-title">{{ $project.name }}</h3>

@@ -1,5 +1,7 @@
 name = "Combining Image and Graph-Based Neural Networks for Handwriting Recognition"
-image   = "dortmund.png"
+image   = "dortmund.webp"
+image_width = 800
+image_height = 427
 duration = "2024-2027"
 grant =  "Swiss National Science Foundation"
 partners   = "TU Dortmund, University of Fribourg"

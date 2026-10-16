@@ -5,7 +5,7 @@
   <div class="{{ . }}">
 {{- end -}}
 
-{{ readFile $file | markdownify }}
+{{ readFile $file | replaceRE `(?s)^---\s*.*?\s*---\s*` "" | markdownify }}
 
 {{- with $class -}}
   </div>

@@ -320,14 +320,22 @@ def render(entries: list[Entry]) -> str:
             entry.position,
         ),
     )
-    lines: list[str] = []
+    lines: list[str] = [
+        "---",
+        'title: "Publications"',
+        'description: "Publications by the AIBEX research group in artificial intelligence, pattern recognition, document analysis, and related fields."',
+        "---",
+        "",
+        "# Publications",
+        "",
+    ]
     current_year: int | None = None
     for entry in ordered:
         entry_year = year(entry)
         if entry_year != current_year:
             if lines:
                 lines.append("")
-            lines.extend((f"### {entry_year if entry_year >= 0 else 'Unknown'}", ""))
+            lines.extend((f"## {entry_year if entry_year >= 0 else 'Unknown'}", ""))
             current_year = entry_year
         color = COLOR_SQUARE.get(entry.entry_type, COLOR_SQUARE["misc"])
         lines.extend(

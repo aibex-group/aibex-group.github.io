@@ -1,5 +1,7 @@
 name = "AI-Supported Human-Computer Interaction with Large Volumes of Historical Documents"
-image   = "dodis.png"
+image   = "dodis.webp"
+image_width = 800
+image_height = 290
 duration = "2025-2029"
 grant =  "Swiss National Science Foundation"
 partners   = "University of Bern, University of Fribourg, DODIS"
