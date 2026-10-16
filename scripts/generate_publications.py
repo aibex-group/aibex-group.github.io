@@ -258,18 +258,19 @@ def publication_info(entry: Entry) -> str:
 
 def title_markup(entry: Entry) -> str:
     title = html.escape(plain_text(entry.fields.get("title", "Untitled")))
-    doi = plain_text(entry.fields.get("doi", ""))
-    url = plain_text(entry.fields.get("url", ""))
-    eprint = plain_text(entry.fields.get("eprint", ""))
-    if doi:
-        target = doi if doi.startswith(("http://", "https://")) else f"https://doi.org/{doi}"
-    elif url:
-        target = url
-    elif eprint:
-        target = f"https://arxiv.org/abs/{eprint}"
-    else:
-        return f"*{title}*"
-    return f"[*{title}*]({target})"
+    return f"*{title}*"
+    # doi = plain_text(entry.fields.get("doi", ""))
+    # url = plain_text(entry.fields.get("url", ""))
+    # eprint = plain_text(entry.fields.get("eprint", ""))
+    # if doi:
+    #     target = doi if doi.startswith(("http://", "https://")) else f"https://doi.org/{doi}"
+    # elif url:
+    #     target = url
+    # elif eprint:
+    #     target = f"https://arxiv.org/abs/{eprint}"
+    # else:
+    #     return f"*{title}*"
+    # return f"[*{title}*]({target})"
 
 
 def links_markup(entry: Entry) -> str:
@@ -290,6 +291,8 @@ def links_markup(entry: Entry) -> str:
             "</a>"
         )
     inline_links = f'<small>{" &bull; ".join(links)}</small>' if links else ""
+    if links:
+        inline_links = inline_links + "<small> &bull; </small>"
     safe_id = re.sub(r"[^A-Za-z0-9_:.]", "_", entry.key)
     bibtex = html.escape(entry.raw)
     bibtex_control = f'''<img src="/icons/bibtex.svg" alt="BibTeX"
