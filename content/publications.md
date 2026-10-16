@@ -1,46 +1,4 @@
-### 2027
-
-<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Modern Summarization Methods for Diplomatic Documents: Current State and Limitations*<br />
-M.&nbsp;Streilein, T.&nbsp;Steiner, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
-Pattern Recognition, pp. 558--573, 2027<br />
-  <img src="/icons/bibtex.svg" alt="BibTeX"
-        style="width:48px; vertical-align:middle; cursor:pointer;"
-        onclick="var x=document.getElementById('streilein2027icpr');
-                if(x.style.display==='none'){x.style.display='block';}
-                else{x.style.display='none';}"
-        title="Show BibTeX" />
-    <pre id="streilein2027icpr" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{streilein2027icpr,
-author=&quot;Streilein, Merlin
-and Steiner, Tobias
-and Fischer, Andreas
-and Riesen, Kaspar&quot;,
-title=&quot;Modern Summarization Methods for Diplomatic Documents: Current State and Limitations&quot;,
-booktitle=&quot;Pattern Recognition&quot;,
-year=&quot;2027&quot;,
-pages=&quot;558--573&quot;,
-}</pre>
-
-
 ### 2026
-
-<span style='color:rgb(195, 43, 114)'>&#9724;</span>  *BAAS: Benchmarking Adversarial Agent Strategies : a comparative study of gradient-based,  reinforcement,  and evolutionary paradigms for safety-critical scenario generation*<br />
-C.&nbsp;Frischknecht-Gruber, M.&nbsp;Reif, A.&nbsp;Fischer<br />
-Preprint, 2026<br />
-  <img src="/icons/bibtex.svg" alt="BibTeX"
-        style="width:48px; vertical-align:middle; cursor:pointer;"
-        onclick="var x=document.getElementById('frischknecht_gruber2026');
-                if(x.style.display==='none'){x.style.display='block';}
-                else{x.style.display='none';}"
-        title="Show BibTeX" />
-    <pre id="frischknecht_gruber2026" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@article{frischknecht-gruber2026,
-  author = {{Frischknecht-Gruber,  Carmen} and {Reif,  Monika} and {Fischer,  Andreas}},
-  keywords = {Scenario generation,  Autonomous systems,  Testing,  Reinforcement learning,  Machine learning,  629: Luftfahrt- und Fahrzeugtechnik},
-  language = {en},
-  title = {BAAS: Benchmarking Adversarial Agent Strategies : a comparative study of gradient-based,  reinforcement,  and evolutionary paradigms for safety-critical scenario generation},
-  year = {2026}
-}</pre>
 
 <span style='color:rgb(195, 43, 114)'>&#9724;</span>  *GrEp: Graph-based epithelial cell classification refinement in histopathology H&amp;E images*<br />
 A.&nbsp;Frei, J.&nbsp;Garcia-Baroja, T.&nbsp;Rau, C.&nbsp;Neppl, A.&nbsp;Lugli, W.&nbsp;Solass, M.&nbsp;Wartenberg, A.&nbsp;Fischer, I.&nbsp;Zlobec<br />
@@ -62,6 +20,24 @@ file = {/research/papers/Frei2025.pdf},
 year = {2026}
 }</pre>
 
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *BAAS: Benchmarking Adversarial Agent Strategies : a comparative study of gradient-based,  reinforcement,  and evolutionary paradigms for safety-critical scenario generation*<br />
+C.&nbsp;Frischknecht-Gruber, M.&nbsp;Reif, A.&nbsp;Fischer<br />
+Proceedings of European Safety and Reliability Conference (ESREL 2026)<br />
+  <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('frischknecht_gruber2026');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="frischknecht_gruber2026" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{frischknecht-gruber2026,
+  author = {{Frischknecht-Gruber,  Carmen} and {Reif,  Monika} and {Fischer,  Andreas}},
+  language = {en},
+  title = {BAAS: Benchmarking Adversarial Agent Strategies : a comparative study of gradient-based,  reinforcement,  and evolutionary paradigms for safety-critical scenario generation},
+  year = {2026}
+  booktitle = {Proceedings of European Safety and Reliability Conference (ESREL 2026)}
+}</pre>
+
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *BullingerDB: A Dataset for Handwritten Text Recognition and Writer Retrieval*<br />
 M.&nbsp;Peer, A.&nbsp;Scius-Bertrand, P.&nbsp;Scheurer, A.&nbsp;Fischer<br />
 Document Analysis and Recognition – ICDAR 2026, pp. 555–571<br />
@@ -72,7 +48,7 @@ Document Analysis and Recognition – ICDAR 2026, pp. 555–571<br />
                 else{x.style.display='none';}"
         title="Show BibTeX" />
     <pre id="Peer2026" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Peer2026,
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Peer2026,
   title = {BullingerDB: A Dataset for Handwritten Text Recognition and Writer Retrieval},
   ISBN = {9783032360335},
   ISSN = {1611-3349},
@@ -82,6 +58,76 @@ Document Analysis and Recognition – ICDAR 2026, pp. 555–571<br />
   year = {2026},
   month = Aug,
   pages = {555–571}
+}</pre>
+
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Generating Synthetic Data with Diffusion Models
+                for Writer Identification*<br />
+H.&nbsp;Yazbeck, M.&nbsp;Peer, A.&nbsp;Fischer<br />
+Proceedings of the International Workshop on
+               Structural and Syntactic Pattern Recognition (SSPR@ICPR2026)<br />
+  <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('Yazbeck2026Synthetic');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="Yazbeck2026Synthetic" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Yazbeck2026Synthetic,
+  title     = {{Generating Synthetic Data with Diffusion Models
+                for Writer Identification}},
+  author    = {Yazbeck, Hamza and
+               Peer, Marco and
+               Fischer, Andreas},
+  booktitle = {Proceedings of the International Workshop on
+               Structural and Syntactic Pattern Recognition (SSPR@ICPR2026)},
+  year      = {2026}
+}</pre>
+
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Handwriting Extraction and Analysis of Signature
+                Lists in Swiss Popular Initiatives*<br />
+M.&nbsp;Peer, T.&nbsp;Gorges, M.&nbsp;Seuret, V.&nbsp;Christlein, A.&nbsp;Fischer<br />
+Proceedings of the International Carnahan Conference
+               on Security Technology (ICCST), 2026<br />
+  <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('Peer2026Handwriting');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="Peer2026Handwriting" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Peer2026Handwriting,
+  title     = {{Handwriting Extraction and Analysis of Signature
+                Lists in Swiss Popular Initiatives}},
+  author    = {Peer, Marco and
+               Gorges, Thomas and
+               Seuret, Mathias and
+               Christlein, Vincent and
+               Fischer, Andreas},
+  booktitle = {Proceedings of the International Carnahan Conference
+               on Security Technology (ICCST)},
+  year      = {2026},
+  address   = {Gran Canaria, Spain}
+}</pre>
+
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Modern Summarization Methods for Diplomatic Documents: Current State and Limitations*<br />
+M.&nbsp;Streilein, T.&nbsp;Steiner, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
+Pattern Recognition, pp. 558--573, 2026<br />
+  <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('streilein2026icpr');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="streilein2026icpr" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{streilein2026icpr,
+author=&quot;Streilein, Merlin
+and Steiner, Tobias
+and Fischer, Andreas
+and Riesen, Kaspar&quot;,
+title=&quot;Modern Summarization Methods for Diplomatic Documents: Current State and Limitations&quot;,
+booktitle=&quot;Pattern Recognition&quot;,
+year=&quot;2026&quot;,
+pages=&quot;558--573&quot;,
 }</pre>
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Prediction of Grade,  Gender,  and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model*<br />
@@ -118,7 +164,7 @@ AI4Law Workshop at the International Conference
                 else{x.style.display='none';}"
         title="Show BibTeX" />
     <pre id="an2026reasoning" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{an2026reasoning,
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{an2026reasoning,
   title     = {Reasoning Before Translation: Enhancing Legal
                Machine Translation with Structured Reasoning},
   author    = {An, Aixiu and Jungo, Michael and Eynard, Eloi
@@ -137,7 +183,7 @@ AI4Law Workshop at the International Conference
                 Unsupervised Learning in Optical Character Recognition*<br />
 T.&nbsp;Hallyburton, A.&nbsp;Scius-Bertrand, A.&nbsp;Neto, A.&nbsp;Fischer, G.&nbsp;A.&nbsp;Fink<br />
 Proceedings of the International Workshop on
-               Historical Document Imaging and Processing (HIP), 2026<br />**Best Paper Award**<br />
+               Historical Document Imaging and Processing (HIP@ICDAR2026)<br />**Best Paper Award**<br />
   <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
         onclick="var x=document.getElementById('Hallyburton2026RER');
@@ -154,11 +200,31 @@ Proceedings of the International Workshop on
                Fischer, Andreas and
                Fink, Gernot A.},
   booktitle = {Proceedings of the International Workshop on
-               Historical Document Imaging and Processing (HIP)},
+               Historical Document Imaging and Processing (HIP@ICDAR2026)},
   year      = {2026},
   address   = {Vienna, Austria},
   month     = sep,
   note = {{Best Paper Award}}
+}</pre>
+
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Rerankers in the SHADOW: What Dense Retrieval Leaves Behind*<br />
+T.&nbsp;Steiner, M.&nbsp;Streilein, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
+Artificial Neural Networks in Pattern Recognition, pp. 179–191, 2026<br />
+  <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('Steiner2026');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="Steiner2026" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Steiner2026,
+  title = {Rerankers in the SHADOW: What Dense Retrieval Leaves Behind},
+  booktitle = {Artificial Neural Networks in Pattern Recognition},
+  publisher = {Springer Nature Switzerland},
+  author = {Steiner,  Tobias and Streilein,  Merlin and Fischer,  Andreas and Riesen,  Kaspar},
+  year = {2026},
+  month = Sept,
+  pages = {179–191}
 }</pre>
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Segmentation-Free Handwriting Recognition in Historical Handwritten Documents Using Large Vision-Language Models*<br />
@@ -171,7 +237,7 @@ Information and Communication Technology, pp. 126–140, 2026<br />
                 else{x.style.display='none';}"
         title="Show BibTeX" />
     <pre id="Hallyburton2026" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Hallyburton2026,
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Hallyburton2026,
   title = {Segmentation-Free Handwriting Recognition in Historical Handwritten Documents Using Large Vision-Language Models},
   ISBN = {9789819226009},
   ISSN = {1865-0937},
@@ -217,7 +283,7 @@ Proceedings of the International Workshop on
                 else{x.style.display='none';}"
         title="Show BibTeX" />
     <pre id="Van2026Timeline" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Van2026Timeline,
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Van2026Timeline,
   title     = {{Timeline Embedding for Papy-Date, a New Dataset of
                 Greek Papyri Dated to the Year}},
   author    = {Van, Dinh Dung and
@@ -230,7 +296,7 @@ Proceedings of the International Workshop on
                Marthot-Santaniello, Isabelle},
   booktitle = {Proceedings of the International Workshop on
                Computational Palaeography (IWCP@ICDAR2026)},
-  year      = {2026},
+  year      = {2026}
 }</pre>
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Token Selection Strategies for Automatic Summarization of Historical Documents*<br />
@@ -243,7 +309,7 @@ Document Analysis and Recognition – ICDAR 2026, pp. 195–210<br />
                 else{x.style.display='none';}"
         title="Show BibTeX" />
     <pre id="Streilein2026" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{Streilein2026,
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Streilein2026,
   title = {Token Selection Strategies for Automatic Summarization of Historical Documents},
   ISBN = {9783032360335},
   ISSN = {1611-3349},
@@ -255,28 +321,26 @@ Document Analysis and Recognition – ICDAR 2026, pp. 195–210<br />
   pages = {195–210}
 }</pre>
 
-<span style='color:rgb(136, 85, 34)'>&#9724;</span>  *Rerankers in the SHADOW: What Dense Retrieval Leaves Behind*<br />
-T.&nbsp;Steiner, M.&nbsp;Streilein, A.&nbsp;Fischer, K.&nbsp;Riesen<br />
-Artificial Neural Networks in Pattern Recognition, pp. 179–191, 2026<br />
+
+### 2025
+
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Cross-Entropy Regularization with Mutual Information in Training CNNs*<br />
+C.&nbsp;Zaugg, R.&nbsp;Ingold, D.&nbsp;Trendafilov, A.&nbsp;Fischer<br />
+Artificial Life and Evolutionary Computation, pp. 198–207, 2025<br />
   <img src="/icons/bibtex.svg" alt="BibTeX"
         style="width:48px; vertical-align:middle; cursor:pointer;"
-        onclick="var x=document.getElementById('Steiner2026');
+        onclick="var x=document.getElementById('Zaugg2025');
                 if(x.style.display==='none'){x.style.display='block';}
                 else{x.style.display='none';}"
         title="Show BibTeX" />
-    <pre id="Steiner2026" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inbook{Steiner2026,
-  title = {Rerankers in the SHADOW: What Dense Retrieval Leaves Behind},
-  booktitle = {Artificial Neural Networks in Pattern Recognition},
-  publisher = {Springer Nature Switzerland},
-  author = {Steiner,  Tobias and Streilein,  Merlin and Fischer,  Andreas and Riesen,  Kaspar},
-  year = {2026},
-  month = Sept,
-  pages = {179–191}
+    <pre id="Zaugg2025" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Zaugg2025,
+  title = {Cross-Entropy Regularization with Mutual Information in Training CNNs},
+  booktitle = {Artificial Life and Evolutionary Computation},
+  author = {Zaugg,  Ch. and Ingold,  R. and Trendafilov,  D. and Fischer,  A.},
+  year = {2025},
+  pages = {198–207}
 }</pre>
-
-
-### 2025
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *CTC Transcription Alignment of the Bullinger Letters: Automatic Improvement of Annotation Quality*<br />
 M.&nbsp;Peer, A.&nbsp;Scius-Bertrand, A.&nbsp;Fischer<br />
@@ -356,6 +420,24 @@ Proc. 18th Int. Conf. on Document Analysis and Recognition (ICDAR), pp. 175--191
   pages = {175--191},
   title = {Are Layout Analysis and OCR Still Useful for Document Information Extraction Using Foundation Models?},
   year = {2024}
+}</pre>
+
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  *How to Turn a Leaky Learner into a Sealed One*<br />
+C.&nbsp;Zaugg, R.&nbsp;Ingold, R.&nbsp;M.&nbsp;Füchslin, A.&nbsp;Fischer<br />
+Artificial Life and Evolutionary Computation, pp. 29–40, 2024<br />
+  <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('Zaugg2024');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="Zaugg2024" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@InProceedings{Zaugg2024,
+  title = {How to Turn a Leaky Learner into a Sealed One},
+  booktitle = {Artificial Life and Evolutionary Computation},
+  author = {Zaugg,  Ch. and Ingold,  R. and F\&quot;{u}chslin,  R. M. and Fischer,  A.},
+  year = {2024},
+  pages = {29–40}
 }</pre>
 
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Post-Correction of Handwriting Recognition Using Large Language Models*<br />
