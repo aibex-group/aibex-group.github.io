@@ -66,6 +66,33 @@ Document Analysis and Recognition – ICDAR 2026, pp. 645–661<br />
   pages = {645–661}
 }</pre>
 
+<span style='color:rgb(25, 108, 163)'>&#9724;</span>  [*Reasoning Before Translation: Enhancing Legal
+               Machine Translation with Structured Reasoning*](https://icml.cc/virtual/2026/80657)<br />
+A.&nbsp;An, M.&nbsp;Jungo, E.&nbsp;Eynard, M.&nbsp;Drenhaus, A.&nbsp;Fischer, J.&nbsp;Hennebert, S.&nbsp;Rumley<br />
+AI4Law Workshop at the International Conference
+               on Machine Learning (ICML), 2026<br />
+  <img src="/icons/bibtex.svg" alt="BibTeX"
+        style="width:48px; vertical-align:middle; cursor:pointer;"
+        onclick="var x=document.getElementById('an2026reasoning');
+                if(x.style.display==='none'){x.style.display='block';}
+                else{x.style.display='none';}"
+        title="Show BibTeX" />
+    <pre id="an2026reasoning" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">@inproceedings{an2026reasoning,
+  title     = {Reasoning Before Translation: Enhancing Legal
+               Machine Translation with Structured Reasoning},
+  author    = {An, Aixiu and Jungo, Michael and Eynard, Eloi
+               and Drenhaus, Mark and Fischer, Andreas
+               and Hennebert, Jean and Rumley, Sébastien},
+  booktitle = {AI4Law Workshop at the International Conference
+               on Machine Learning (ICML)},
+  year      = {2026},
+  address   = {Seoul, South Korea},
+  month = Jul,
+  primaryClass  = {cs.CL},
+  url       = {https://icml.cc/virtual/2026/80657}
+}</pre>
+
 <span style='color:rgb(25, 108, 163)'>&#9724;</span>  *Segmentation-Free Handwriting Recognition in Historical Handwritten Documents Using Large Vision-Language Models*<br />
 T.&nbsp;Hallyburton, L.&nbsp;Berset, G.&nbsp;A.&nbsp;Fink, A.&nbsp;Fischer, A.&nbsp;Scius-Bertrand<br />
 Information and Communication Technology, pp. 126–140, 2026<br />
