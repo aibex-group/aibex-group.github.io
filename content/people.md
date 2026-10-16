@@ -32,13 +32,14 @@ title: "People"
 <div class="people-card-container">
     {{< person "FP" >}}
     {{< person "Ray" >}}
+    {{< person "WS" >}}
+
 </div>
 
 # Student Assistants
 
 <div class="people-card-container">
-    {{< person "AG" >}}
-    {{< person "SK" >}}
+    {{< person "LD" >}}
 </div>
 
 # Former Members
