@@ -30,13 +30,24 @@ TYPE_ORDER = {
 }
 
 COLOR_SQUARE = {
-    "book": "<span style='color:rgb(255, 213, 0)'>&#9724;</span>",
-    "incollection": "<span style='color:rgb(255, 213, 0)'>&#9724;</span>",
-    "article": "<span style='color:rgb(195, 43, 114)'>&#9724;</span>",
-    "inproceedings": "<span style='color:rgb(25, 108, 163)'>&#9724;</span>",
-    "patent": "<span style='color:rgb(136, 85, 34)'>&#9724;</span>",
-    "misc": "<span style='color:rgb(136, 85, 34)'>&#9724;</span>",
+    "book": "<span class='publication-marker' style='color:rgb(255, 213, 0)' aria-hidden='true'>&#9724;</span>",
+    "incollection": "<span class='publication-marker' style='color:rgb(255, 213, 0)' aria-hidden='true'>&#9724;</span>",
+    "article": "<span class='publication-marker' style='color:rgb(195, 43, 114)' aria-hidden='true'>&#9724;</span>",
+    "inproceedings": "<span class='publication-marker' style='color:rgb(25, 108, 163)' aria-hidden='true'>&#9724;</span>",
+    "patent": "<span class='publication-marker' style='color:rgb(136, 85, 34)' aria-hidden='true'>&#9724;</span>",
+    "misc": "<span class='publication-marker' style='color:rgb(136, 85, 34)' aria-hidden='true'>&#9724;</span>",
 }
+
+PUBLICATION_TYPES = {
+    "article": ("journal", "Journal articles"),
+    "inproceedings": ("conference", "Conference papers"),
+    "book": ("book", "Books and chapters"),
+    "incollection": ("book", "Books and chapters"),
+    "patent": ("patent", "Patents"),
+    "misc": ("other", "Other"),
+}
+
+PUBLICATION_TYPE_ORDER = ("journal", "conference", "book", "patent", "other")
 
 ACCENTS = {
     '"': "\u0308",
@@ -236,15 +247,29 @@ def format_authors(raw: str) -> str:
     return ", ".join(author for author in authors if author).replace("†", "<sup>&dagger;</sup>").replace("‡", "<sup>&Dagger;</sup>")
 
 
+def author_names(raw: str) -> list[str]:
+    names: list[str] = []
+    for name in re.split(r"\s+and\s+", raw.replace("\n", " ")):
+        display_name = html.unescape(format_author(name.strip()).replace("&nbsp;", " "))
+        display_name = display_name.replace("†", "").replace("‡", "").strip()
+        if display_name:
+            names.append(display_name)
+    return names
+
+
+def publication_type(entry_type: str) -> tuple[str, str]:
+    return PUBLICATION_TYPES.get(entry_type, ("other", "Other"))
+
+
 def publication_info(entry: Entry) -> str:
     fields = entry.fields
-    info = plain_text(fields.get("journal", "") or fields.get("booktitle", ""))
+    info = html.escape(plain_text(fields.get("journal", "") or fields.get("booktitle", "")))
     if fields.get("volume"):
-        info += f", Volume {plain_text(fields['volume'])}"
+        info += f", Volume {html.escape(plain_text(fields['volume']))}"
     if fields.get("number"):
-        info += (", " if info else "") + f"Number {plain_text(fields['number'])}"
+        info += (", " if info else "") + f"Number {html.escape(plain_text(fields['number']))}"
     if fields.get("pages"):
-        info += f", pp. {plain_text(fields['pages'])}"
+        info += f", pp. {html.escape(plain_text(fields['pages']))}"
     if not info:
         info = "Preprint"
     year = plain_text(fields.get("year", ""))
@@ -252,25 +277,13 @@ def publication_info(entry: Entry) -> str:
         info += f", {year}"
     note = plain_text(fields.get("note", ""))
     if note:
-        info += f"<br />**{html.escape(note)}**"
+        info += f"<br /><strong>{html.escape(note)}</strong>"
     return info
 
 
 def title_markup(entry: Entry) -> str:
     title = html.escape(plain_text(entry.fields.get("title", "Untitled")))
-    return f"*{title}*"
-    # doi = plain_text(entry.fields.get("doi", ""))
-    # url = plain_text(entry.fields.get("url", ""))
-    # eprint = plain_text(entry.fields.get("eprint", ""))
-    # if doi:
-    #     target = doi if doi.startswith(("http://", "https://")) else f"https://doi.org/{doi}"
-    # elif url:
-    #     target = url
-    # elif eprint:
-    #     target = f"https://arxiv.org/abs/{eprint}"
-    # else:
-    #     return f"*{title}*"
-    # return f"[*{title}*]({target})"
+    return f"<cite>{title}</cite>"
 
 
 def links_markup(entry: Entry) -> str:
@@ -280,19 +293,20 @@ def links_markup(entry: Entry) -> str:
     doi = plain_text(fields.get("doi", ""))
     file_path = plain_text(fields.get("file", ""))
     if eprint and "arxiv" in plain_text(fields.get("eprinttype", "arxiv")).lower():
-        links.append(f"[\\[Preprint\\]](https://arxiv.org/abs/{eprint})")
+        links.append(f'<a href="https://arxiv.org/abs/{html.escape(eprint, quote=True)}">Preprint</a>')
     if doi:
         target = doi if doi.startswith(("http://", "https://")) else f"https://doi.org/{doi}"
-        links.append(f"[\\[DOI\\]]({target})")
+        links.append(f'<small><a href="{html.escape(target, quote=True)}">DOI</a></small>')
     if file_path:
         links.append(
-            f'<a href="{html.escape(file_path, quote=True)}" target="_blank" title="Author\'s copy">'
-            '<img src="/icons/pdf.svg" alt="PDF" style="width:22px; height:22px; vertical-align:middle;" />'
+            f'<a href="{html.escape(file_path, quote=True)}" target="_blank" rel="noopener" title="Author\'s copy">'
+            '<img src="/icons/pdf.svg" alt="PDF" width="22" height="22" />'
             "</a>"
         )
-    inline_links = f'<small>{" &bull; ".join(links)}</small>' if links else ""
-    if links:
-        inline_links = inline_links + "<small> &bull; </small>"
+    # insert whitespace before and after the bullet to avoid it being too close to the links
+    link_separator = ' <small>&bull;</small> '
+
+    inline_links = f'<span class="publication-links">{link_separator.join(links)}</span>' if links else ""
     safe_id = re.sub(r"[^A-Za-z0-9_:.]", "_", entry.key)
     bibtex = html.escape(entry.raw)
     bibtex_control = f'''<img src="/icons/bibtex.svg" alt="BibTeX"
@@ -300,10 +314,11 @@ def links_markup(entry: Entry) -> str:
         onclick="var x=document.getElementById('{safe_id}');
                 if(x.style.display==='none'){{x.style.display='block';}}
                 else{{x.style.display='none';}}"
-        title="Show BibTeX" />
-    <pre id="{safe_id}" style="display:none; padding:2px; border:1px solid #ccc;
-        background:#f9f9f9; white-space: pre-wrap; overflow-x:auto; margin-top:4px;">{bibtex}</pre>'''
-    return f"{inline_links} {bibtex_control}"
+        title="Show BibTeX" />'''
+    bibtex_panel = f'''<pre id="{safe_id}" style="display:none; padding:2px; border:1px solid #ccc;
+        background:#f9f9f9; white-space:pre-wrap; overflow-x:auto; margin-top:4px;">{bibtex}</pre>'''
+    separator = link_separator if links else ""
+    return f'<div class="publication-actions">{inline_links}{separator}{bibtex_control}</div>{bibtex_panel}'
 
 
 def render(entries: list[Entry]) -> str:
@@ -320,6 +335,19 @@ def render(entries: list[Entry]) -> str:
             entry.position,
         ),
     )
+    years = sorted({year(entry) for entry in ordered}, reverse=True)
+    available_types = {publication_type(entry.entry_type)[0] for entry in ordered}
+    type_labels = {key: label for key, label in PUBLICATION_TYPES.values()}
+
+    year_buttons = "".join(
+        f'<button type="button" data-filter-year="{entry_year}" aria-pressed="false">{entry_year if entry_year >= 0 else "Unknown"}</button>'
+        for entry_year in years
+    )
+    type_buttons = "".join(
+        f'<button type="button" data-filter-type="{type_key}" aria-pressed="false">{type_labels[type_key]}</button>'
+        for type_key in PUBLICATION_TYPE_ORDER
+        if type_key in available_types
+    )
     lines: list[str] = [
         "---",
         'title: "Publications"',
@@ -328,25 +356,65 @@ def render(entries: list[Entry]) -> str:
         "",
         "# Publications",
         "",
+        '<div class="publication-explorer">',
+        '  <form class="publication-filters" role="search">',
+        '    <label class="publication-search">Search<input type="search" name="query" placeholder="Title, author, or venue" autocomplete="off"></label>',
+        '    <fieldset class="publication-filter-group"><legend>Year</legend>',
+        f'      <div class="publication-filter-buttons"><button type="button" data-filter-year="" aria-pressed="true">All years</button>{year_buttons}</div>',
+        '    </fieldset>',
+        '    <fieldset class="publication-filter-group"><legend>Publication type</legend>',
+        f'      <div class="publication-filter-buttons"><button type="button" data-filter-type="" aria-pressed="true">All types</button>{type_buttons}</div>',
+        '    </fieldset>',
+        '    <button class="publication-clear" type="button">Clear filters</button>',
+        "  </form>",
+        f'  <p class="publication-count" aria-live="polite">{len(ordered)} publications</p>',
+        '  <div class="publication-list">',
     ]
     current_year: int | None = None
     for entry in ordered:
         entry_year = year(entry)
         if entry_year != current_year:
-            if lines:
-                lines.append("")
-            lines.extend((f"## {entry_year if entry_year >= 0 else 'Unknown'}", ""))
+            if current_year is not None:
+                lines.append("  </section>")
+            year_label = entry_year if entry_year >= 0 else "Unknown"
+            lines.extend(
+                (
+                    f'  <section class="publication-year" data-year="{entry_year}">',
+                    f"    <h2>{year_label}</h2>",
+                )
+            )
             current_year = entry_year
         color = COLOR_SQUARE.get(entry.entry_type, COLOR_SQUARE["misc"])
-        lines.extend(
+        type_key, _ = publication_type(entry.entry_type)
+        names = author_names(entry.fields.get("author", ""))
+        data_authors = html.escape("||".join(names), quote=True)
+        search_text = " ".join(
             (
-                f"{color}  {title_markup(entry)}<br />",
-                f"{format_authors(entry.fields.get('author', ''))}<br />",
-                f"{publication_info(entry)}<br />",
-                f" {links_markup(entry)}",
-                "",
+                plain_text(entry.fields.get("title", "")),
+                " ".join(names),
+                plain_text(entry.fields.get("journal", "") or entry.fields.get("booktitle", "")),
             )
         )
+        data_search = html.escape(" ".join(search_text.split()), quote=True)
+        lines.extend(
+            (
+                f'    <article class="publication-entry" data-year="{entry_year}" data-type="{type_key}" data-authors="{data_authors}" data-search="{data_search}">',
+                f'      <div class="publication-title-row">{color}{title_markup(entry)}</div>',
+                f'      <div class="publication-authors">{format_authors(entry.fields.get("author", ""))}</div>',
+                f'      <div class="publication-venue">{publication_info(entry)}</div>',
+                f"      {links_markup(entry)}",
+                "    </article>",
+            )
+        )
+    if current_year is not None:
+        lines.append("  </section>")
+    lines.extend(
+        (
+            "  </div>",
+            "</div>",
+            '<script src="/js/publications.js" defer></script>',
+        )
+    )
     return "\n".join(lines).rstrip() + "\n"
 
 
